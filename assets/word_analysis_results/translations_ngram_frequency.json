@@ -1,0 +1,806 @@
+{
+  "2-grams": [
+    {
+      "ngram": "final report",
+      "frequency": 1000
+    },
+    {
+      "ngram": "pleural effusion",
+      "frequency": 654
+    },
+    {
+      "ngram": "___ year",
+      "frequency": 402
+    },
+    {
+      "ngram": "year old",
+      "frequency": 402
+    },
+    {
+      "ngram": "___ findings",
+      "frequency": 386
+    },
+    {
+      "ngram": "report examination",
+      "frequency": 380
+    },
+    {
+      "ngram": "examination chest",
+      "frequency": 370
+    },
+    {
+      "ngram": "pulmonary edema",
+      "frequency": 338
+    },
+    {
+      "ngram": "comparison ___",
+      "frequency": 320
+    },
+    {
+      "ngram": "indication ___",
+      "frequency": 316
+    },
+    {
+      "ngram": "no acute",
+      "frequency": 276
+    },
+    {
+      "ngram": "impression no",
+      "frequency": 272
+    },
+    {
+      "ngram": "portable ap",
+      "frequency": 270
+    },
+    {
+      "ngram": "chest radiograph",
+      "frequency": 264
+    },
+    {
+      "ngram": "___ ___",
+      "frequency": 230
+    },
+    {
+      "ngram": "no pneumothorax",
+      "frequency": 222
+    },
+    {
+      "ngram": "no pleural",
+      "frequency": 220
+    },
+    {
+      "ngram": "chest portable",
+      "frequency": 212
+    },
+    {
+      "ngram": "chest pa",
+      "frequency": 212
+    },
+    {
+      "ngram": "pleural effusions",
+      "frequency": 212
+    },
+    {
+      "ngram": "acute cardiopulmonary",
+      "frequency": 204
+    },
+    {
+      "ngram": "lateral views",
+      "frequency": 198
+    },
+    {
+      "ngram": "heart size",
+      "frequency": 198
+    },
+    {
+      "ngram": "focal consolidation",
+      "frequency": 196
+    },
+    {
+      "ngram": "ap indication",
+      "frequency": 182
+    },
+    {
+      "ngram": "report indication",
+      "frequency": 182
+    },
+    {
+      "ngram": "no evidence",
+      "frequency": 178
+    },
+    {
+      "ngram": "chest radiographs",
+      "frequency": 178
+    },
+    {
+      "ngram": "old man",
+      "frequency": 174
+    },
+    {
+      "ngram": "cardiac silhouette",
+      "frequency": 160
+    },
+    {
+      "ngram": "lung volumes",
+      "frequency": 158
+    },
+    {
+      "ngram": "lower lobe",
+      "frequency": 154
+    },
+    {
+      "ngram": "cardiopulmonary process",
+      "frequency": 152
+    },
+    {
+      "ngram": "report history",
+      "frequency": 148
+    },
+    {
+      "ngram": "cardiomediastinal silhouette",
+      "frequency": 144
+    },
+    {
+      "ngram": "hilar contours",
+      "frequency": 140
+    },
+    {
+      "ngram": "comparison chest",
+      "frequency": 138
+    },
+    {
+      "ngram": "technique chest",
+      "frequency": 136
+    },
+    {
+      "ngram": "vascular congestion",
+      "frequency": 136
+    },
+    {
+      "ngram": "right pleural",
+      "frequency": 126
+    },
+    {
+      "ngram": "old woman",
+      "frequency": 124
+    },
+    {
+      "ngram": "right lung",
+      "frequency": 122
+    },
+    {
+      "ngram": "chest comparison",
+      "frequency": 120
+    },
+    {
+      "ngram": "bilateral pleural",
+      "frequency": 116
+    },
+    {
+      "ngram": "ap chest",
+      "frequency": 112
+    },
+    {
+      "ngram": "lat indication",
+      "frequency": 108
+    },
+    {
+      "ngram": "prior study",
+      "frequency": 108
+    },
+    {
+      "ngram": "no focal",
+      "frequency": 106
+    },
+    {
+      "ngram": "left lower",
+      "frequency": 106
+    },
+    {
+      "ngram": "status post",
+      "frequency": 104
+    },
+    {
+      "ngram": "left pleural",
+      "frequency": 104
+    },
+    {
+      "ngram": "indication history",
+      "frequency": 102
+    },
+    {
+      "ngram": "comparison none",
+      "frequency": 102
+    },
+    {
+      "ngram": "lateral comparison",
+      "frequency": 98
+    },
+    {
+      "ngram": "report chest",
+      "frequency": 96
+    },
+    {
+      "ngram": "pulmonary vascular",
+      "frequency": 96
+    },
+    {
+      "ngram": "within normal",
+      "frequency": 94
+    },
+    {
+      "ngram": "normal limits",
+      "frequency": 94
+    },
+    {
+      "ngram": "chest pain",
+      "frequency": 92
+    },
+    {
+      "ngram": "interval change",
+      "frequency": 92
+    },
+    {
+      "ngram": "left lung",
+      "frequency": 90
+    },
+    {
+      "ngram": "lateral chest",
+      "frequency": 90
+    },
+    {
+      "ngram": "wet read",
+      "frequency": 84
+    },
+    {
+      "ngram": "lung base",
+      "frequency": 84
+    },
+    {
+      "ngram": "___ impression",
+      "frequency": 82
+    },
+    {
+      "ngram": "right lower",
+      "frequency": 82
+    },
+    {
+      "ngram": "dr ___",
+      "frequency": 80
+    },
+    {
+      "ngram": "mediastinal contours",
+      "frequency": 78
+    },
+    {
+      "ngram": "history ___",
+      "frequency": 76
+    },
+    {
+      "ngram": "low lung",
+      "frequency": 74
+    },
+    {
+      "ngram": "right upper",
+      "frequency": 72
+    },
+    {
+      "ngram": "endotracheal tube",
+      "frequency": 72
+    },
+    {
+      "ngram": "none findings",
+      "frequency": 72
+    },
+    {
+      "ngram": "___ there",
+      "frequency": 72
+    },
+    {
+      "ngram": "upper lobe",
+      "frequency": 72
+    },
+    {
+      "ngram": "chest tube",
+      "frequency": 70
+    },
+    {
+      "ngram": "mild pulmonary",
+      "frequency": 70
+    },
+    {
+      "ngram": "no pulmonary",
+      "frequency": 68
+    },
+    {
+      "ngram": "radiograph indication",
+      "frequency": 68
+    },
+    {
+      "ngram": "lower lung",
+      "frequency": 68
+    },
+    {
+      "ngram": "chest frontal",
+      "frequency": 66
+    },
+    {
+      "ngram": "clear without",
+      "frequency": 66
+    },
+    {
+      "ngram": "previous radiograph",
+      "frequency": 64
+    },
+    {
+      "ngram": "acute osseous",
+      "frequency": 64
+    },
+    {
+      "ngram": "again seen",
+      "frequency": 64
+    },
+    {
+      "ngram": "______________________________________________________________________________ final",
+      "frequency": 64
+    },
+    {
+      "ngram": "small right",
+      "frequency": 64
+    },
+    {
+      "ngram": "nasogastric tube",
+      "frequency": 62
+    },
+    {
+      "ngram": "read ___",
+      "frequency": 60
+    },
+    {
+      "ngram": "pneumothorax impression",
+      "frequency": 60
+    },
+    {
+      "ngram": "___ history",
+      "frequency": 60
+    },
+    {
+      "ngram": "again noted",
+      "frequency": 58
+    },
+    {
+      "ngram": "consolidation pleural",
+      "frequency": 58
+    },
+    {
+      "ngram": "frontal view",
+      "frequency": 58
+    },
+    {
+      "ngram": "since ___",
+      "frequency": 58
+    },
+    {
+      "ngram": "findings pa",
+      "frequency": 58
+    },
+    {
+      "ngram": "pulmonary vasculature",
+      "frequency": 56
+    },
+    {
+      "ngram": "clinical setting",
+      "frequency": 56
+    },
+    {
+      "ngram": "osseous abnormalities",
+      "frequency": 54
+    },
+    {
+      "ngram": "moderate cardiomegaly",
+      "frequency": 54
+    }
+  ],
+  "3-grams": [
+    {
+      "ngram": "___ year old",
+      "frequency": 402
+    },
+    {
+      "ngram": "final report examination",
+      "frequency": 380
+    },
+    {
+      "ngram": "report examination chest",
+      "frequency": 358
+    },
+    {
+      "ngram": "indication ___ year",
+      "frequency": 310
+    },
+    {
+      "ngram": "chest portable ap",
+      "frequency": 208
+    },
+    {
+      "ngram": "examination chest portable",
+      "frequency": 190
+    },
+    {
+      "ngram": "comparison ___ findings",
+      "frequency": 190
+    },
+    {
+      "ngram": "no pleural effusion",
+      "frequency": 184
+    },
+    {
+      "ngram": "portable ap indication",
+      "frequency": 182
+    },
+    {
+      "ngram": "final report indication",
+      "frequency": 182
+    },
+    {
+      "ngram": "year old man",
+      "frequency": 174
+    },
+    {
+      "ngram": "impression no acute",
+      "frequency": 160
+    },
+    {
+      "ngram": "acute cardiopulmonary process",
+      "frequency": 150
+    },
+    {
+      "ngram": "final report history",
+      "frequency": 148
+    },
+    {
+      "ngram": "no acute cardiopulmonary",
+      "frequency": 146
+    },
+    {
+      "ngram": "ap indication ___",
+      "frequency": 144
+    },
+    {
+      "ngram": "year old woman",
+      "frequency": 124
+    },
+    {
+      "ngram": "right pleural effusion",
+      "frequency": 116
+    },
+    {
+      "ngram": "examination chest pa",
+      "frequency": 114
+    },
+    {
+      "ngram": "bilateral pleural effusions",
+      "frequency": 110
+    },
+    {
+      "ngram": "final report chest",
+      "frequency": 96
+    },
+    {
+      "ngram": "within normal limits",
+      "frequency": 94
+    },
+    {
+      "ngram": "no focal consolidation",
+      "frequency": 94
+    },
+    {
+      "ngram": "technique chest pa",
+      "frequency": 92
+    },
+    {
+      "ngram": "left pleural effusion",
+      "frequency": 90
+    },
+    {
+      "ngram": "left lower lobe",
+      "frequency": 88
+    },
+    {
+      "ngram": "comparison chest radiograph",
+      "frequency": 84
+    },
+    {
+      "ngram": "___ ___ ___",
+      "frequency": 78
+    },
+    {
+      "ngram": "history ___ year",
+      "frequency": 76
+    },
+    {
+      "ngram": "low lung volumes",
+      "frequency": 74
+    },
+    {
+      "ngram": "report chest radiograph",
+      "frequency": 70
+    },
+    {
+      "ngram": "report indication ___",
+      "frequency": 70
+    },
+    {
+      "ngram": "comparison none findings",
+      "frequency": 70
+    },
+    {
+      "ngram": "chest radiograph indication",
+      "frequency": 68
+    },
+    {
+      "ngram": "pulmonary vascular congestion",
+      "frequency": 68
+    },
+    {
+      "ngram": "no acute osseous",
+      "frequency": 64
+    },
+    {
+      "ngram": "______________________________________________________________________________ final report",
+      "frequency": 64
+    },
+    {
+      "ngram": "chest comparison ___",
+      "frequency": 64
+    },
+    {
+      "ngram": "wet read ___",
+      "frequency": 60
+    },
+    {
+      "ngram": "read ___ ___",
+      "frequency": 60
+    },
+    {
+      "ngram": "consolidation pleural effusion",
+      "frequency": 58
+    },
+    {
+      "ngram": "focal consolidation pleural",
+      "frequency": 54
+    },
+    {
+      "ngram": "acute osseous abnormalities",
+      "frequency": 54
+    },
+    {
+      "ngram": "lat indication ___",
+      "frequency": 54
+    },
+    {
+      "ngram": "right lower lobe",
+      "frequency": 54
+    },
+    {
+      "ngram": "comparison ___ impression",
+      "frequency": 52
+    },
+    {
+      "ngram": "indication history ___f",
+      "frequency": 52
+    },
+    {
+      "ngram": "no pulmonary edema",
+      "frequency": 50
+    },
+    {
+      "ngram": "clear without focal",
+      "frequency": 48
+    },
+    {
+      "ngram": "without focal consolidation",
+      "frequency": 48
+    },
+    {
+      "ngram": "small bilateral pleural",
+      "frequency": 46
+    },
+    {
+      "ngram": "left lung base",
+      "frequency": 44
+    },
+    {
+      "ngram": "year old female",
+      "frequency": 44
+    },
+    {
+      "ngram": "final report reason",
+      "frequency": 44
+    },
+    {
+      "ngram": "right upper lobe",
+      "frequency": 44
+    },
+    {
+      "ngram": "comparison chest radiographs",
+      "frequency": 42
+    },
+    {
+      "ngram": "year old male",
+      "frequency": 42
+    },
+    {
+      "ngram": "indication history ___m",
+      "frequency": 40
+    },
+    {
+      "ngram": "lateral comparison ___",
+      "frequency": 40
+    },
+    {
+      "ngram": "right lung base",
+      "frequency": 40
+    },
+    {
+      "ngram": "appropriate clinical setting",
+      "frequency": 40
+    },
+    {
+      "ngram": "impression no evidence",
+      "frequency": 40
+    },
+    {
+      "ngram": "small right pleural",
+      "frequency": 40
+    },
+    {
+      "ngram": "chest radiograph ___",
+      "frequency": 38
+    },
+    {
+      "ngram": "impression ap chest",
+      "frequency": 38
+    },
+    {
+      "ngram": "final report ap",
+      "frequency": 38
+    },
+    {
+      "ngram": "report ap chest",
+      "frequency": 38
+    },
+    {
+      "ngram": "___ history ___",
+      "frequency": 38
+    },
+    {
+      "ngram": "acute cardiopulmonary abnormality",
+      "frequency": 36
+    },
+    {
+      "ngram": "lateral chest radiographs",
+      "frequency": 36
+    },
+    {
+      "ngram": "mild pulmonary edema",
+      "frequency": 36
+    },
+    {
+      "ngram": "ap chest compared",
+      "frequency": 36
+    },
+    {
+      "ngram": "single frontal view",
+      "frequency": 34
+    },
+    {
+      "ngram": "prior chest radiographs",
+      "frequency": 34
+    },
+    {
+      "ngram": "osseous abnormalities impression",
+      "frequency": 34
+    },
+    {
+      "ngram": "___ findings frontal",
+      "frequency": 34
+    },
+    {
+      "ngram": "moderate pulmonary edema",
+      "frequency": 34
+    },
+    {
+      "ngram": "central venous catheter",
+      "frequency": 32
+    },
+    {
+      "ngram": "right internal jugular",
+      "frequency": 32
+    },
+    {
+      "ngram": "final report portable",
+      "frequency": 32
+    },
+    {
+      "ngram": "mild pulmonary vascular",
+      "frequency": 32
+    },
+    {
+      "ngram": "seen impression no",
+      "frequency": 30
+    },
+    {
+      "ngram": "no pleural effusions",
+      "frequency": 30
+    },
+    {
+      "ngram": "no free air",
+      "frequency": 30
+    },
+    {
+      "ngram": "report history ___",
+      "frequency": 30
+    },
+    {
+      "ngram": "examination chest radiograph",
+      "frequency": 28
+    },
+    {
+      "ngram": "dated ___ findings",
+      "frequency": 28
+    },
+    {
+      "ngram": "portable ap radiograph",
+      "frequency": 28
+    },
+    {
+      "ngram": "focal consolidation no",
+      "frequency": 28
+    },
+    {
+      "ngram": "consolidation no pleural",
+      "frequency": 28
+    },
+    {
+      "ngram": "___ findings pa",
+      "frequency": 28
+    },
+    {
+      "ngram": "lat indication history",
+      "frequency": 26
+    },
+    {
+      "ngram": "clear no pleural",
+      "frequency": 26
+    },
+    {
+      "ngram": "chest radiographs ___",
+      "frequency": 26
+    },
+    {
+      "ngram": "acute intrathoracic process",
+      "frequency": 26
+    },
+    {
+      "ngram": "___ comparison ___",
+      "frequency": 26
+    },
+    {
+      "ngram": "small left pleural",
+      "frequency": 26
+    },
+    {
+      "ngram": "no pneumothorax impression",
+      "frequency": 26
+    },
+    {
+      "ngram": "normal limits no",
+      "frequency": 26
+    },
+    {
+      "ngram": "no relevant change",
+      "frequency": 24
+    }
+  ]
+}

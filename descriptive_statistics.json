@@ -1,0 +1,308 @@
+{
+  "dataset_info": {
+    "dataset_path": "data/processed/raw_dataset",
+    "num_reports_analyzed": 500,
+    "random_seed_used": 42,
+    "analysis_timestamp": "2025-09-27T20:10:48.050814"
+  },
+  "basic_statistics": {
+    "total_reports": 500,
+    "unique_patients": 495,
+    "unique_studies": 500,
+    "file_size": {
+      "total_bytes": 337795,
+      "total_mb": 0.32,
+      "avg_bytes": 675.59,
+      "median_bytes": 610.0,
+      "std_bytes": 270.9,
+      "min_bytes": 224,
+      "max_bytes": 2011
+    },
+    "text_length": {
+      "avg_characters": 643.57,
+      "median_characters": 577.0,
+      "std_characters": 273.91,
+      "min_characters": 190,
+      "max_characters": 2009
+    },
+    "word_count": {
+      "avg_words": 88.75,
+      "median_words": 79.5,
+      "std_words": 38.78,
+      "min_words": 26,
+      "max_words": 302
+    }
+  },
+  "partition_analysis": {
+    "total_partitions": 10,
+    "partition_distribution": {
+      "p14": {
+        "count": 51,
+        "percentage": 10.2
+      },
+      "p17": {
+        "count": 55,
+        "percentage": 11.0
+      },
+      "p19": {
+        "count": 56,
+        "percentage": 11.2
+      },
+      "p15": {
+        "count": 49,
+        "percentage": 9.8
+      },
+      "p11": {
+        "count": 51,
+        "percentage": 10.2
+      },
+      "p10": {
+        "count": 53,
+        "percentage": 10.6
+      },
+      "p13": {
+        "count": 58,
+        "percentage": 11.6
+      },
+      "p16": {
+        "count": 43,
+        "percentage": 8.6
+      },
+      "p18": {
+        "count": 42,
+        "percentage": 8.4
+      },
+      "p12": {
+        "count": 42,
+        "percentage": 8.4
+      }
+    },
+    "most_common_partition": [
+      "p13",
+      58
+    ],
+    "least_common_partition": [
+      "p12",
+      42
+    ]
+  },
+  "patient_analysis": {
+    "total_patients": 495,
+    "reports_per_patient": {
+      "avg": 1.01,
+      "median": 1,
+      "std": 0.1,
+      "min": 1,
+      "max": 2
+    },
+    "most_reports_patient": [
+      "p14908132",
+      2
+    ],
+    "least_reports_patient": [
+      "p12582857",
+      1
+    ],
+    "patients_with_multiple_reports": {
+      "count": 5,
+      "percentage": 1.01
+    }
+  },
+  "text_analysis": {
+    "character_analysis": {
+      "avg_characters": 643.57,
+      "median_characters": 577.0,
+      "std_characters": 273.91,
+      "min_characters": 190,
+      "max_characters": 2009
+    },
+    "word_analysis": {
+      "avg_words": 88.75,
+      "median_words": 79.5,
+      "std_words": 38.78,
+      "min_words": 26,
+      "max_words": 302
+    },
+    "sentence_analysis": {
+      "avg_sentences": 8.8,
+      "median_sentences": 8.0,
+      "std_sentences": 3.91,
+      "min_sentences": 1,
+      "max_sentences": 34
+    },
+    "paragraph_analysis": {
+      "avg_paragraphs": 1.0,
+      "median_paragraphs": 1.0,
+      "std_paragraphs": 0.04,
+      "min_paragraphs": 1,
+      "max_paragraphs": 2
+    },
+    "readability": {
+      "flesch_reading_ease": {
+        "avg_score": 9.51,
+        "median_score": 0.0,
+        "std_score": 15.76,
+        "min_score": 0,
+        "max_score": 61.22
+      },
+      "flesch_kincaid_grade_level": {
+        "avg_score": 3.42,
+        "median_score": 0.0,
+        "std_score": 5.42,
+        "min_score": 0,
+        "max_score": 20.01
+      },
+      "automated_readability_index": {
+        "avg_score": 3.2,
+        "median_score": 0.0,
+        "std_score": 5.1,
+        "min_score": 0,
+        "max_score": 20.51
+      },
+      "smog_index": {
+        "avg_score": 0.02,
+        "median_score": 0.0,
+        "std_score": 0.51,
+        "min_score": 0,
+        "max_score": 11.47
+      }
+    }
+  },
+  "medical_terminology_analysis": {
+    "total_medical_term_occurrences": 2790,
+    "medical_term_categories": {
+      "anatomy": {
+        "heart": 161,
+        "lung": 488,
+        "chest": 949,
+        "abdomen": 19,
+        "brain": 3,
+        "spine": 31,
+        "bone": 1,
+        "muscle": 1,
+        "artery": 13,
+        "vein": 15
+      },
+      "procedures": {
+        "surgery": 9,
+        "biopsy": 6,
+        "scan": 8,
+        "x-ray": 25,
+        "mri": 2,
+        "ct": 758,
+        "ultrasound": 0,
+        "endoscopy": 3
+      },
+      "conditions": {
+        "fracture": 66,
+        "tumor": 1,
+        "cancer": 8,
+        "infection": 47,
+        "inflammation": 1,
+        "disease": 42,
+        "syndrome": 1
+      },
+      "medications": {
+        "mg": 0,
+        "ml": 1,
+        "dose": 1,
+        "medication": 1,
+        "drug": 0,
+        "therapy": 1,
+        "treatment": 3
+      },
+      "measurements": {
+        "mm": 58,
+        "cm": 49,
+        "kg": 7,
+        "mg": 0,
+        "ml": 1,
+        "degree": 6,
+        "percent": 0,
+        "%": 4
+      }
+    },
+    "most_common_medical_terms": [
+      [
+        "chest",
+        949
+      ],
+      [
+        "ct",
+        758
+      ],
+      [
+        "lung",
+        488
+      ],
+      [
+        "heart",
+        161
+      ],
+      [
+        "fracture",
+        66
+      ],
+      [
+        "mm",
+        58
+      ],
+      [
+        "cm",
+        49
+      ],
+      [
+        "infection",
+        47
+      ],
+      [
+        "disease",
+        42
+      ],
+      [
+        "spine",
+        31
+      ],
+      [
+        "x-ray",
+        25
+      ],
+      [
+        "abdomen",
+        19
+      ],
+      [
+        "vein",
+        15
+      ],
+      [
+        "artery",
+        13
+      ],
+      [
+        "surgery",
+        9
+      ],
+      [
+        "scan",
+        8
+      ],
+      [
+        "cancer",
+        8
+      ],
+      [
+        "kg",
+        7
+      ],
+      [
+        "biopsy",
+        6
+      ],
+      [
+        "degree",
+        6
+      ]
+    ]
+  }
+}

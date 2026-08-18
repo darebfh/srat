@@ -1,0 +1,28 @@
+sequenceDiagram
+    participant App as S-RAT<br/>Pipeline
+    participant Azure as Azure Text Analytics<br/>(local instance)
+    participant UMLS as UMLS<br/>Terminology Service
+    participant SNOMED as SNOMED CT<br/>Server (local)
+    participant Fallback as Fallback<br/>Translation List
+    participant LLM as Open-Source<br/>Language Model (local)
+
+    App->>Azure: Extract clinical entities
+    Azure-->>App: Medical concepts with UMLS CUIs
+
+    loop For each extracted concept
+        App->>App: Check if SNOMED CT ID available
+        alt No SNOMED CT ID
+            App->>UMLS: Retrieve SNOMED CT mapping
+            UMLS-->>App: SNOMED CT ID
+        end
+        App->>SNOMED: Retrieve translated term
+        alt No translation available
+            App->>Fallback: Use human-verified translation
+            Fallback-->>App: Localized term
+        else Translation found
+            SNOMED-->>App: Localized term
+        end
+    end
+
+    App->>LLM: Construct prompt with localized terms<br/>and translate full report
+    LLM-->>App: Final translated report

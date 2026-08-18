@@ -1,0 +1,178 @@
+term,total_count,translation_de,sources,verified
+central venous catheter,10,Zentraler Venenkatheter,umls,TRUE
+female,23,weiblich,umls,TRUE
+wet read,84,Vorläufiger Befund,analysis,TRUE
+prior study,108,vorherige Untersuchung,analysis,TRUE
+altered mental status,9,Veränderter Bewusstseinszustand,umls,TRUE
+scarring,9,Vernarbung,umls,TRUE
+enlarged,12,vergrössert,umls,TRUE
+comparison,864,Vergleich,analysis,TRUE
+interval change,10,Veränderung,,TRUE
+internal jugular,12,Vena jugularis interna,,TRUE
+vascular,210,vaskulär,analysis,TRUE
+exam,23,Untersuchung,umls,TRUE
+examination,22,Untersuchung,umls,TRUE
+lower lobe,14,Unterlappen,umls,TRUE
+tracheostomy tube,10,Trachealkanäle,umls,TRUE
+opacification,20,Trübung,umls,TRUE
+Tortuosity,11,Tortuosität,umls,TRUE
+Chest pain,43,Thoraxschmerz,umls,TRUE
+chest tube,21,Thoraxdrainage,umls,TRUE
+chest portable ap,208,"Thorax, mobil, p.a.",analysis,TRUE
+chest portable,212,"Thorax, mobil",analysis,TRUE
+Chest radiographs,59,Thorax-Röntgen,umls,TRUE
+chest x-ray,12,Thorax-Röntgen,umls,TRUE
+chest CT,12,Thorax-Röntgen,umls,TRUE
+CHEST RADIOGRAPH,110,Thorax-Röntgen,,TRUE
+CT chest,8,Thorax-CT,umls,TRUE
+Chest frontal,9,Thorax frontal,umls,TRUE
+CHEST,370,Thorax,umls,TRUE
+syncope,7,Synkope,umls,TRUE
+subclavian,9,subklavikulär,umls,TRUE
+Fall,9,Sturz,umls,TRUE
+status post,104,status post,analysis,TRUE
+costophrenic angle,10,Sinus costodiaphragmaticus,umls,TRUE
+silhouette,310,Silhouette,analysis,TRUE
+pain,10,Schmerzen,umls,TRUE
+rib fractures,7,Rippenfraktur,umls,TRUE
+right atrium,11,Rechter Vorhof,umls,TRUE
+right lower lobe,13,Rechter Unterlappen,umls,TRUE
+right upper lobe,9,Rechter Oberlappen,umls,TRUE
+right ventricle,9,Rechte Herzkammer,umls,TRUE
+mass,12,Raumforderung,umls,TRUE
+radiographs,21,Röntgenaufnahmen,umls,TRUE
+radiograph,58,Röntgenaufnahme,umls,TRUE
+Port-A-Cath,11,Portkatheter,,TRUE
+pneumothorax,346,Pneumothorax,umls,TRUE
+PTX,14,Pneumothorax,umls,TRUE
+pneumonia,181,Pneumonie,umls,TRUE
+pna,24,Pneumonie,umls,TRUE
+pleural thickening,10,Pleuraverdickung,umls,TRUE
+pleural,30,Pleural,umls,TRUE
+pleural effusion,150,Pleuraerguss,umls,TRUE
+pleural effusions,59,Pleuraerguss,umls,TRUE
+"pleural
+ effusion",24,Pleuraerguss,umls,TRUE
+"pleural
+ effusions",8,Pleuraerguss,umls,TRUE
+PICC line,17,PICC,umls,TRUE
+PICC,21,PICC,,TRUE
+PA and lateral views,10,P.a. und laterale  Aufnahmen,,TRUE
+PA,128,p.a.,umls,TRUE
+lung opacities,7,Opazitäten der Lunge,,TRUE
+opacities,54,Opazitäten,umls,TRUE
+opacity,96,Opazität,umls,TRUE
+upper lobe,10,Oberlappen,umls,TRUE
+normal limits,94,Normbereich,analysis,TRUE
+normal,11,Normal,umls,TRUE
+NG tube,16,Nasensonde,umls,TRUE
+nasogastric tube,27,Nasensonde,,TRUE
+portable ap,270,"mobil, p.a.",analysis,TRUE
+mediastinum,22,Mediastinum,umls,TRUE
+mediastinal,57,mediastinal,umls,TRUE
+median sternotomy,9,Median-Sternotomie,umls,TRUE
+man,88,Mann,umls,TRUE
+M,45,Mann,umls,TRUE
+stomach,46,Magen,,TRUE
+male,22,männlich,umls,TRUE
+lymphadenopathy,7,Lymphadenopathie,umls,TRUE
+Lung volumes,27,Lungenvolumen,umls,TRUE
+"pulmonary vascular
+ congestion",9,Lungenödem,,TRUE
+Pulmonary vasculature,8,Lungengefässe,,TRUE
+pleural fluid,9,Lungenflüssigkeit,umls,TRUE
+lung base,36,Lungenbasis,umls,TRUE
+lung bases,16,Lungenbasen,umls,TRUE
+pulmonary edema,117,Lungenödem,umls,TRUE
+"pulmonary
+ edema",15,Lungenödem,umls,TRUE
+pulmonary vascular congestion,16,Lungenödem,,TRUE
+lungs,31,Lungen,umls,TRUE
+lung,90,Lunge,umls,TRUE
+left lower lobe,15,Linker Unterlappen,umls,TRUE
+lateral views,75,Lateralansichten,,TRUE
+lateral view,10,Lateralansicht,,TRUE
+lateral,48,Lateral,umls,TRUE
+LAT,58,lateral,,TRUE
+consolidation,165,Konsolidierung,umls,TRUE
+consolidations,15,Konsolidierung,umls,TRUE
+collapse,10,Kollaps,umls,TRUE
+clinical setting,56,klinisches Umfeld,analysis,TRUE
+clear,24,Klar,umls,TRUE
+no relevant change,24,keine relevanten Vernderungen,analysis,TRUE
+no evidence,178,kein Hinweis,analysis,TRUE
+catheter,8,Katheter,umls,TRUE
+line,7,Katheter,umls,TRUE
+cardiopulmonary disease,7,Kardiopulmonale Erkrankung,umls,TRUE
+cardiopulmonary,206,kardiopulmonal,analysis,TRUE
+cardiomegaly,62,Kardiomegalie,umls,TRUE
+cardiomediastinal silhouette,144,kardio-mediastinale Silhouette,analysis,TRUE
+CABG,15,Kardiale Revaskularisierung mit Bypass-Anastomose,umls,TRUE
+cardiac,49,Kardial,umls,TRUE
+intubation,13,Intubation,umls,TRUE
+infiltrate,18,Infiltration,umls,TRUE
+infection,35,Infektion,,TRUE
+indication,640,Indikation,analysis,TRUE
+compared,246,im Vergleich zu,analysis,TRUE
+within normal limits,94,im Normbereich,analysis,TRUE
+hypoxia,7,Hypoxie,umls,TRUE
+cough,79,Husten,umls,TRUE
+evidence,260,Hinweis,analysis,TRUE
+hilar,15,hilär,umls,TRUE
+hiatal hernia,10,Hiatushernie,umls,TRUE
+cardiac silhouette,9,Herzsilhouette,,TRUE
+CHF,25,Herzinsuffizienz,umls,TRUE
+Heart size,24,Herzgrösse,,TRUE
+Heart,30,Herz,umls,TRUE
+hemithorax,19,Hemithorax,umls,TRUE
+hemidiaphragm,23,Hemidiaphragma,umls,TRUE
+neck,10,Hals,umls,TRUE
+engorged,13,geschwollen,,TRUE
+Frontal view,10,Frontalsicht,,TRUE
+Frontal,39,Frontal,umls,TRUE
+woman,62,Frau,umls,TRUE
+F,48,Frau,umls,TRUE
+fracture,15,Fraktur,umls,TRUE
+fractures,7,Fraktur,umls,TRUE
+focal consolidation,196,fokale Konsolidierung,analysis,TRUE
+focal,284,fokal,analysis,TRUE
+fever,28,Fieber,umls,TRUE
+Elevation,15,Erhöhung,umls,TRUE
+effusion,59,Erguss,umls,TRUE
+effusions,20,Ergüsse,umls,TRUE
+vomiting,7,Erbrechen,umls,TRUE
+Endotracheal tube,25,Endotrachealtubus,umls,TRUE
+final report,1000,Endbericht,analysis,TRUE
+shortness of breath,23,Dyspnoe,umls,TRUE
+dyspnea,15,Dyspnoe,umls,TRUE
+sob,13,Dyspnoe,umls,TRUE
+diaphragm,19,Diaphragma,umls,TRUE
+degenerative changes,19,Degenerative Veränderungen,umls,TRUE
+CT,33,CT,umls,TRUE
+COPD,15,COPD,umls,TRUE
+Surgical clips,8,chirurgische Klammern,umls,TRUE
+carina,29,Carina,umls,TRUE
+thoracic spine,17,Brustwirbelsäule,umls,TRUE
+chest wall,9,Brustwand,umls,TRUE
+impression no evidence,40,Beurteilung: kein Hinweis,analysis,TRUE
+impression,814,Beurteilung,analysis,TRUE
+report,1004,Bericht,analysis,TRUE
+Aeration,14,Belüftung,,TRUE
+bilateral,232,beidseitig,analysis,TRUE
+findings,7,Befunde,,TRUE
+bases,8,Basis,umls,TRUE
+base,31,Basis,,TRUE
+basilar,9,basilar,,TRUE
+study,14,Aufnahme,,TRUE
+atelectasis,129,Atelektase,umls,TRUE
+Aspiration,32,Aspiration,umls,TRUE
+thoracic aorta,9,Aorta thoracica,umls,TRUE
+view,192,Ansicht,analysis,TRUE
+appropriate clinical setting,40,angemessenes klinisches Umfeld,analysis,TRUE
+acute cardiopulmonary,204,akut kardiopulmonal,analysis,TRUE
+acute,466,akut,analysis,TRUE
+Blunting,17,abgeflacht,umls,TRUE
+abdomen,9,Abdomen,umls,TRUE
+AP,14,a.p.,umls,TRUE
+hyperinflated,11,überbläht,umls,TRUE
+edema,28,Ödem,umls,TRUE

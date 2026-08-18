@@ -1,0 +1,33 @@
+sequenceDiagram
+    participant User as User
+    participant App as Translation App
+    participant Azure as Azure<br/>Text Analytics
+    participant UMLS as UMLS<br/>Terminology
+    participant SNOMED as SNOMED CT<br/>Service
+    participant Fallback as Fallback<br/>Translation List
+    participant LLM as LLM<br/>(Ollama)
+
+    User->>App: Translate medical text
+    
+    App->>Azure: Extract medical entities
+    Azure-->>App: Medical concepts with codes
+    
+    loop For each concept
+        App->>App: Check if concept has SNOMED code
+        alt No SNOMED code
+            App->>UMLS: Convert to SNOMED code
+            UMLS-->>App: SNOMED code
+        end
+        App->>SNOMED: Get translated term
+        alt No translation in SNOMED
+            App->>Fallback: Retrieve human-verified translation
+            Fallback-->>App: Localized medical term
+        else Translation available
+            SNOMED-->>App: Localized medical term
+        end
+    end
+    
+    App->>LLM: Translate with medical context
+    LLM-->>App: Final translation
+    
+    App-->>User: Translated medical text

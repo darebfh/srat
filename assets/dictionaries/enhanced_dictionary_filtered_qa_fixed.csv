@@ -1,0 +1,169 @@
+﻿term,total_count,translation_de,sources,verified
+acute,466,akut,analysis,True
+acute cardiopulmonary,204,akut kardiopulmonal,analysis,True
+appropriate clinical setting,40,angemessenes klinisches Umfeld,analysis,True
+view,192,Ansicht,analysis,True
+bilateral,232,beidseitig,analysis,True
+report,1004,Bericht,analysis,True
+impression,814,Beurteilung,analysis,True
+impression no evidence,40,Beurteilung: kein Hinweis,analysis,True
+final report,1000,Endbericht,analysis,True
+focal,284,fokal,analysis,True
+evidence,260,Hinweis,analysis,True
+compared,246,im Vergleich zu,analysis,True
+indication,640,Indikation,analysis,True
+cardiomediastinal silhouette,144,kardio-mediastinale Silhouette,analysis,True
+cardiopulmonary,206,kardiopulmonal,analysis,True
+no evidence,178,kein Hinweis,analysis,True
+clinical setting,56,klinisches Umfeld,analysis,True
+silhouette,310,Silhouette,analysis,True
+vascular,210,vaskul�r,analysis,True
+comparison,864,Vergleich,analysis,True
+wet read,84,Vorl�ufiger Befund,analysis,True
+edema,28,Ödem,umls,True
+hyperinflated,11,überbläht,umls,True
+AP,14,a.p.,umls,True
+abdomen,9,Abdomen,umls,True
+CHF,25,Herzinsuffizienz,umls,True
+thoracic aorta,9,Aorta thoracica,umls,True
+Aspiration,32,Aspiration,umls,True
+atelectasis,129,Atelektase,umls,True
+bases,8,Basis,umls,True
+chest wall,9,Brustwand,umls,True
+thoracic spine,17,Brustwirbelsäule,umls,True
+carina,29,Carina,umls,True
+Surgical clips,8,chirurgische Klammern,umls,True
+COPD,15,COPD,umls,True
+cardiopulmonary disease,7,Kardiopulmonale Erkrankung,umls,True
+CT,33,CT,umls,True
+degenerative changes,19,Degenerative Veränderungen,umls,True
+diaphragm,19,Diaphragma,umls,True
+shortness of breath,23,Dyspnoe,umls,True
+dyspnea,15,Dyspnoe,umls,True
+sob,13,Dyspnoe,umls,True
+Endotracheal tube,25,Endotrachealtubus,umls,True
+vomiting,7,Erbrechen,umls,True
+effusions,20,Ergüsse,umls,True
+effusion,59,Erguss,umls,True
+Elevation,15,Erhöhung,umls,True
+fever,28,Fieber,umls,True
+fracture,15,Fraktur,umls,True
+fractures,7,Fraktur,umls,True
+woman,62,Frau,umls,True
+F,48,Frau,umls,True
+Frontal,39,Frontal,umls,True
+neck,10,Hals,umls,True
+hemidiaphragm,23,Hemidiaphragma,umls,True
+hemithorax,19,Hemithorax,umls,True
+Heart,30,Herz,umls,True
+hiatal hernia,10,Hiatushernie,umls,True
+hilar,15,hilär,umls,True
+cough,79,Husten,umls,True
+hypoxia,7,Hypoxie,umls,True
+infiltrate,18,Infiltration,umls,True
+intubation,13,Intubation,umls,True
+cardiac,49,Kardial,umls,True
+CABG,15,Kardiale Revaskularisierung mit Bypass-Anastomose,umls,True
+cardiomegaly,62,Kardiomegalie,umls,True
+catheter,8,Katheter,umls,True
+line,7,Katheter,umls,True
+clear,24,Klar,umls,True
+collapse,10,Kollaps,umls,True
+consolidation,165,Konsolidierung,umls,True
+consolidations,15,Konsolidierung,umls,True
+lateral,48,Lateral,umls,True
+left lower lobe,15,Linker Unterlappen,umls,True
+lung,90,Lunge,umls,True
+lungs,31,Lungen,umls,True
+pulmonary edema,117,Lungenödem,umls,True
+"pulmonary
+ edema",15,Lungenödem,umls,True
+lung bases,16,Lungenbasen,umls,True
+lung base,36,Lungenbasis,umls,True
+pleural fluid,9,Lungenflüssigkeit,umls,True
+Lung volumes,27,Lungenvolumen,umls,True
+lymphadenopathy,7,Lymphadenopathie,umls,True
+male,22,männlich,umls,True
+man,88,Mann,umls,True
+M,45,Mann,umls,True
+median sternotomy,9,Median-Sternotomie,umls,True
+mediastinal,57,mediastinal,umls,True
+mediastinum,22,Mediastinum,umls,True
+exam,23,Untersuchung,umls,True
+NG tube,16,Nasensonde,umls,True
+normal,11,Normal,umls,True
+upper lobe,10,Oberlappen,umls,True
+opacity,96,Opazität,umls,True
+opacities,54,Opazitäten,umls,True
+PA,128,p.a.,umls,True
+PICC line,17,PICC,umls,True
+pleural effusion,150,Pleuraerguss,umls,True
+pleural effusions,59,Pleuraerguss,umls,True
+"pleural
+ effusion",24,Pleuraerguss,umls,True
+"pleural
+ effusions",8,Pleuraerguss,umls,True
+pleural,30,Pleural,umls,True
+pleural thickening,10,Pleuraverdickung,umls,True
+pneumonia,181,Pneumonie,umls,True
+pna,24,Pneumonie,umls,True
+pneumothorax,346,Pneumothorax,umls,True
+PTX,14,Pneumothorax,umls,True
+Chest frontal,9,Thorax frontal,umls,True
+radiograph,58,Röntgenaufnahme,umls,True
+radiographs,21,Röntgenaufnahmen,umls,True
+Chest radiographs,59,Thorax-R�ntgen,umls,True
+chest x-ray,12,Thorax-R�ntgen,umls,True
+chest CT,12,Thorax-R�ntgen,umls,True
+mass,12,Raumforderung,umls,True
+right ventricle,9,Rechte Herzkammer,umls,True
+right upper lobe,9,Rechter Oberlappen,umls,True
+right lower lobe,13,Rechter Unterlappen,umls,True
+right atrium,11,Rechter Vorhof,umls,True
+rib fractures,7,Rippenfraktur,umls,True
+pain,10,Schmerzen,umls,True
+costophrenic angle,10,Sinus costodiaphragmaticus,umls,True
+Fall,9,Sturz,umls,True
+Blunting,17,abgeflacht,umls,True
+subclavian,9,subklavikulär,umls,True
+syncope,7,Synkope,umls,True
+CHEST,370,Thorax,umls,True
+CT chest,8,Thorax-CT,umls,True
+chest tube,21,Thoraxdrainage,umls,True
+Chest pain,43,Thoraxschmerz,umls,True
+Tortuosity,11,Tortuosität,umls,True
+opacification,20,Trübung,umls,True
+tracheostomy tube,10,Trachealkan�le,umls,True
+lower lobe,14,Unterlappen,umls,True
+examination,22,Untersuchung,umls,True
+altered mental status,9,Ver�nderter Bewusstseinszustand,umls,True
+enlarged,12,vergrössert,umls,True
+scarring,9,Vernarbung,umls,True
+female,23,weiblich,umls,True
+central venous catheter,10,Zentraler Venenkatheter,umls,True
+basilar,9,basilar,,True
+base,31,Basis,,True
+findings,7,Befunde,,True
+Aeration,14,Belüftung,,True
+Frontal view,10,Frontalsicht,,True
+engorged,13,geschwollen,,True
+Heart size,24,Herzgrösse,,True
+cardiac silhouette,9,Herzsilhouette,,True
+infection,35,Infektion,,True
+LAT,58,lateral,,True
+lateral views,75,Lateralansichten,,True
+lateral view,10,Lateralansicht,,True
+pulmonary vascular congestion,16,Lungenödem,,True
+Pulmonary vasculature,8,Lungengef�sse,,True
+stomach,46,Magen,,True
+nasogastric tube,27,Nasensonde,,True
+lung opacities,7,Opazitäten der Lunge,,True
+PICC,21,PICC,,True
+Port-A-Cath,11,Portkatheter,,True
+PA and lateral views,10,P.a. und laterale  Aufnahmen,,True
+"pulmonary vascular
+ congestion",9,Lungen�dem,,True
+CHEST RADIOGRAPH,110,Thorax-R�ntgen,,True
+study,14,Aufnahme,,True
+internal jugular,12,Vena jugularis interna,,True
+interval change,10,Veränderung,,True

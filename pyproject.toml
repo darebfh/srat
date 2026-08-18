@@ -1,0 +1,72 @@
+[project]
+name = "MimicTranslation"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "Daniel Reichenpfader", email = "daniel.reichenpfader@bfh.ch"},
+]
+dependencies = [
+    "python-dotenv[cli]>=1.1.0",
+    "openai>=1.12.0",
+    "requests>=2.31.0",
+    "pydantic>=2.6.0",
+    "tenacity>=8.2.0",
+    "langfuse>=2.12.3",
+    "azure-ai-textanalytics>=5.3.0",
+    "datasets>=2.17.0",
+    "tqdm>=4.66.0",
+    "pydantic-settings>=2.9.1",
+    "streamlit>=1.45.1",
+    "unbabel-comet>=2.2.7",
+    "pandas>=2.0.0",
+    "openpyxl>=3.1.0",
+    "py-readability-metrics>=1.4.0",
+    "statsmodels>=0.14.5"
+]
+requires-python = "==3.12.*"
+readme = "README.md"
+license = {text = "None"}
+
+
+[tool.pdm]
+distribution = false
+
+[tool.pdm.scripts]
+# Azure and startup scripts
+start-azure = {shell = "python app/start_azure.py"}
+start = {composite = ["start-azure"]}
+convert-dataset = {shell = "python app/create_dataset.py ./data/"}
+run-translation = {shell = "python app/batch_translate.py data/processed/raw_dataset --num-reports 500 --models gemma3:12b --mode both --random-seed 42"}
+run-translation-no-dict = {shell = "python app/batch_translate.py data/processed/raw_dataset --num-reports 500 --models gemini-3-pro-preview --mode both --random-seed 42 --no-dictionary-fallback --resume"}
+run-translation-file-prompts = {shell = "python app/batch_translate.py data/processed/raw_dataset --num-reports 500 --models gemma3:12b --mode both --random-seed 42 --use-file-prompts"}
+run-translation-file-prompts-no-dict = {shell = "python app/batch_translate.py data/processed/raw_dataset --num-reports 500 --models s-rat --mode both --random-seed 42 --no-dictionary-fallback --use-file-prompts"}
+run-translation-dictionary-only = {shell = "python app/batch_translate.py data/processed/raw_dataset --num-reports 500 --models deepseek-r1:8b --mode both --random-seed 42 --use-file-prompts --use-dictionary-only"}
+evaluate-translations = {shell = "python app/evaluation.py --output-dir data/evaluations --compare-modes --model Unbabel/wmt23-cometkiwi-da-xxl --complete-workflow"}
+evaluate-translations-llm = {shell = "python app/llm_evaluation.py data/results/08b_gemma3:4b_qa_twoshot/20250928_201843/translations.json --output-dir data/evaluations_llm --compare-modes --complete-workflow --model ollama/gpt-oss:120b"}
+display-results = {shell = "streamlit run app/streamlit_app.py"}
+# Annotation preparation
+create-excel-comparison = {shell = "python app/excel_comparison.py --random-seed 42"}
+# Word analysis scripts (with abbreviations and n-grams support)
+analyze-words = {shell = "python app/analysis/word_analysis.py --analyze-failed --print-results"}
+analyze-words-with-ngrams = {shell = "python app/word_analysis.py --analyze-failed --print-results --max-ngram-size 3"}
+analyze-words-abbreviations = {shell = "python app/word_analysis.py --analyze-failed --print-results --min-length 2"}
+analyze-words-comprehensive = {shell = "python app/word_analysis.py data/translations/20250925_184200/translations.json --analyze-failed --print-results --min-length 2 --max-ngram-size 3"}
+analyze-words-ngrams-only = {shell = "python app/word_analysis.py --no-stop-words --min-length 2 --max-ngram-size 3 --print-results"}
+# Dictionary creation and management scripts
+create-dictionary = {shell = "python app/dictionary_converter.py"}
+create-dictionary-all-translations = {shell = "python app/dictionary_converter.py data/translations/20250925_184200/translations.json --all-translations -o assets/dictionaries/all_translations_dictionary.csv"}
+# Dictionary merging with word analysis (NEW)
+merge-dictionary-word-analysis = {shell = "python app/dictionary_word_analysis_merger.py assets/dictionaries/merged_dictionary.csv assets/word_analysis_results/translations_word_frequency.json -o assets/dictionaries/enhanced_dictionary.csv --print-summary"}
+merge-dictionary-comprehensive = {shell = "python app/dictionary_word_analysis_merger.py assets/dictionaries/merged_dictionary.csv assets/word_analysis_results/translations_word_frequency.json -o assets/dictionaries/enhanced_dictionary.csv --ngram-file assets/word_analysis_results/translations_ngram_frequency.json --print-summary --save-summary assets/dictionaries/merge_summary.json"}
+# Workflow scripts (NEW)
+workflow-analyze-and-merge = {composite = ["analyze-words-comprehensive", "merge-dictionary-comprehensive"]}
+descriptive-stats = {shell = "python app/descriptive_statistics.py --print-summary"}
+descriptive-stats-full = {shell = "python app/descriptive_statistics.py --print-summary --create-visualizations --format excel"}
+dictionary = {shell = "python app/dictionary_cli.py"}
+retry-missing = {shell = "python app/retry_missing_translation.py data/processed/raw_dataset/ data/translations/20251231_133048/translations.json --file-path mimic-cxr-reports/p15/p15508006/s57982405.txt --mode without_keywords --model gemini-3-pro-preview --no-dictionary-fallback"}
+generate-few-shot = {shell = "python app/few_shot_generator.py"}
+run-stats-analysis = {shell = "python app/analysis/stats_analysis.py"}
+run-failed-translations-analysis = {shell = "python app/failed_translations_analysis.py"}
+run-annotation-correlation = {shell = "python app/analysis/annotation_correlation.py"}
+run-annotation-correlation-pairwise = {shell = "python app/analysis/annotation_correlation_pairwise.py --combined"}
+

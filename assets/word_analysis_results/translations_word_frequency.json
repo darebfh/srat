@@ -1,0 +1,402 @@
+[
+  {
+    "word": "___",
+    "frequency": 2240
+  },
+  {
+    "word": "chest",
+    "frequency": 1898
+  },
+  {
+    "word": "no",
+    "frequency": 1584
+  },
+  {
+    "word": "right",
+    "frequency": 1150
+  },
+  {
+    "word": "report",
+    "frequency": 1004
+  },
+  {
+    "word": "final",
+    "frequency": 1002
+  },
+  {
+    "word": "pleural",
+    "frequency": 1002
+  },
+  {
+    "word": "there",
+    "frequency": 990
+  },
+  {
+    "word": "left",
+    "frequency": 976
+  },
+  {
+    "word": "comparison",
+    "frequency": 864
+  },
+  {
+    "word": "impression",
+    "frequency": 814
+  },
+  {
+    "word": "effusion",
+    "frequency": 786
+  },
+  {
+    "word": "findings",
+    "frequency": 774
+  },
+  {
+    "word": "pneumothorax",
+    "frequency": 738
+  },
+  {
+    "word": "pulmonary",
+    "frequency": 644
+  },
+  {
+    "word": "indication",
+    "frequency": 640
+  },
+  {
+    "word": "lung",
+    "frequency": 628
+  },
+  {
+    "word": "normal",
+    "frequency": 536
+  },
+  {
+    "word": "lateral",
+    "frequency": 534
+  },
+  {
+    "word": "examination",
+    "frequency": 502
+  },
+  {
+    "word": "ap",
+    "frequency": 502
+  },
+  {
+    "word": "pneumonia",
+    "frequency": 468
+  },
+  {
+    "word": "acute",
+    "frequency": 466
+  },
+  {
+    "word": "radiograph",
+    "frequency": 446
+  },
+  {
+    "word": "unchanged",
+    "frequency": 444
+  },
+  {
+    "word": "tube",
+    "frequency": 444
+  },
+  {
+    "word": "edema",
+    "frequency": 438
+  },
+  {
+    "word": "old",
+    "frequency": 420
+  },
+  {
+    "word": "history",
+    "frequency": 420
+  },
+  {
+    "word": "portable",
+    "frequency": 412
+  },
+  {
+    "word": "seen",
+    "frequency": 406
+  },
+  {
+    "word": "year",
+    "frequency": 402
+  },
+  {
+    "word": "pa",
+    "frequency": 398
+  },
+  {
+    "word": "atelectasis",
+    "frequency": 394
+  },
+  {
+    "word": "technique",
+    "frequency": 364
+  },
+  {
+    "word": "consolidation",
+    "frequency": 356
+  },
+  {
+    "word": "size",
+    "frequency": 350
+  },
+  {
+    "word": "prior",
+    "frequency": 346
+  },
+  {
+    "word": "lungs",
+    "frequency": 344
+  },
+  {
+    "word": "mild",
+    "frequency": 328
+  },
+  {
+    "word": "mediastinal",
+    "frequency": 326
+  },
+  {
+    "word": "heart",
+    "frequency": 320
+  },
+  {
+    "word": "clear",
+    "frequency": 312
+  },
+  {
+    "word": "silhouette",
+    "frequency": 310
+  },
+  {
+    "word": "lower",
+    "frequency": 306
+  },
+  {
+    "word": "cardiac",
+    "frequency": 302
+  },
+  {
+    "word": "small",
+    "frequency": 300
+  },
+  {
+    "word": "focal",
+    "frequency": 284
+  },
+  {
+    "word": "process",
+    "frequency": 266
+  },
+  {
+    "word": "study",
+    "frequency": 264
+  },
+  {
+    "word": "evidence",
+    "frequency": 260
+  },
+  {
+    "word": "effusions",
+    "frequency": 256
+  },
+  {
+    "word": "upper",
+    "frequency": 256
+  },
+  {
+    "word": "opacity",
+    "frequency": 256
+  },
+  {
+    "word": "radiographs",
+    "frequency": 248
+  },
+  {
+    "word": "compared",
+    "frequency": 246
+  },
+  {
+    "word": "contours",
+    "frequency": 246
+  },
+  {
+    "word": "patient",
+    "frequency": 242
+  },
+  {
+    "word": "lobe",
+    "frequency": 242
+  },
+  {
+    "word": "moderate",
+    "frequency": 236
+  },
+  {
+    "word": "views",
+    "frequency": 234
+  },
+  {
+    "word": "bilateral",
+    "frequency": 232
+  },
+  {
+    "word": "change",
+    "frequency": 228
+  },
+  {
+    "word": "frontal",
+    "frequency": 224
+  },
+  {
+    "word": "stable",
+    "frequency": 224
+  },
+  {
+    "word": "interval",
+    "frequency": 214
+  },
+  {
+    "word": "hilar",
+    "frequency": 212
+  },
+  {
+    "word": "cardiomediastinal",
+    "frequency": 210
+  },
+  {
+    "word": "vascular",
+    "frequency": 210
+  },
+  {
+    "word": "cardiopulmonary",
+    "frequency": 206
+  },
+  {
+    "word": "opacities",
+    "frequency": 206
+  },
+  {
+    "word": "not",
+    "frequency": 202
+  },
+  {
+    "word": "view",
+    "frequency": 192
+  },
+  {
+    "word": "likely",
+    "frequency": 190
+  },
+  {
+    "word": "tip",
+    "frequency": 190
+  },
+  {
+    "word": "man",
+    "frequency": 176
+  },
+  {
+    "word": "noted",
+    "frequency": 172
+  },
+  {
+    "word": "evaluate",
+    "frequency": 170
+  },
+  {
+    "word": "new",
+    "frequency": 166
+  },
+  {
+    "word": "position",
+    "frequency": 164
+  },
+  {
+    "word": "ct",
+    "frequency": 164
+  },
+  {
+    "word": "increased",
+    "frequency": 164
+  },
+  {
+    "word": "base",
+    "frequency": 162
+  },
+  {
+    "word": "cough",
+    "frequency": 160
+  },
+  {
+    "word": "again",
+    "frequency": 158
+  },
+  {
+    "word": "placement",
+    "frequency": 158
+  },
+  {
+    "word": "low",
+    "frequency": 158
+  },
+  {
+    "word": "volumes",
+    "frequency": 158
+  },
+  {
+    "word": "congestion",
+    "frequency": 154
+  },
+  {
+    "word": "within",
+    "frequency": 152
+  },
+  {
+    "word": "clinical",
+    "frequency": 152
+  },
+  {
+    "word": "which",
+    "frequency": 150
+  },
+  {
+    "word": "previous",
+    "frequency": 144
+  },
+  {
+    "word": "cardiomegaly",
+    "frequency": 144
+  },
+  {
+    "word": "present",
+    "frequency": 138
+  },
+  {
+    "word": "status",
+    "frequency": 138
+  },
+  {
+    "word": "changes",
+    "frequency": 138
+  },
+  {
+    "word": "post",
+    "frequency": 136
+  },
+  {
+    "word": "mid",
+    "frequency": 136
+  },
+  {
+    "word": "without",
+    "frequency": 136
+  }
+]

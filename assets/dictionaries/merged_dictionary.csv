@@ -1,0 +1,1181 @@
+term,normalized_text,categories,success_count,failure_count,total_count,avg_confidence,translation_de,translation_fr,translation_es,translation_it,sources,file_count,notes,verified
+CHEST,Chest,"BodyStructure, ExaminationName",0,370,370,0.97,Thorax,,,,umls,305,"Failed: 370/370; Sources: umls; Files: 305; VERIFIED: Failed 177 times, confidence: 0.95",TRUE
+pneumothorax,Pneumothorax,Diagnosis,346,0,346,0.936,Pneumothorax,,,,umls,296,Success: 346/346; Sources: umls; Files: 296,FALSE
+pneumonia,Pneumonia,Diagnosis,181,0,181,0.981,Pneumonie,,,,umls,126,Success: 181/181; Sources: umls; Files: 126,FALSE
+consolidation,Consolidation,SymptomOrSign,0,165,165,0.944,Konsolidierung,,,,umls,143,"Failed: 165/165; Sources: umls; Files: 143; VERIFIED: Failed 163 times, confidence: 0.94",TRUE
+pleural effusion,Pleural effusion (disorder),"Diagnosis, SymptomOrSign",150,0,150,0.965,Pleuraerguss,,,,umls,122,Success: 150/150; Sources: umls; Files: 122,FALSE
+atelectasis,Atelectasis,"Diagnosis, ExaminationName, SymptomOrSign",129,0,129,0.876,Atelektase,,,,umls,89,Success: 129/129; Sources: umls; Files: 89,FALSE
+PA,Pulmonary artery pressure,ExaminationName,0,128,128,0.955,Posteroanterior,,,,umls,105,"Failed: 128/128; Sources: umls; Files: 105; VERIFIED: Failed 128 times, confidence: 0.95",TRUE
+pulmonary edema,Pulmonary Edema,"Diagnosis, ExaminationName",117,0,117,0.916,Lungenödem,,,,umls,87,Success: 117/117; Sources: umls; Files: 87,FALSE
+CHEST RADIOGRAPH,Chest radiograph,ExaminationName,0,110,110,0.98,Röntgenaufnahme der Brust,,,,,97,"Failed: 110/110; Files: 97; VERIFIED: Failed 56 times, confidence: 0.98",TRUE
+opacity,Abnormally opaque structure (morphologic abnormality),SymptomOrSign,0,96,96,0.99,Opazität,,,,umls,63,"Failed: 96/96; Sources: umls; Files: 63; VERIFIED: Failed 96 times, confidence: 0.99",TRUE
+lung,Lung,"BodyStructure, SymptomOrSign",0,90,90,0.96,Lunge,,,,umls,68,"Failed: 90/90; Sources: umls; Files: 68; VERIFIED: Failed 88 times, confidence: 0.96",TRUE
+man,Male population group,Gender,0,88,88,1,Mann,,,,umls,88,"Failed: 88/88; Sources: umls; Files: 88; VERIFIED: Failed 88 times, confidence: 1.0",TRUE
+cough,Coughing,SymptomOrSign,0,79,79,0.993,Husten,,,,umls,75,"Failed: 79/79; Sources: umls; Files: 75; VERIFIED: Failed 68 times, confidence: 0.99",TRUE
+lateral views,Views lateral,ExaminationName,0,75,75,0.93,Lateralansicht,,,,,66,"Failed: 75/75; Files: 66; VERIFIED: Failed 75 times, confidence: 0.93",TRUE
+woman,Woman,Gender,0,62,62,1,Frau,,,,umls,62,"Failed: 62/62; Sources: umls; Files: 62; VERIFIED: Failed 62 times, confidence: 1.0",TRUE
+cardiomegaly,Cardiomegaly,SymptomOrSign,62,0,62,0.918,Kardiomegalie,,,,umls,53,Success: 62/62; Sources: umls; Files: 53,FALSE
+effusion,effusion,"Diagnosis, SymptomOrSign",0,59,59,0.95,Erguss,,,,umls,49,"Failed: 59/59; Sources: umls; Files: 49; VERIFIED: Failed 59 times, confidence: 0.95",TRUE
+pleural effusions,Pleural effusion (disorder),"Diagnosis, SymptomOrSign",59,0,59,0.909,Pleuraerguss,,,,umls,41,Success: 59/59; Sources: umls; Files: 41,FALSE
+Chest radiographs,Plain chest X-ray,ExaminationName,59,0,59,0.97,Röntgenaufnahme der Brust,,,,umls,55,Success: 59/59; Sources: umls; Files: 55,FALSE
+radiograph,Diagnostic radiologic examination,ExaminationName,0,58,58,0.97,Röntgenaufnahme,,,,umls,55,"Failed: 58/58; Sources: umls; Files: 55; VERIFIED: Failed 55 times, confidence: 0.97",TRUE
+LAT,"ORC3 protein, human",ExaminationName,0,58,58,0.95,lateral,,,,,55,"Failed: 58/58; Files: 55; VERIFIED: Failed 58 times, confidence: 0.95",TRUE
+mediastinal,Mediastinum,"BodyStructure, SymptomOrSign",0,57,57,0.94,mediastinal,,,,umls,56,"Failed: 57/57; Sources: umls; Files: 56; VERIFIED: Failed 41 times, confidence: 0.94",TRUE
+opacities,Abnormally opaque structure (morphologic abnormality),SymptomOrSign,0,54,54,0.995,Opazitäten,,,,umls,41,"Failed: 54/54; Sources: umls; Files: 41; VERIFIED: Failed 54 times, confidence: 0.99",TRUE
+cardiac,Heart,"BodyStructure, SymptomOrSign",0,49,49,0.98,Kardial,,,,umls,49,"Failed: 49/49; Sources: umls; Files: 49; VERIFIED: Failed 41 times, confidence: 0.98",TRUE
+lateral,Lateral,ExaminationName,0,48,48,0.945,Lateral,,,,umls,48,"Failed: 48/48; Sources: umls; Files: 48; VERIFIED: Failed 48 times, confidence: 0.94",TRUE
+F,Woman,Gender,0,48,48,0.971,Frau,,,,umls,46,"Failed: 48/48; Sources: umls; Files: 46; VERIFIED: Failed 46 times, confidence: 0.97",TRUE
+stomach,Stomach,BodyStructure,0,46,46,0.99,Magen,,,,,40,"Failed: 46/46; Files: 40; VERIFIED: Failed 46 times, confidence: 0.99",TRUE
+M,Male population group,Gender,0,45,45,1,Mann,,,,umls,44,"Failed: 45/45; Sources: umls; Files: 44; VERIFIED: Failed 45 times, confidence: 1.0",TRUE
+Chest pain,Chest Pain,SymptomOrSign,43,0,43,1,Thoraxschmerzen,,,,umls,41,Success: 43/43; Sources: umls; Files: 41,FALSE
+Frontal,Coronal (qualifier value),ExaminationName,0,39,39,0.972,Frontal,,,,umls,38,"Failed: 39/39; Sources: umls; Files: 38; VERIFIED: Failed 35 times, confidence: 0.97",TRUE
+lung base,Basal segment of lung,BodyStructure,0,36,36,0.975,Lungenbasis,,,,umls,30,"Failed: 36/36; Sources: umls; Files: 30; VERIFIED: Failed 36 times, confidence: 0.97",TRUE
+infection,Infection,"Diagnosis, SymptomOrSign",0,35,35,0.975,Infektion,,,,,26,"Failed: 35/35; Files: 26; VERIFIED: Failed 32 times, confidence: 0.97",TRUE
+CT,X-Ray Computed Tomography,"ExaminationName, TreatmentName",0,33,33,0.982,CT,,,,umls,21,"Failed: 33/33; Sources: umls; Files: 21; VERIFIED: Failed 33 times, confidence: 0.98",TRUE
+Aspiration,Endotracheal aspiration,"Diagnosis, SymptomOrSign",3,29,32,0.913,Aspiration,,,,umls,22,"Success: 3/32; Failed: 29/32; Sources: umls; Files: 22; VERIFIED: Failed 28 times, confidence: 0.91",TRUE
+lungs,Lung,BodyStructure,0,31,31,0.96,Lungen,,,,umls,31,"Failed: 31/31; Sources: umls; Files: 31; VERIFIED: Failed 27 times, confidence: 0.96",TRUE
+base,Anatomical base,BodyStructure,0,31,31,0.951,Basis,,,,,27,"Failed: 31/31; Files: 27; VERIFIED: Failed 31 times, confidence: 0.95",TRUE
+pleural,Pleura,BodyStructure,0,30,30,0.994,Pleural,,,,umls,29,"Failed: 30/30; Sources: umls; Files: 29; VERIFIED: Failed 30 times, confidence: 0.99",TRUE
+Heart,HEART PROBLEM,"BodyStructure, SymptomOrSign",0,30,30,0.962,Herz,,,,umls,30,"Failed: 30/30; Sources: umls; Files: 30; VERIFIED: Failed 20 times, confidence: 0.95",TRUE
+carina,Structure of carina,BodyStructure,0,29,29,0.982,Carina,,,,umls,25,"Failed: 29/29; Sources: umls; Files: 25; VERIFIED: Failed 29 times, confidence: 0.98",TRUE
+fever,Fever,SymptomOrSign,28,0,28,0.989,Fieber,,,,umls,28,Success: 28/28; Sources: umls; Files: 28,FALSE
+edema,Edema,"ExaminationName, SymptomOrSign",0,28,28,0.96,Ödem,,,,umls,24,"Failed: 28/28; Sources: umls; Files: 24; VERIFIED: Failed 28 times, confidence: 0.96",TRUE
+nasogastric tube,Nasogastric tube procedures,TreatmentName,0,27,27,0.98,Nasensonde,,,,,24,"Failed: 27/27; Files: 24; VERIFIED: Failed 23 times, confidence: 0.98",TRUE
+Lung volumes,Lung Volumes,ExaminationName,0,27,27,0.89,Lungenvolumen,,,,umls,25,"Failed: 27/27; Sources: umls; Files: 25; VERIFIED: Failed 18 times, confidence: 0.89",TRUE
+Endotracheal tube,Endotracheal tube,TreatmentName,25,0,25,0.933,Endotrachealtubus,,,,umls,22,Success: 25/25; Sources: umls; Files: 22,FALSE
+CHF,Congestive heart failure,Diagnosis,25,0,25,0.979,Angeborenes Herzversagen,,,,umls,21,Success: 25/25; Sources: umls; Files: 21,FALSE
+"pleural
+ effusion",Pleural effusion (disorder),"Diagnosis, SymptomOrSign",24,0,24,0.964,Pleuraerguss,,,,umls,23,Success: 24/24; Sources: umls; Files: 23,FALSE
+clear,Clear,SymptomOrSign,0,24,24,1,Klar,,,,umls,24,"Failed: 24/24; Sources: umls; Files: 24; VERIFIED: Failed 24 times, confidence: 1.0",TRUE
+pna,Pneumonia,Diagnosis,24,0,24,0.993,Pneumonie,,,,umls,17,Success: 24/24; Sources: umls; Files: 17,FALSE
+Heart size,heart size,SymptomOrSign,0,24,24,0.93,Herzgrösse,,,,,23,"Failed: 24/24; Files: 23; VERIFIED: Failed 18 times, confidence: 0.93",TRUE
+exam,Medical Examination,ExaminationName,23,0,23,0.872,Medizinisches Assessment,,,,umls,23,Success: 23/23; Sources: umls; Files: 23,FALSE
+shortness of breath,Dyspnea,SymptomOrSign,23,0,23,0.998,Dyspnoe,,,,umls,23,Success: 23/23; Sources: umls; Files: 23,FALSE
+female,Woman,Gender,0,23,23,1,weiblich,,,,umls,23,"Failed: 23/23; Sources: umls; Files: 23; VERIFIED: Failed 23 times, confidence: 1.0",TRUE
+hemidiaphragm,Structure of hemidiaphragm,BodyStructure,0,23,23,0.96,Hemidiaphragma,,,,umls,22,"Failed: 23/23; Sources: umls; Files: 22; VERIFIED: Failed 23 times, confidence: 0.96",TRUE
+mediastinum,Mediastinum,"BodyStructure, SymptomOrSign",0,22,22,0.91,Mediastinum,,,,umls,22,"Failed: 22/22; Sources: umls; Files: 22; VERIFIED: Failed 22 times, confidence: 0.91",TRUE
+male,Male population group,Gender,0,22,22,1,männlich,,,,umls,22,"Failed: 22/22; Sources: umls; Files: 22; VERIFIED: Failed 21 times, confidence: 1.0",TRUE
+examination,Physical Examination,ExaminationName,0,22,22,0.91,Untersuchung,,,,umls,13,"Failed: 22/22; Sources: umls; Files: 13; VERIFIED: Failed 22 times, confidence: 0.91",TRUE
+radiographs,Diagnostic radiologic examination,ExaminationName,0,21,21,0.94,Röntgenaufnahme,,,,umls,19,"Failed: 21/21; Sources: umls; Files: 19; VERIFIED: Failed 16 times, confidence: 0.94",TRUE
+chest tube,Chest Tubes,TreatmentName,0,21,21,0.99,Thoraxdrainage,,,,umls,17,"Failed: 21/21; Sources: umls; Files: 17; VERIFIED: Failed 21 times, confidence: 0.99",TRUE
+PICC,Peripherally Inserted Central Catheter Line Insertion,TreatmentName,0,21,21,0.99,PICC,,,,,13,"Failed: 21/21; Files: 13; VERIFIED: Failed 18 times, confidence: 0.99",TRUE
+effusions,effusion,"Diagnosis, SymptomOrSign",0,20,20,0.961,Ergüsse,,,,umls,17,"Failed: 20/20; Sources: umls; Files: 17; VERIFIED: Failed 20 times, confidence: 0.96",TRUE
+opacification,Opacification,SymptomOrSign,0,20,20,0.993,Trübung,,,,umls,15,"Failed: 20/20; Sources: umls; Files: 15; VERIFIED: Failed 18 times, confidence: 0.99",TRUE
+degenerative changes,Abnormal degeneration,SymptomOrSign,0,19,19,0.967,Degenerative Veränderungen,,,,umls,19,"Failed: 19/19; Sources: umls; Files: 19; VERIFIED: Failed 16 times, confidence: 0.96",TRUE
+hemithorax,Structure of half of thorax lateral to midsagittal plane,BodyStructure,0,19,19,0.973,Hemithorax,,,,umls,12,"Failed: 19/19; Sources: umls; Files: 12; VERIFIED: Failed 19 times, confidence: 0.97",TRUE
+diaphragm,Respiratory Diaphragm,BodyStructure,0,19,19,0.93,Diaphragma,,,,umls,19,"Failed: 19/19; Sources: umls; Files: 19; VERIFIED: Failed 19 times, confidence: 0.93",TRUE
+infiltrate,Infiltration,"ExaminationName, SymptomOrSign",0,18,18,0.96,Infiltration,,,,umls,16,"Failed: 18/18; Sources: umls; Files: 16; VERIFIED: Failed 18 times, confidence: 0.96",TRUE
+thoracic spine,Thoracic spine structure,BodyStructure,0,17,17,0.99,Brustwirbelsäule,,,,umls,16,"Failed: 17/17; Sources: umls; Files: 16; VERIFIED: Failed 17 times, confidence: 0.99",TRUE
+Blunting,Blunted,SymptomOrSign,0,17,17,0.99,stumpf,,,,umls,14,"Failed: 17/17; Sources: umls; Files: 14; VERIFIED: Failed 14 times, confidence: 0.99",TRUE
+PICC line,Peripherally inserted central catheter (physical object),TreatmentName,0,17,17,0.984,PICC,,,,umls,17,"Failed: 17/17; Sources: umls; Files: 17; VERIFIED: Failed 17 times, confidence: 0.98",TRUE
+lung bases,Basal segment of lung,BodyStructure,0,16,16,0.991,Lungenbasen,,,,umls,15,"Failed: 16/16; Sources: umls; Files: 15; VERIFIED: Failed 16 times, confidence: 0.99",TRUE
+NG tube,Nasogastric tube,TreatmentName,0,16,16,0.981,Nasensonde,,,,umls,14,"Failed: 16/16; Sources: umls; Files: 14; VERIFIED: Failed 16 times, confidence: 0.98",TRUE
+pulmonary vascular congestion,Pulmonary vascular congestion,SymptomOrSign,0,16,16,0.91,Lungenödem,,,,,14,"Failed: 16/16; Files: 14; VERIFIED: Failed 14 times, confidence: 0.91",TRUE
+COPD,Chronic Obstructive Airway Disease,Diagnosis,15,0,15,0.999,Chronisch obstruktive Lungenerkrankung,,,,umls,13,Success: 15/15; Sources: umls; Files: 13,FALSE
+hilar,Hilar,"BodyStructure, SymptomOrSign",0,15,15,0.93,hilär,,,,umls,14,"Failed: 15/15; Sources: umls; Files: 14; VERIFIED: Failed 13 times, confidence: 0.93",TRUE
+Elevation,Elevation,SymptomOrSign,0,15,15,0.99,Erhöhung,,,,umls,13,"Failed: 15/15; Sources: umls; Files: 13; VERIFIED: Failed 13 times, confidence: 0.99",TRUE
+"pulmonary
+ edema",Pulmonary Edema,Diagnosis,15,0,15,0.915,Lungenödem,,,,umls,14,Success: 15/15; Sources: umls; Files: 14,FALSE
+left lower lobe,Structure of left lower lobe of lung,BodyStructure,0,15,15,0.908,Linker Unterlappen,,,,umls,14,"Failed: 15/15; Sources: umls; Files: 14; VERIFIED: Failed 13 times, confidence: 0.89",TRUE
+fracture,Fracture,"Diagnosis, SymptomOrSign",15,0,15,0.987,Fraktur,,,,umls,12,Success: 15/15; Sources: umls; Files: 12,FALSE
+dyspnea,Dyspnea,SymptomOrSign,15,0,15,0.995,Dyspnoe,,,,umls,15,Success: 15/15; Sources: umls; Files: 15,FALSE
+consolidations,Consolidation,SymptomOrSign,0,15,15,0.98,Konsolidierung,,,,umls,10,"Failed: 15/15; Sources: umls; Files: 10; VERIFIED: Failed 15 times, confidence: 0.98",TRUE
+CABG,Coronary Artery Bypass Surgery,TreatmentName,15,0,15,0.999,Kardiale Revaskularisierung mit Bypass-Anastomose,,,,umls,11,Success: 15/15; Sources: umls; Files: 11,FALSE
+PTX,Pneumothorax,Diagnosis,14,0,14,0.965,Pneumothorax,,,,umls,9,Success: 14/14; Sources: umls; Files: 9,FALSE
+lower lobe,Structure of lower lobe of lung,BodyStructure,0,14,14,0.87,Unterlappen,,,,umls,14,"Failed: 14/14; Sources: umls; Files: 14; VERIFIED: Failed 13 times, confidence: 0.87",TRUE
+AP,ampicillin,ExaminationName,14,0,14,0.903,Ampicillin,,,,umls,12,Success: 14/14; Sources: umls; Files: 12,FALSE
+Aeration,aeration,SymptomOrSign,0,14,14,0.974,Belüftung,,,,,12,"Failed: 14/14; Files: 12; VERIFIED: Failed 12 times, confidence: 0.97",TRUE
+study,diagnostic procedure,ExaminationName,0,14,14,0.88,Studie,,,,,10,"Failed: 14/14; Files: 10; VERIFIED: Failed 14 times, confidence: 0.88",TRUE
+engorged,engorged,SymptomOrSign,0,13,13,1,geschwollen,,,,,13,"Failed: 13/13; Files: 13; VERIFIED: Failed 13 times, confidence: 1.0",TRUE
+sob,Dyspnea,SymptomOrSign,13,0,13,0.994,Dyspnoe,,,,umls,11,Success: 13/13; Sources: umls; Files: 11,FALSE
+right lower lobe,Structure of right lower lobe of lung,BodyStructure,0,13,13,0.97,Rechter Unterlappen,,,,umls,11,"Failed: 13/13; Sources: umls; Files: 11; VERIFIED: Failed 11 times, confidence: 0.97",TRUE
+intubation,Intubation (procedure),TreatmentName,13,0,13,0.997,Intubation,,,,umls,13,Success: 13/13; Sources: umls; Files: 13,FALSE
+chest x-ray,Plain chest X-ray,ExaminationName,12,0,12,0.989,Röntgenaufnahme der Brust,,,,umls,11,Success: 12/12; Sources: umls; Files: 11,FALSE
+enlarged,Enlarged,SymptomOrSign,0,12,12,0.98,vergrössert,,,,umls,12,"Failed: 12/12; Sources: umls; Files: 12; VERIFIED: Failed 12 times, confidence: 0.98",TRUE
+chest CT,Chest CT,ExaminationName,0,12,12,0.975,Röntgenaufnahme der Brust,,,,umls,11,"Failed: 12/12; Sources: umls; Files: 11; VERIFIED: Failed 11 times, confidence: 0.97",TRUE
+mass,Mass of body structure,SymptomOrSign,12,0,12,0.985,Raumforderung eines Körperteils,,,,umls,8,Success: 12/12; Sources: umls; Files: 8,FALSE
+internal jugular,"Jugular, Internal",BodyStructure,0,12,12,0.922,Vena jugularis interna,,,,,8,"Failed: 12/12; Files: 8; VERIFIED: Failed 12 times, confidence: 0.92",TRUE
+right atrium,Right atrial structure,BodyStructure,0,11,11,0.892,Rechter Vorhof,,,,umls,11,"Failed: 11/11; Sources: umls; Files: 11; VERIFIED: Failed 11 times, confidence: 0.89",TRUE
+normal,Normal,SymptomOrSign,11,0,11,0.894,Normal,,,,umls,10,Success: 11/11; Sources: umls; Files: 10,FALSE
+Port-A-Cath,Port-A-Cath,TreatmentName,0,11,11,0.94,Portkatheter,,,,,8,"Failed: 11/11; Files: 8; VERIFIED: Failed 11 times, confidence: 0.94",TRUE
+Tortuosity,Tortuosity,SymptomOrSign,0,11,11,0.99,Tortuosität,,,,umls,11,"Failed: 11/11; Sources: umls; Files: 11; VERIFIED: Failed 10 times, confidence: 0.99",TRUE
+hyperinflated,Hyperdistention,SymptomOrSign,0,11,11,0.914,überbläht,,,,umls,11,"Failed: 11/11; Sources: umls; Files: 11; VERIFIED: Failed 11 times, confidence: 0.91",TRUE
+collapse,Collapse (finding),SymptomOrSign,10,0,10,0.985,Kollaps,,,,umls,7,Success: 10/10; Sources: umls; Files: 7,FALSE
+neck,Neck,BodyStructure,0,10,10,0.995,Hals,,,,umls,8,"Failed: 10/10; Sources: umls; Files: 8; VERIFIED: Failed 10 times, confidence: 0.99",TRUE
+PA and lateral views,Views PA & lateral,ExaminationName,0,10,10,0.93,Posteroanteriore und laterale Aufnahmen,,,,,10,"Failed: 10/10; Files: 10; VERIFIED: Failed 10 times, confidence: 0.93",TRUE
+upper lobe,Structure of upper lobe of lung,BodyStructure,0,10,10,0.911,Oberlappen,,,,umls,9,"Failed: 10/10; Sources: umls; Files: 9; VERIFIED: Failed 10 times, confidence: 0.91",TRUE
+pain,Pain,SymptomOrSign,10,0,10,0.967,Schmerzen,,,,umls,9,Success: 10/10; Sources: umls; Files: 9,FALSE
+interval change,12-lead electrocardiogram: interval change,SymptomOrSign,0,10,10,0.902,Veränderung,,,,,9,"Failed: 10/10; Files: 9; VERIFIED: Failed 10 times, confidence: 0.9",TRUE
+costophrenic angle,Costophrenic angle,BodyStructure,0,10,10,0.92,Sinus costodiaphragmaticus,,,,umls,10,"Failed: 10/10; Sources: umls; Files: 10; VERIFIED: Failed 10 times, confidence: 0.92",TRUE
+lateral view,Views lateral,ExaminationName,0,10,10,0.944,Lateralansicht,,,,,10,"Failed: 10/10; Files: 10; VERIFIED: Failed 8 times, confidence: 0.94",TRUE
+Frontal view,Views frontal,ExaminationName,0,10,10,0.971,Frontalsicht,,,,,9,"Failed: 10/10; Files: 9; VERIFIED: Failed 8 times, confidence: 0.97",TRUE
+pleural thickening,Thickening of pleura,SymptomOrSign,0,10,10,0.98,Pleuraverdickung,,,,umls,10,"Failed: 10/10; Sources: umls; Files: 10; VERIFIED: Failed 10 times, confidence: 0.98",TRUE
+tracheostomy tube,Tracheostomy tube,TreatmentName,0,10,10,0.945,,,,,umls,9,Failed: 10/10; Sources: umls; Files: 9,FALSE
+central venous catheter,"Central venous catheter, device",TreatmentName,10,0,10,0.964,Zentraler Venenkatheter,,,,umls,7,Success: 10/10; Sources: umls; Files: 7,FALSE
+hiatal hernia,Hiatal Hernia,Diagnosis,10,0,10,0.986,Hiatushernie,,,,umls,7,Success: 10/10; Sources: umls; Files: 7,FALSE
+right ventricle,Right ventricular structure,BodyStructure,0,9,9,0.912,Rechte Herzkammer,,,,umls,9,"Failed: 9/9; Sources: umls; Files: 9; VERIFIED: Failed 9 times, confidence: 0.91",TRUE
+abdomen,Abdomen,BodyStructure,0,9,9,1,Abdomen,,,,umls,9,"Failed: 9/9; Sources: umls; Files: 9; VERIFIED: Failed 9 times, confidence: 1.0",TRUE
+subclavian,Subclavicular approach,"BodyStructure, TreatmentName",0,9,9,0.91,subklavikulär,,,,umls,7,"Failed: 9/9; Sources: umls; Files: 7; VERIFIED: Failed 9 times, confidence: 0.91",TRUE
+pleural fluid,Pleural fluid,SymptomOrSign,0,9,9,0.951,Lungenflüssigkeit,,,,umls,6,"Failed: 9/9; Sources: umls; Files: 6; VERIFIED: Failed 9 times, confidence: 0.95",TRUE
+Chest frontal,Anterior chest wall structure,ExaminationName,0,9,9,0.94,Posteroanterior,,,,umls,9,"Failed: 9/9; Sources: umls; Files: 9; VERIFIED: Failed 8 times, confidence: 0.94",TRUE
+median sternotomy,Median Sternotomy,TreatmentName,0,9,9,0.99,Median-Sternotomie,,,,umls,9,"Failed: 9/9; Sources: umls; Files: 9; VERIFIED: Failed 9 times, confidence: 0.99",TRUE
+chest wall,Chest wall structure,BodyStructure,0,9,9,0.98,Brustwand,,,,umls,9,"Failed: 9/9; Sources: umls; Files: 9; VERIFIED: Failed 9 times, confidence: 0.98",TRUE
+basilar,Basilar,BodyStructure,0,9,9,0.85,basilar,,,,,9,"Failed: 9/9; Files: 9; VERIFIED: Failed 9 times, confidence: 0.85",TRUE
+thoracic aorta,Thoracic aorta,"BodyStructure, SymptomOrSign",0,9,9,0.924,Aorta thoracalis,,,,umls,7,"Failed: 9/9; Sources: umls; Files: 7; VERIFIED: Failed 9 times, confidence: 0.92",TRUE
+Fall,Falls,SymptomOrSign,9,0,9,1,Stürze,,,,umls,9,Success: 9/9; Sources: umls; Files: 9,FALSE
+scarring,Cicatrix,SymptomOrSign,0,9,9,0.99,Vernarbung,,,,umls,7,"Failed: 9/9; Sources: umls; Files: 7; VERIFIED: Failed 9 times, confidence: 0.99",TRUE
+altered mental status,Abnormal mental state,SymptomOrSign,0,9,9,0.991,,,,,umls,9,Failed: 9/9; Sources: umls; Files: 9,FALSE
+right upper lobe,Structure of right upper lobe of lung,BodyStructure,0,9,9,0.86,Rechter Oberlappen,,,,umls,6,"Failed: 9/9; Sources: umls; Files: 6; VERIFIED: Failed 9 times, confidence: 0.86",TRUE
+"pulmonary vascular
+ congestion",Pulmonary vascular congestion,SymptomOrSign,0,9,9,0.884,pulmonalvaskulär,,,,,9,"Failed: 9/9; Files: 9; VERIFIED: Failed 9 times, confidence: 0.88",TRUE
+cardiac silhouette,Cardiac shadow viewed radiologically,"BodyStructure, SymptomOrSign",0,9,9,0.93,Herzsilhouette,,,,,8,"Failed: 9/9; Files: 8; VERIFIED: Failed 7 times, confidence: 0.93",TRUE
+Pulmonary vasculature,Vasculature of lung,"BodyStructure, SymptomOrSign",0,8,8,0.871,,,,,,8,Failed: 8/8; Files: 8,FALSE
+catheter,catheter device,TreatmentName,0,8,8,0.99,Katheter,,,,umls,8,"Failed: 8/8; Sources: umls; Files: 8; VERIFIED: Failed 8 times, confidence: 0.99",TRUE
+Surgical clips,Surgical Clips,TreatmentName,0,8,8,0.974,,,,,umls,7,Failed: 8/8; Sources: umls; Files: 7,FALSE
+"pleural
+ effusions",Pleural effusion (disorder),Diagnosis,8,0,8,0.894,Pleuraerguss,,,,umls,8,Success: 8/8; Sources: umls; Files: 8,FALSE
+CT chest,Chest CT,ExaminationName,0,8,8,0.99,Thorax-CT,,,,umls,7,"Failed: 8/8; Sources: umls; Files: 7; VERIFIED: Failed 8 times, confidence: 0.99",TRUE
+bases,Basal segment of lung,BodyStructure,0,8,8,0.955,Basen,,,,umls,8,"Failed: 8/8; Sources: umls; Files: 8; VERIFIED: Failed 8 times, confidence: 0.95",TRUE
+rib fractures,Rib Fractures,Diagnosis,7,0,7,0.831,Rippenfraktur,,,,umls,5,Success: 7/7; Sources: umls; Files: 5,FALSE
+line,Intravascular line,TreatmentName,0,7,7,0.924,Katheter,,,,umls,5,"Failed: 7/7; Sources: umls; Files: 5; VERIFIED: Failed 7 times, confidence: 0.92",TRUE
+Evaluate,Evaluation,ExaminationName,0,7,7,0.867,,,,,,6,Failed: 7/7; Files: 6,FALSE
+fractures,Fracture,SymptomOrSign,7,0,7,0.926,Fraktur,,,,umls,5,Success: 7/7; Sources: umls; Files: 5,FALSE
+lymphadenopathy,Lymphadenopathy,SymptomOrSign,7,0,7,0.949,Lymphadenopathie,,,,umls,5,Success: 7/7; Sources: umls; Files: 5,FALSE
+lung opacities,Lung opacity,"ExaminationName, SymptomOrSign",0,7,7,0.883,Opazitäten der Lunge,,,,,6,"Failed: 7/7; Files: 6; VERIFIED: Failed 7 times, confidence: 0.88",TRUE
+hypoxia,Hypoxia,SymptomOrSign,0,7,7,0.94,Hypoxie,,,,umls,5,"Failed: 7/7; Sources: umls; Files: 5; VERIFIED: Failed 7 times, confidence: 0.94",TRUE
+vomiting,Vomiting,SymptomOrSign,7,0,7,0.997,Erbrechen,,,,umls,6,Success: 7/7; Sources: umls; Files: 6,FALSE
+findings,findings aspects,SymptomOrSign,0,7,7,0.89,Befunde,,,,,6,"Failed: 7/7; Files: 6; VERIFIED: Failed 7 times, confidence: 0.89",TRUE
+weakness,Weakness,SymptomOrSign,0,7,7,0.999,,,,,umls,7,Failed: 7/7; Sources: umls; Files: 7,FALSE
+lateral chest,Structure of surface region of lateral chest wall,ExaminationName,0,7,7,0.916,,,,,umls,5,Failed: 7/7; Sources: umls; Files: 5,FALSE
+cardiopulmonary disease,Cor pulmonale,Diagnosis,7,0,7,0.976,Cor Pulmonale,,,,umls,7,Success: 7/7; Sources: umls; Files: 7,FALSE
+syncope,Syncope,SymptomOrSign,7,0,7,0.979,Synkope,,,,umls,7,Success: 7/7; Sources: umls; Files: 7,FALSE
+abnormalities,Abnormal,SymptomOrSign,6,0,6,0.955,Abnorm,,,,umls,5,Success: 6/6; Sources: umls; Files: 5,FALSE
+fluid overload,Hypervolemia (finding),SymptomOrSign,6,0,6,0.915,Hypervolämie,,,,umls,6,Success: 6/6; Sources: umls; Files: 6,FALSE
+infectious process,INFECTIOUS PROCESS,Diagnosis,0,6,6,0.93,,,,,umls,5,Failed: 6/6; Sources: umls; Files: 5,FALSE
+unremarkable,Normal,SymptomOrSign,6,0,6,0.928,Normal,,,,umls,6,Success: 6/6; Sources: umls; Files: 6,FALSE
+tortuous,Tortuous,SymptomOrSign,0,6,6,0.98,gewunden,,,,,6,"Failed: 6/6; Files: 6; VERIFIED: Failed 6 times, confidence: 0.98",TRUE
+rib,Bone structure of rib,BodyStructure,0,6,6,0.913,,,,,umls,6,Failed: 6/6; Sources: umls; Files: 6,FALSE
+intubated,Intubation (procedure),TreatmentName,6,0,6,0.997,Intubation,,,,umls,6,Success: 6/6; Sources: umls; Files: 6,FALSE
+apex,Structure of apex of heart,BodyStructure,0,6,6,0.962,,,,,umls,6,Failed: 6/6; Sources: umls; Files: 6,FALSE
+fevers,Fever,SymptomOrSign,6,0,6,1,Fieber,,,,umls,6,Success: 6/6; Sources: umls; Files: 6,FALSE
+adenopathy,Lymphadenopathy,"Diagnosis, SymptomOrSign",6,0,6,0.962,Lymphadenopathie,,,,umls,4,Success: 6/6; Sources: umls; Files: 4,FALSE
+pulmonary,Lung,BodyStructure,0,6,6,1,,,,,umls,6,Failed: 6/6; Sources: umls; Files: 6,FALSE
+spine,Vertebral column,BodyStructure,0,6,6,0.993,,,,,umls,6,Failed: 6/6; Sources: umls; Files: 6,FALSE
+sepsis,Sepsis,Diagnosis,0,6,6,0.99,,,,,umls,6,Failed: 6/6; Sources: umls; Files: 6,FALSE
+clavicle,Bone structure of clavicle,BodyStructure,0,6,6,0.977,,,,,umls,5,Failed: 6/6; Sources: umls; Files: 5,FALSE
+tip,Tip,SymptomOrSign,0,6,6,0.838,,,,,,5,Failed: 6/6; Files: 5,FALSE
+Pneumomediastinum,Mediastinal Emphysema,Diagnosis,0,6,6,0.927,,,,,umls,5,Failed: 6/6; Sources: umls; Files: 5,FALSE
+appearance,Appearance,SymptomOrSign,0,6,6,0.867,,,,,umls,6,Failed: 6/6; Sources: umls; Files: 6,FALSE
+leads,Lead Device,TreatmentName,0,5,5,0.962,,,,,,5,Failed: 5/5; Files: 5,FALSE
+scoliosis,"Scoliosis, unspecified",Diagnosis,5,0,5,0.954,Skoliose der Wirbelsäule,,,,umls,5,Success: 5/5; Sources: umls; Files: 5,FALSE
+congestion,Congestion,SymptomOrSign,0,5,5,0.984,,,,,umls,4,Failed: 5/5; Sources: umls; Files: 4,FALSE
+wheezing,Wheezing,SymptomOrSign,5,0,5,0.994,Pfeifgeräusch beim Atmen,,,,umls,4,Success: 5/5; Sources: umls; Files: 4,FALSE
+CXR,Plain chest X-ray,ExaminationName,5,0,5,0.978,Röntgenaufnahme der Brust,,,,umls,4,Success: 5/5; Sources: umls; Files: 4,FALSE
+Afib,Atrial Fibrillation,Diagnosis,5,0,5,0.998,Vorhofflimmern,,,,umls,3,Success: 5/5; Sources: umls; Files: 3,FALSE
+fatigue,Fatigue,SymptomOrSign,5,0,5,0.98,Fatigue,,,,umls,5,Success: 5/5; Sources: umls; Files: 5,FALSE
+PIC line,Peripherally inserted central catheter (physical object),TreatmentName,0,5,5,0.984,,,,,umls,5,Failed: 5/5; Sources: umls; Files: 5,FALSE
+stable,Stable status,SymptomOrSign,5,0,5,0.886,Stabil,,,,umls,5,Success: 5/5; Sources: umls; Files: 5,FALSE
+lesion,Lesion,SymptomOrSign,0,5,5,0.996,,,,,umls,3,Failed: 5/5; Sources: umls; Files: 3,FALSE
+hypotension,Hypotension,"Diagnosis, SymptomOrSign",5,0,5,0.972,Hypotonie,,,,umls,5,Success: 5/5; Sources: umls; Files: 5,FALSE
+rotated,Rotated,SymptomOrSign,0,5,5,0.996,,,,,umls,5,Failed: 5/5; Sources: umls; Files: 5,FALSE
+chills,Chills,SymptomOrSign,5,0,5,0.988,Frösteln,,,,umls,5,Success: 5/5; Sources: umls; Files: 5,FALSE
+feeding tube,Tube feeding of patient,TreatmentName,0,5,5,0.938,,,,,,5,Failed: 5/5; Files: 5,FALSE
+within normal limits,Normal limits,SymptomOrSign,0,5,5,0.91,,,,,umls,5,Failed: 5/5; Sources: umls; Files: 5,FALSE
+esophagus,Esophagus,BodyStructure,0,5,5,0.982,,,,,umls,5,Failed: 5/5; Sources: umls; Files: 5,FALSE
+respiratory distress,Respiratory distress,SymptomOrSign,5,0,5,0.986,Atembeschwerden,,,,umls,5,Success: 5/5; Sources: umls; Files: 5,FALSE
+Calcifications,Calcinosis,SymptomOrSign,0,5,5,0.98,,,,,umls,5,Failed: 5/5; Sources: umls; Files: 5,FALSE
+trachea,Trachea,BodyStructure,0,5,5,0.95,,,,,umls,5,Failed: 5/5; Sources: umls; Files: 5,FALSE
+CTA chest,CT angiography of thorax with contrast,ExaminationName,0,5,5,0.96,,,,,umls,5,Failed: 5/5; Sources: umls; Files: 5,FALSE
+normal size,Normal size,SymptomOrSign,0,5,5,0.924,,,,,umls,5,Failed: 5/5; Sources: umls; Files: 5,FALSE
+emphysema,Pathological accumulation of air in tissues,Diagnosis,0,5,5,0.946,,,,,umls,5,Failed: 5/5; Sources: umls; Files: 5,FALSE
+air bronchograms,Air bronchogram on radiograph (finding),"ExaminationName, SymptomOrSign",2,3,5,0.914,Bronchopneumogramm,,,,umls,4,Success: 2/5; Failed: 3/5; Sources: umls; Files: 4,FALSE
+Asthma,Asthma,Diagnosis,5,0,5,0.998,Asthma bronchiale,,,,umls,5,Success: 5/5; Sources: umls; Files: 5,FALSE
+ascites,Ascites,Diagnosis,5,0,5,0.958,Aszites,,,,umls,4,Success: 5/5; Sources: umls; Files: 4,FALSE
+crackles,Rales,SymptomOrSign,5,0,5,0.99,Rasselgeräusche,,,,umls,5,Success: 5/5; Sources: umls; Files: 5,FALSE
+lung apex,Structure of apex of lung,BodyStructure,0,5,5,0.98,,,,,umls,3,Failed: 5/5; Sources: umls; Files: 3,FALSE
+lead,"Plumbum metallicum, homeopathic preparation",TreatmentName,0,4,4,0.865,,,,,,4,Failed: 4/4; Files: 4,FALSE
+changes,Changing,SymptomOrSign,0,4,4,0.902,,,,,umls,4,Failed: 4/4; Sources: umls; Files: 4,FALSE
+chest tubes,Chest Tubes,TreatmentName,0,4,4,0.985,,,,,umls,4,Failed: 4/4; Sources: umls; Files: 4,FALSE
+calcification,Calcification,SymptomOrSign,0,4,4,0.985,,,,,,4,Failed: 4/4; Files: 4,FALSE
+AVR,aVR,TreatmentName,0,4,4,1,,,,,umls,3,Failed: 4/4; Sources: umls; Files: 3,FALSE
+left upper lobe,Structure of left upper lobe of lung,BodyStructure,0,4,4,0.84,,,,,umls,3,Failed: 4/4; Sources: umls; Files: 3,FALSE
+Febrile,Fever,SymptomOrSign,4,0,4,0.998,Fieber,,,,umls,4,Success: 4/4; Sources: umls; Files: 4,FALSE
+hemidiaphragms,Structure of hemidiaphragm,BodyStructure,0,4,4,0.968,,,,,umls,3,Failed: 4/4; Sources: umls; Files: 3,FALSE
+displaced,Spatial Displacement,SymptomOrSign,0,4,4,0.97,,,,,umls,2,Failed: 4/4; Sources: umls; Files: 2,FALSE
+vascular engorgement,Hyperemia,SymptomOrSign,0,4,4,0.995,,,,,umls,4,Failed: 4/4; Sources: umls; Files: 4,FALSE
+seizure,Seizures,SymptomOrSign,4,0,4,0.953,Krampfanfall,,,,umls,4,Success: 4/4; Sources: umls; Files: 4,FALSE
+"lung
+ base",Basal segment of lung,BodyStructure,0,4,4,0.985,,,,,umls,3,Failed: 4/4; Sources: umls; Files: 3,FALSE
+interstitial lung disease,"Lung Diseases, Interstitial",Diagnosis,4,0,4,0.992,Interstitielle Lungenkrankheit,,,,umls,4,Success: 4/4; Sources: umls; Files: 4,FALSE
+extubated,Tracheal Extubation,TreatmentName,0,4,4,1,,,,,umls,4,Failed: 4/4; Sources: umls; Files: 4,FALSE
+6th rib,Rib 6,BodyStructure,0,4,4,0.912,,,,,,1,Failed: 4/4; Files: 1,FALSE
+Hypertension,Hypertensive disease,Diagnosis,4,0,4,0.998,Arterielle Hypertonie,,,,umls,4,Success: 4/4; Sources: umls; Files: 4,FALSE
+ARDS,"Respiratory Distress Syndrome, Adult",Diagnosis,4,0,4,0.982,Akutes Atemnotsyndrom des Erwachsenen,,,,umls,3,Success: 4/4; Sources: umls; Files: 3,FALSE
+bronchoscopy,Bronchoscopy,ExaminationName,4,0,4,0.98,Bronchoskopie,,,,umls,3,Success: 4/4; Sources: umls; Files: 3,FALSE
+Respiratory failure,Respiratory Failure,Diagnosis,4,0,4,0.963,Atemversagen,,,,umls,4,Success: 4/4; Sources: umls; Files: 4,FALSE
+brachiocephalic vein,Structure of brachiocephalic vein,BodyStructure,0,4,4,0.965,,,,,umls,4,Failed: 4/4; Sources: umls; Files: 4,FALSE
+acute pneumonia,Acute pneumonia,Diagnosis,0,4,4,1,,,,,,4,Failed: 4/4; Files: 4,FALSE
+tachypnea,Tachypnea,SymptomOrSign,4,0,4,0.99,Tachypnoe,,,,umls,4,Success: 4/4; Sources: umls; Files: 4,FALSE
+rib fracture,Rib Fractures,Diagnosis,4,0,4,0.818,Rippenfraktur,,,,umls,4,Success: 4/4; Sources: umls; Files: 4,FALSE
+interstitial pulmonary edema,pulmonary edema interstitial,Diagnosis,0,4,4,0.95,,,,,,4,Failed: 4/4; Files: 4,FALSE
+pulled,Does pull,SymptomOrSign,0,4,4,1,,,,,umls,4,Failed: 4/4; Sources: umls; Files: 4,FALSE
+thoracentesis,Thoracentesis,TreatmentName,4,0,4,0.99,Thorakozentese,,,,umls,3,Success: 4/4; Sources: umls; Files: 3,FALSE
+Nodular opacity,Nodular Opacity,SymptomOrSign,0,4,4,0.917,,,,,,3,Failed: 4/4; Files: 3,FALSE
+costophrenic angles,Costophrenic angle,BodyStructure,0,4,4,0.917,,,,,umls,3,Failed: 4/4; Sources: umls; Files: 3,FALSE
+thoracocentesis,Thoracentesis,TreatmentName,4,0,4,0.982,Thorakozentese,,,,umls,2,Success: 4/4; Sources: umls; Files: 2,FALSE
+cp,Chest Pain,SymptomOrSign,4,0,4,0.958,Thoraxschmerzen,,,,umls,3,Success: 4/4; Sources: umls; Files: 3,FALSE
+cirrhosis,Liver Cirrhosis,Diagnosis,4,0,4,0.998,Leberzirrhose,,,,umls,4,Success: 4/4; Sources: umls; Files: 4,FALSE
+tension,Tension,SymptomOrSign,0,4,4,0.978,,,,,umls,3,Failed: 4/4; Sources: umls; Files: 3,FALSE
+nodule,Nodule,SymptomOrSign,0,4,4,0.935,,,,,umls,3,Failed: 4/4; Sources: umls; Files: 3,FALSE
+pneumothoraces,Pneumothorax,Diagnosis,4,0,4,0.855,Pneumothorax,,,,umls,4,Success: 4/4; Sources: umls; Files: 4,FALSE
+thoracic,Chest,BodyStructure,0,4,4,0.96,,,,,umls,4,Failed: 4/4; Sources: umls; Files: 4,FALSE
+widening,Widening,SymptomOrSign,0,4,4,0.96,,,,,umls,3,Failed: 4/4; Sources: umls; Files: 3,FALSE
+Osseous,Skeletal bone,SymptomOrSign,0,4,4,0.925,,,,,umls,4,Failed: 4/4; Sources: umls; Files: 4,FALSE
+rhonchi,Rhonchi,SymptomOrSign,0,4,4,0.982,,,,,umls,3,Failed: 4/4; Sources: umls; Files: 3,FALSE
+hematoma,Hematoma,"Diagnosis, SymptomOrSign",0,4,4,0.968,,,,,umls,4,Failed: 4/4; Sources: umls; Files: 4,FALSE
+esophagectomy,Esophagectomy,TreatmentName,4,0,4,1,Ösophagektomie,,,,umls,2,Success: 4/4; Sources: umls; Files: 2,FALSE
+orogastric tube,orogastric tube,TreatmentName,0,4,4,0.95,,,,,,3,Failed: 4/4; Files: 3,FALSE
+biopsy,Biopsy,ExaminationName,0,4,4,0.948,,,,,umls,3,Failed: 4/4; Sources: umls; Files: 3,FALSE
+Evaluation,Evaluation,ExaminationName,0,3,3,0.82,,,,,,2,Failed: 3/3; Files: 2,FALSE
+apical,Apical,BodyStructure,0,3,3,0.85,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+transfusion,Blood Transfusion,TreatmentName,3,0,3,0.993,Transfusion von Blutprodukt,,,,umls,3,Success: 3/3; Sources: umls; Files: 3,FALSE
+Upright AP view,View AP upright,ExaminationName,0,3,3,0.973,,,,,,3,Failed: 3/3; Files: 3,FALSE
+glenohumeral joints,Joint structure of shoulder region,BodyStructure,0,3,3,0.987,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+MVR,Missing Value Reason,TreatmentName,0,3,3,0.93,,,,,,3,Failed: 3/3; Files: 3,FALSE
+process,Process,SymptomOrSign,0,3,3,0.867,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+"degenerative
+ changes",Abnormal degeneration,SymptomOrSign,0,3,3,0.973,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+symptoms,Symptoms,SymptomOrSign,0,3,3,0.973,,,,,,3,Failed: 3/3; Files: 3,FALSE
+descending thoracic aorta,Descending thoracic aorta,BodyStructure,0,3,3,0.907,,,,,umls,2,Failed: 3/3; Sources: umls; Files: 2,FALSE
+PET-CT,PET/CT scan,ExaminationName,0,3,3,0.993,,,,,umls,1,Failed: 3/3; Sources: umls; Files: 1,FALSE
+MR,Mitral Valve Insufficiency,Diagnosis,3,0,3,0.987,Mitralklappeninsuffizienz,,,,umls,1,Success: 3/3; Sources: umls; Files: 1,FALSE
+coumadin,Coumadin,MedicationName,0,3,3,1,,,,,,1,Failed: 3/3; Files: 1,FALSE
+nausea,Nausea,SymptomOrSign,3,0,3,0.997,Übelkeit,,,,umls,3,Success: 3/3; Sources: umls; Files: 3,FALSE
+middle lobe,Structure of middle lobe of right lung,BodyStructure,0,3,3,0.937,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+heart border,Cardiac border,BodyStructure,0,3,3,0.917,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+Myalgias,Myalgia,SymptomOrSign,3,0,3,0.937,Myalgie,,,,umls,3,Success: 3/3; Sources: umls; Files: 3,FALSE
+lung zone,Zone of lung,BodyStructure,0,3,3,0.947,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+treatment,Therapeutic procedure,TreatmentName,0,3,3,0.94,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+chest CTA,CT angiography of thorax with contrast,ExaminationName,0,3,3,0.97,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+dizziness,Dizziness,SymptomOrSign,3,0,3,0.997,Schwindelgefühl,,,,umls,3,Success: 3/3; Sources: umls; Files: 3,FALSE
+Widened mediastinum,Widened mediastinum,SymptomOrSign,3,0,3,0.96,Mediastinalverbreiterung,,,,umls,3,Success: 3/3; Sources: umls; Files: 3,FALSE
+AP and lateral views,Views AP & lateral,ExaminationName,0,3,3,0.94,,,,,,3,Failed: 3/3; Files: 3,FALSE
+aorta,Aorta,BodyStructure,0,3,3,0.843,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+diabetes,Diabetes Mellitus,Diagnosis,3,0,3,1,Diabetes mellitus,,,,umls,3,Success: 3/3; Sources: umls; Files: 3,FALSE
+calcified,Calcified (qualifier value),SymptomOrSign,0,3,3,0.99,,,,,,3,Failed: 3/3; Files: 3,FALSE
+hemothorax,Hemothorax,Diagnosis,0,3,3,0.99,,,,,umls,1,Failed: 3/3; Sources: umls; Files: 1,FALSE
+multiple myeloma,Multiple Myeloma,Diagnosis,3,0,3,1,Multiples Myelom,,,,umls,2,Success: 3/3; Sources: umls; Files: 2,FALSE
+"thoracic
+ spine",Thoracic spine structure,BodyStructure,0,3,3,0.963,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+MI,Myocardial Infarction,Diagnosis,3,0,3,0.99,Myokardinfarkt,,,,umls,1,Success: 3/3; Sources: umls; Files: 1,FALSE
+prominence,Prominent,SymptomOrSign,0,3,3,0.987,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+pulmonary nodules,Multiple Pulmonary Nodules,SymptomOrSign,0,3,3,0.933,,,,,umls,2,Failed: 3/3; Sources: umls; Files: 2,FALSE
+tube,biomedical tube device,TreatmentName,0,3,3,0.957,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+superimposed infection,Superinfection,Diagnosis,3,0,3,1,Superinfektion,,,,umls,3,Success: 3/3; Sources: umls; Files: 3,FALSE
+endoscopy,Endoscopy (procedure),ExaminationName,3,0,3,0.99,Endoskopie,,,,umls,2,Success: 3/3; Sources: umls; Files: 2,FALSE
+confusion,Confusion,SymptomOrSign,3,0,3,0.917,Verwirrtheitszustand,,,,umls,3,Success: 3/3; Sources: umls; Files: 3,FALSE
+artery,Arteries,BodyStructure,0,3,3,1,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+thoracic vertebral body,Structure of body of thoracic vertebra,BodyStructure,0,3,3,0.95,,,,,umls,2,Failed: 3/3; Sources: umls; Files: 2,FALSE
+Pacemaker,Artificial cardiac pacemaker,TreatmentName,3,0,3,0.99,Herzschrittmacher,,,,umls,3,Success: 3/3; Sources: umls; Files: 3,FALSE
+fibrosis,Fibrosis,SymptomOrSign,0,3,3,0.937,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+dextroscoliosis,Dextroscoliosis,Diagnosis,0,3,3,0.96,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+clavicles,Bone structure of clavicle,BodyStructure,0,3,3,0.92,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+metastatic disease,Neoplasm Metastasis,Diagnosis,0,3,3,0.897,,,,,,3,Failed: 3/3; Files: 3,FALSE
+ileostomy,Creation of ileostomy,TreatmentName,3,0,3,0.97,Anlage eines Ileostomas,,,,umls,2,Success: 3/3; Sources: umls; Files: 2,FALSE
+lesions,Lesion,SymptomOrSign,0,3,3,0.923,,,,,umls,2,Failed: 3/3; Sources: umls; Files: 2,FALSE
+aspiration pneumonia,Aspiration Pneumonia,Diagnosis,3,0,3,1,Aspirationspneumonie,,,,umls,2,Success: 3/3; Sources: umls; Files: 2,FALSE
+stroke,Cerebrovascular accident,Diagnosis,3,0,3,0.993,Schlaganfall,,,,umls,3,Success: 3/3; Sources: umls; Files: 3,FALSE
+pleural drain,drainage of pleura,TreatmentName,0,3,3,0.95,,,,,,3,Failed: 3/3; Files: 3,FALSE
+deformity,Deformity,SymptomOrSign,0,3,3,0.977,,,,,umls,2,Failed: 3/3; Sources: umls; Files: 2,FALSE
+sternal wires,Wiring of sternum,TreatmentName,0,3,3,0.973,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+"chest
+ tube",Chest Tubes,TreatmentName,0,3,3,0.987,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+obscuration,Obscure,SymptomOrSign,0,3,3,0.987,,,,,,3,Failed: 3/3; Files: 3,FALSE
+thoracic inlet,Structure of thoracic inlet,BodyStructure,0,3,3,0.943,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+Bronchial wall thickening,Bronchial wall thickening,SymptomOrSign,0,3,3,0.963,,,,,,2,Failed: 3/3; Files: 2,FALSE
+central catheter,"Catheterization, Central Venous",TreatmentName,0,3,3,0.96,,,,,,3,Failed: 3/3; Files: 3,FALSE
+interval changes,12-lead electrocardiogram: interval change,SymptomOrSign,0,3,3,0.9,,,,,,2,Failed: 3/3; Files: 2,FALSE
+descending aorta,Descending aorta,BodyStructure,0,3,3,0.967,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+sternotomy,Sternotomy (procedure),TreatmentName,3,0,3,1,Sternotomie,,,,umls,3,Success: 3/3; Sources: umls; Files: 3,FALSE
+bypass surgery,Bypass surgery,TreatmentName,0,3,3,0.993,,,,,,2,Failed: 3/3; Files: 2,FALSE
+right lower lobe pneumonia,Right lower zone pneumonia,Diagnosis,0,3,3,1,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+"support
+ devices","Support, device",TreatmentName,0,3,3,0.817,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+pigtail catheter,pigtail catheters,TreatmentName,0,3,3,0.993,,,,,,2,Failed: 3/3; Files: 2,FALSE
+chest tube placement,chest tube placement,TreatmentName,0,3,3,0.967,,,,,,3,Failed: 3/3; Files: 3,FALSE
+widening of the mediastinum,Widened mediastinum,SymptomOrSign,3,0,3,0.943,Mediastinalverbreiterung,,,,umls,3,Success: 3/3; Sources: umls; Files: 3,FALSE
+atrium,Heart Atrium,BodyStructure,0,3,3,0.967,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+Increased density,Density above reference range,SymptomOrSign,0,3,3,0.897,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+amiodarone,amiodarone,MedicationName,3,0,3,1,Amiodaron,,,,umls,1,Success: 3/3; Sources: umls; Files: 1,FALSE
+central line,"Central venous catheter, device",TreatmentName,3,0,3,0.987,Zentraler Venenkatheter,,,,umls,3,Success: 3/3; Sources: umls; Files: 3,FALSE
+hemi thorax,Structure of half of thorax lateral to midsagittal plane,BodyStructure,0,3,3,0.953,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+rotation,x-ray of toe: rotation deformity,SymptomOrSign,0,3,3,0.93,,,,,,2,Failed: 3/3; Files: 2,FALSE
+CT scanning,X-Ray Computed Tomography,ExaminationName,0,3,3,0.993,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+axilla,Axilla,BodyStructure,0,3,3,0.963,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+foreign body,Foreign Bodies,SymptomOrSign,3,0,3,0.923,Fremdkörper,,,,umls,1,Success: 3/3; Sources: umls; Files: 1,FALSE
+widened,Widening,SymptomOrSign,0,3,3,0.99,,,,,umls,3,Failed: 3/3; Sources: umls; Files: 3,FALSE
+reticular,Reticular,SymptomOrSign,0,3,3,0.983,,,,,umls,2,Failed: 3/3; Sources: umls; Files: 2,FALSE
+PND,Paroxysmal nocturnal dyspnea,Diagnosis,0,3,3,0.98,,,,,umls,1,Failed: 3/3; Sources: umls; Files: 1,FALSE
+drainage catheter,"Catheter, drainage",TreatmentName,0,3,3,0.997,,,,,,2,Failed: 3/3; Files: 2,FALSE
+"right
+ upper lobe",Structure of right upper lobe of lung,BodyStructure,0,3,3,0.833,,,,,umls,2,Failed: 3/3; Sources: umls; Files: 2,FALSE
+Thrombocytopenia,Thrombocytopenia,Diagnosis,2,0,2,0.95,Thrombozytopenie,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+dual-chamber pacemaker,dual-chamber pacemaker (procedure),TreatmentName,0,2,2,0.93,,,,,,2,Failed: 2/2; Files: 2,FALSE
+cholangiocarcinoma,Cholangiocarcinoma,Diagnosis,2,0,2,1,Cholangiozelluläres Karzinom,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+wedge resection,Wedge resection - action,TreatmentName,2,0,2,1,Keilresektion,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+hemorrhage,Hemorrhage,SymptomOrSign,2,0,2,0.86,Blutung,,,,umls,1,Success: 2/2; Sources: umls; Files: 1,FALSE
+trauma,Trauma,SymptomOrSign,0,2,2,1,,,,,,1,Failed: 2/2; Files: 1,FALSE
+basal,Basal,BodyStructure,0,2,2,0.92,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+aortic arch,Aortic arch structure,BodyStructure,0,2,2,0.945,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+"chest tube
+ placement",chest tube placement,TreatmentName,0,2,2,0.985,,,,,,2,Failed: 2/2; Files: 2,FALSE
+antibiotics,Antibiotics,MedicationClass,0,2,2,0.995,,,,,,2,Failed: 2/2; Files: 2,FALSE
+imaging,Diagnostic Imaging,ExaminationName,2,0,2,0.965,Bildgebende Diagnostik,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+finding,Finding,SymptomOrSign,0,2,2,0.825,,,,,,2,Failed: 2/2; Files: 2,FALSE
+ectatic,Dilated,SymptomOrSign,0,2,2,0.99,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+"shortness of
+ breath",Dyspnea,SymptomOrSign,2,0,2,0.99,Dyspnoe,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+peribronchial cuffing,Peribronchial Cuffing,SymptomOrSign,0,2,2,0.95,,,,,,2,Failed: 2/2; Files: 2,FALSE
+NSTEMI,Non-ST Elevated Myocardial Infarction,Diagnosis,0,2,2,1,,,,,,2,Failed: 2/2; Files: 2,FALSE
+difficulty breathing,Dyspnea,SymptomOrSign,2,0,2,0.995,Dyspnoe,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+pulmonary embolism,Pulmonary Embolism,Diagnosis,2,0,2,1,Lungenembolie,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+Swan-Ganz catheter,Pulmonary artery flotation catheter,TreatmentName,2,0,2,0.97,Pulmonalarterienkatheter,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+obscuring,Obscure,SymptomOrSign,0,2,2,0.85,,,,,,2,Failed: 2/2; Files: 2,FALSE
+granulomatous disease,Granulomatous disorder,Diagnosis,0,2,2,0.975,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+monitoring devices,Monitor Device,TreatmentName,0,2,2,0.945,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+CVA,Cerebrovascular accident,Diagnosis,2,0,2,0.995,Schlaganfall,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+"feeding
+ tube",Tube feeding of patient,TreatmentName,0,2,2,0.93,,,,,,2,Failed: 2/2; Files: 2,FALSE
+trach,trach,TreatmentName,0,2,2,0.975,,,,,,2,Failed: 2/2; Files: 2,FALSE
+tracheostomy,Tracheostomy procedure,TreatmentName,0,2,2,0.965,,,,,,2,Failed: 2/2; Files: 2,FALSE
+stent placement,Stenting,TreatmentName,0,2,2,0.98,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+coronary stent,Coronary artery stent (device),TreatmentName,0,2,2,0.915,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+malaise,Malaise,SymptomOrSign,0,2,2,1,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+hydropneumothorax,Hydropneumothorax,Diagnosis,0,2,2,0.94,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+palpitations,Palpitations,SymptomOrSign,2,0,2,1,Palpitationen,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+ventricle,Ventricle,BodyStructure,0,2,2,0.97,,,,,,2,Failed: 2/2; Files: 2,FALSE
+interstitial markings,Interstitial marker,SymptomOrSign,0,2,2,0.985,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+Prominent vasculature,Prominent vasculature,SymptomOrSign,0,2,2,0.985,,,,,,1,Failed: 2/2; Files: 1,FALSE
+Portable AP view,View AP portable,ExaminationName,0,2,2,0.97,,,,,,2,Failed: 2/2; Files: 2,FALSE
+emphysematous changes,EMPHYSEMATOUS CHANGE,SymptomOrSign,0,2,2,0.985,,,,,,2,Failed: 2/2; Files: 2,FALSE
+"pleural
+ thickening",Thickening of pleura,SymptomOrSign,0,2,2,0.97,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+PPD,purified protein derivative of tuberculin,ExaminationName,2,0,2,0.995,Tuberkulin-gereinigtes Proteinderivat,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+"chest
+ tubes",Chest Tubes,TreatmentName,0,2,2,0.93,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+desaturation,Oxygen saturation below reference range,SymptomOrSign,2,0,2,0.965,Sauerstoffsättigung unterhalb Referenzbereich,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+swelling,Swelling,SymptomOrSign,0,2,2,1,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+Lung apices,Structure of apex of lung,BodyStructure,0,2,2,0.86,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+"Heart
+ size",heart size,SymptomOrSign,0,2,2,0.885,,,,,,2,Failed: 2/2; Files: 2,FALSE
+contour,Contour form,SymptomOrSign,0,2,2,0.8,,,,,,1,Failed: 2/2; Files: 1,FALSE
+"lung
+ volumes",Lung Volumes,ExaminationName,0,2,2,0.85,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+lower extremity,Lower Extremity,BodyStructure,0,2,2,0.92,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+leukocytosis,Leukocytosis,SymptomOrSign,2,0,2,0.955,Leukozytose,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+film,film - layer,ExaminationName,0,2,2,0.915,,,,,,2,Failed: 2/2; Files: 2,FALSE
+duodenum,Duodenum,BodyStructure,0,2,2,0.99,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+aortic dissection,Dissection of aorta,Diagnosis,2,0,2,1,Aortendissektion,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+stent,"Stent, device",TreatmentName,2,0,2,0.98,Stent,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+vascular stent,Vascular stent,TreatmentName,0,2,2,0.96,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+acute disease,Acute Disease,Diagnosis,2,0,2,1,Akute Krankheit,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+abx,Antibiotics,MedicationClass,0,2,2,0.975,,,,,,2,Failed: 2/2; Files: 2,FALSE
+chest pressure,Chest pressure,SymptomOrSign,0,2,2,1,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+hila,Hilum,"BodyStructure, SymptomOrSign",0,2,2,0.89,,,,,,2,Failed: 2/2; Files: 2,FALSE
+MSSA pneumonia,Pneumonia caused by methicillin susceptible Staphylococcus aureus,Diagnosis,0,2,2,0.995,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+loss of height,Decrease in height,SymptomOrSign,0,2,2,0.995,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+treated,Therapeutic procedure,TreatmentName,0,2,2,0.965,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+pulmonary consolidation,Lung consolidation,Diagnosis,0,2,2,1,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+abnormality,Abnormal,SymptomOrSign,2,0,2,0.975,Abnorm,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+Substernal,Structure of substernal region,BodyStructure,0,2,2,0.88,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+magnified,Magnification,SymptomOrSign,0,2,2,0.98,,,,,,2,Failed: 2/2; Files: 2,FALSE
+resection,Excision,TreatmentName,2,0,2,0.955,Exzision,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+x-ray,Diagnostic radiologic examination,ExaminationName,0,2,2,0.985,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+Eventration,Eventration,SymptomOrSign,0,2,2,0.985,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+"within
+ normal limits",Normal limits,SymptomOrSign,0,2,2,0.925,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+pneumocystis infection,Pneumocystis Infections,Diagnosis,0,2,2,0.995,,,,,,1,Failed: 2/2; Files: 1,FALSE
+C5,C5 innervation,BodyStructure,0,2,2,0.965,,,,,,2,Failed: 2/2; Files: 2,FALSE
+central line placement,Central line placement,TreatmentName,0,2,2,0.985,,,,,,2,Failed: 2/2; Files: 2,FALSE
+"PICC
+ line",Peripherally inserted central catheter (physical object),TreatmentName,0,2,2,0.985,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+Coronary artery disease,Coronary Artery Disease,Diagnosis,0,2,2,1,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+PICC line placement,Peripherally Inserted Central Catheter Line Insertion,TreatmentName,0,2,2,0.97,,,,,,2,Failed: 2/2; Files: 2,FALSE
+pulmonary process,PULMONARY PROCESS,Diagnosis,0,2,2,0.855,,,,,,2,Failed: 2/2; Files: 2,FALSE
+MRI,Magnetic Resonance Imaging,ExaminationName,0,2,2,0.985,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+pleural abnormality,Abnormal pleura morphology,SymptomOrSign,0,2,2,0.955,,,,,,2,Failed: 2/2; Files: 2,FALSE
+normal heart size,heart size normal,SymptomOrSign,0,2,2,0.915,,,,,,2,Failed: 2/2; Files: 2,FALSE
+mediastinal widening,Widened mediastinum,SymptomOrSign,2,0,2,0.985,Mediastinalverbreiterung,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+pulmonary metastases,Secondary malignant neoplasm of lung,Diagnosis,2,0,2,0.99,Metastatische bösartige Neubildung der Lunge,,,,umls,1,Success: 2/2; Sources: umls; Files: 1,FALSE
+Breast cancer,Malignant neoplasm of breast,Diagnosis,0,2,2,1,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+back pain,Back Pain,SymptomOrSign,2,0,2,0.995,Rückenschmerzen,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+breast,Breast,BodyStructure,0,2,2,0.97,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+pacemaker placement,Implantation of cardiac pacemaker,TreatmentName,2,0,2,0.985,Implantation eines Herzschrittmachers,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+AP portable view,View AP portable,ExaminationName,0,2,2,0.96,,,,,,2,Failed: 2/2; Files: 2,FALSE
+"pigtail
+ catheter",pigtail catheters,TreatmentName,0,2,2,0.99,,,,,,2,Failed: 2/2; Files: 2,FALSE
+hyperexpansion,Hyperdistention,SymptomOrSign,0,2,2,0.995,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+Dobhoff tube,Nasoduodenal feeding tube,TreatmentName,0,2,2,0.99,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+drainage,Drainage procedure,TreatmentName,0,2,2,0.965,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+CT abdomen and pelvis,Multisection:Find:Pt:Abdomen+Pelvis:Doc:CT,ExaminationName,0,2,2,0.95,,,,,,1,Failed: 2/2; Files: 1,FALSE
+VATS,"Thoracic Surgery, Video-Assisted",TreatmentName,0,2,2,0.925,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+non-small cell lung cancer,Non-Small Cell Lung Carcinoma,Diagnosis,2,0,2,1,Nicht-kleinzelliges Bronchialkarzinom,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+major fissure,Major fissure,BodyStructure,0,2,2,0.975,,,,,,2,Failed: 2/2; Files: 2,FALSE
+sclerotic,Sclerosis,SymptomOrSign,0,2,2,0.89,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+enlarged thyroid gland,Goiter,SymptomOrSign,2,0,2,0.97,Kropf,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+steroids,Steroids,MedicationClass,0,2,2,0.985,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+normal in size,Normal size,SymptomOrSign,0,2,2,0.82,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+infectious pneumonia,infective pneumonia,Diagnosis,0,2,2,0.995,,,,,,2,Failed: 2/2; Files: 2,FALSE
+neoplasm,Neoplasms,Diagnosis,0,2,2,0.985,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+bronchiolitis,Bronchiolitis,Diagnosis,0,2,2,0.98,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+upper lobes,Structure of upper lobe of lung,BodyStructure,0,2,2,0.915,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+malignancy,Malignant Neoplasms,Diagnosis,2,0,2,1,Bösartige Neubildung,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+zone,Zone,BodyStructure,0,2,2,0.825,,,,,,2,Failed: 2/2; Files: 2,FALSE
+rheumatoid arthritis,Rheumatoid Arthritis,Diagnosis,2,0,2,1,Rheumatoide Arthritis,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+"fluid
+ overload",Hypervolemia (finding),SymptomOrSign,2,0,2,0.91,Hypervolämie,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+tube placement,placement of tube,TreatmentName,0,2,2,0.985,,,,,,2,Failed: 2/2; Files: 2,FALSE
+"chest
+ wall",Chest wall structure,BodyStructure,0,2,2,0.995,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+pneumopericardium,Pneumopericardium,Diagnosis,0,2,2,0.965,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+ribs,Bone structure of rib,BodyStructure,0,2,2,0.935,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+pleuritic chest pain,Pleuritic pain,SymptomOrSign,2,0,2,0.89,Pleuraler Thoraxschmerz,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+lines,Lines - QueryQuantityUnit,TreatmentName,0,2,2,0.91,,,,,,2,Failed: 2/2; Files: 2,FALSE
+tubes,biomedical tube device,TreatmentName,0,2,2,0.96,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+opacifications,Opacification,SymptomOrSign,0,2,2,1,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+rib pain,Rib pain,SymptomOrSign,2,0,2,0.96,Rippenschmerzen,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+size,size,SymptomOrSign,0,2,2,0.975,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+exams,Medical Examination,ExaminationName,2,0,2,0.94,Medizinisches Assessment,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+lung fields,Lung field,BodyStructure,0,2,2,0.855,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+volume overload,Hypervolemia (finding),SymptomOrSign,2,0,2,0.88,Hypervolämie,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+extubation,Tracheal Extubation,TreatmentName,0,2,2,1,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+cardiac border,Cardiac border,BodyStructure,0,2,2,0.94,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+elevated right hemidiaphragm,Elevated right hemidiaphragm,SymptomOrSign,0,2,2,0.975,,,,,,2,Failed: 2/2; Files: 2,FALSE
+congestive heart failure,Congestive heart failure,Diagnosis,2,0,2,0.995,Angeborenes Herzversagen,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+Discitis,Discitis,Diagnosis,2,0,2,0.99,Spondylodiszitis,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+Lymphoma,Lymphoma,Diagnosis,2,0,2,1,Malignes Lymphom,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+obscured,Obscure,SymptomOrSign,0,2,2,0.905,,,,,,2,Failed: 2/2; Files: 2,FALSE
+"lower
+ lobe",Structure of lower lobe of lung,BodyStructure,0,2,2,0.895,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+heart size normal,heart size normal,SymptomOrSign,0,2,2,0.885,,,,,,2,Failed: 2/2; Files: 2,FALSE
+arrest,Cardiac Arrest,Diagnosis,2,0,2,0.99,Asystolie,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+intra-aortic balloon pump,Intra-Aortic Balloon Pumping,TreatmentName,0,2,2,0.89,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+change,Changing,SymptomOrSign,0,2,2,0.89,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+pulmonary emphysema,Pulmonary Emphysema,Diagnosis,2,0,2,0.975,Lungenemphysem,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+chest tube removal,Chest tube removal,TreatmentName,0,2,2,0.965,,,,,,2,Failed: 2/2; Files: 2,FALSE
+lateral projections,Lateral projection,ExaminationName,0,2,2,0.98,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+left lower lobe pneumonia,Left lower zone pneumonia,Diagnosis,0,2,2,1,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+left atrium,Left atrial structure,BodyStructure,0,2,2,1,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+left ventricle,Left ventricular structure,BodyStructure,0,2,2,1,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+lower lobes,Structure of lower lobe of lung,BodyStructure,0,2,2,0.88,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+ascending aortic aneurysm,"Aneurysm, Ascending Aorta",Diagnosis,0,2,2,0.97,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+hemodialysis catheter,Hemodialysis catheter,TreatmentName,0,2,2,0.95,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+aortic,Aorta,"SymptomOrSign, TreatmentName",0,2,2,0.985,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+hyperinflation,Hyperdistention,SymptomOrSign,0,2,2,0.82,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+Clips,Clip,TreatmentName,0,2,2,0.99,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+diuresis,Therapeutic diuresis,TreatmentName,0,2,2,0.935,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+mediastinal lipomatosis,mediastinal lipomatosis,Diagnosis,0,2,2,0.93,,,,,,2,Failed: 2/2; Files: 2,FALSE
+PEG,Percutaneous endoscopic gastrostomy,TreatmentName,2,0,2,1,Perkutane endoskopische Einlage einer Gastrostomiesonde,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+pulmonary opacities,Pulmonary opacity,SymptomOrSign,0,2,2,0.85,,,,,,1,Failed: 2/2; Files: 1,FALSE
+"pleural
+  effusions",Pleural effusion (disorder),Diagnosis,2,0,2,0.82,Pleuraerguss,,,,umls,1,Success: 2/2; Sources: umls; Files: 1,FALSE
+lobes,lobe,BodyStructure,0,2,2,0.985,,,,,,2,Failed: 2/2; Files: 2,FALSE
+disease,Disease,Diagnosis,2,0,2,0.98,Krankheit,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+"acute
+ pneumonia",Acute pneumonia,Diagnosis,0,2,2,1,,,,,,2,Failed: 2/2; Files: 2,FALSE
+portal hypertension,Portal Hypertension,Diagnosis,2,0,2,0.995,Portale Hypertonie,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+TIPS,Transjugular intrahepatic portosystemic shunt (procedure),TreatmentName,0,2,2,1,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+fluids,Fluid Therapy,MedicationClass,0,2,2,0.87,,,,,,1,Failed: 2/2; Files: 1,FALSE
+right upper quadrant,Structure of right upper quadrant of abdomen,BodyStructure,0,2,2,0.86,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+encephalopathy,Encephalopathies,Diagnosis,0,2,2,0.98,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+supraclavicular,Supraclavicular approach,BodyStructure,0,2,2,0.91,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+physical exam,Physical Examination,ExaminationName,0,2,2,0.985,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+"chest
+ radiographs",Plain chest X-ray,ExaminationName,2,0,2,0.95,Röntgenaufnahme der Brust,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+bronchopneumonia,Bronchopneumonia,Diagnosis,2,0,2,1,Bronchopneumonie,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+"pulm
+ edema",Pulmonary Edema,Diagnosis,2,0,2,0.97,Lungenödem,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+Vascular clips,Vascular clip,TreatmentName,0,2,2,0.95,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+diaphragms,Respiratory Diaphragm,BodyStructure,0,2,2,0.975,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+lung mass,Lung mass,SymptomOrSign,2,0,2,0.94,Raumforderung der Lunge,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+hilum,Hilum,BodyStructure,0,2,2,0.995,,,,,,1,Failed: 2/2; Files: 1,FALSE
+lethargy,Lethargy,SymptomOrSign,2,0,2,1,Lethargie,,,,umls,2,Success: 2/2; Sources: umls; Files: 2,FALSE
+evaluate for interval,Evaluation Interval,ExaminationName,0,2,2,0.845,,,,,,2,Failed: 2/2; Files: 2,FALSE
+neutropenia,Neutropenia,Diagnosis,0,2,2,0.895,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+coiled,Coils (formation),SymptomOrSign,0,2,2,0.83,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+WBC,White Blood Cell Count procedure,ExaminationName,2,0,2,0.98,Leukozytenzahl,,,,umls,1,Success: 2/2; Sources: umls; Files: 1,FALSE
+nodular opacities,Nodular Opacity,SymptomOrSign,0,2,2,0.97,,,,,,1,Failed: 2/2; Files: 1,FALSE
+kidney transplant,Kidney Transplantation,TreatmentName,0,2,2,1,,,,,umls,2,Failed: 2/2; Sources: umls; Files: 2,FALSE
+mediastinal shift,Mediastinal shift,SymptomOrSign,0,2,2,0.99,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+soft tissue,soft tissue,SymptomOrSign,0,2,2,0.98,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+mass effect,Mass Effect,SymptomOrSign,0,2,2,0.98,,,,,,1,Failed: 2/2; Files: 1,FALSE
+aortic valve replacement,Replacement of aortic valve (procedure),TreatmentName,0,2,2,0.995,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+CT abdomen,CT of abdomen,ExaminationName,0,2,2,0.98,,,,,umls,1,Failed: 2/2; Sources: umls; Files: 1,FALSE
+mucous plugging,Mucous plugging,SymptomOrSign,0,1,1,1,,,,,,1,Failed: 1/1; Files: 1,FALSE
+lobar collapse,Atelectasis,SymptomOrSign,1,0,1,0.97,Atelektase,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+ventilated,Ventilated,SymptomOrSign,0,1,1,0.89,,,,,,1,Failed: 1/1; Files: 1,FALSE
+Enlargement of the pulmonary arteries,Dilatation of pulmonary artery (disorder),SymptomOrSign,0,1,1,0.96,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+pulmonary arterial hypertension,Pulmonary arterial hypertension,Diagnosis,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+shoulder,Shoulder,BodyStructure,0,1,1,0.98,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"Pulmonary arterial
+ hypertension",Pulmonary arterial hypertension,Diagnosis,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"dual-chamber
+ pacemaker",dual-chamber pacemaker (procedure),TreatmentName,0,1,1,1,,,,,,1,Failed: 1/1; Files: 1,FALSE
+generator,Generator Dosage Form,TreatmentName,0,1,1,0.88,,,,,,1,Failed: 1/1; Files: 1,FALSE
+back surgery,Back surgery,TreatmentName,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+biliary stents,Insertion of biliary stent,TreatmentName,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"central venous
+ catheter","Central venous catheter, device",TreatmentName,1,0,1,0.93,Zentraler Venenkatheter,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+kinking,Pseudocoarctation,SymptomOrSign,0,1,1,0.97,,,,,,1,Failed: 1/1; Files: 1,FALSE
+antrum,Antrum,BodyStructure,0,1,1,0.95,,,,,,1,Failed: 1/1; Files: 1,FALSE
+"CT
+ scan",X-Ray Computed Tomography,ExaminationName,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+thoracostomy,Thoracostomy,TreatmentName,1,0,1,0.98,Anlage eines Thorax-Stomas,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+displaces heart,heart; displacement,SymptomOrSign,0,1,1,0.96,,,,,,1,Failed: 1/1; Files: 1,FALSE
+CT chest.,Chest CT,ExaminationName,0,1,1,0.92,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+calcified granulomas,Calcified granuloma,SymptomOrSign,0,1,1,0.82,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+fibrothorax,Fibrothorax,Diagnosis,0,1,1,0.97,,,,,,1,Failed: 1/1; Files: 1,FALSE
+mastectomy,Mastectomy,TreatmentName,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+clip,Clip,TreatmentName,0,1,1,0.95,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+pelvis,Pelvis,BodyStructure,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+Wedging,Wedge,SymptomOrSign,0,1,1,0.83,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+thoracic vertebral bodies,Structure of body of thoracic vertebra,BodyStructure,0,1,1,0.93,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+AML,"Leukemia, Myelocytic, Acute",Diagnosis,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"peribronchial
+ cuffing",Peribronchial Cuffing,SymptomOrSign,0,1,1,0.96,,,,,,1,Failed: 1/1; Files: 1,FALSE
+balloon pump,Balloon pump,TreatmentName,0,1,1,0.93,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"intra aortic
+ balloon pump",Intra-Aortic Balloon Pumping,TreatmentName,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+intra aortic balloon pump,Intra-Aortic Balloon Pumping,TreatmentName,0,1,1,0.88,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+Cervical spine fractures,Fracture of cervical spine,Diagnosis,1,0,1,0.99,Fraktur der HWS - Halswirbelsäule,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+mediastinal bleeding,Mediastinal Hemorrhage,SymptomOrSign,0,1,1,0.92,,,,,,1,Failed: 1/1; Files: 1,FALSE
+"nasogastric
+ tube",Nasogastric tube procedures,TreatmentName,0,1,1,0.97,,,,,,1,Failed: 1/1; Files: 1,FALSE
+"interstitial
+ markings",Interstitial marker,SymptomOrSign,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+Single view,View,ExaminationName,0,1,1,0.87,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"subarachnoid
+ hemorrhage",Subarachnoid Hemorrhage,Diagnosis,1,0,1,0.96,Subarachnoidalblutung,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+aortic tortuosity,Aortic tortuosity,SymptomOrSign,0,1,1,0.94,,,,,,1,Failed: 1/1; Files: 1,FALSE
+PET CT,PET/CT scan,ExaminationName,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+pleural plaques,Pleural plaque,SymptomOrSign,0,1,1,0.87,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+EF,Ejection fraction (procedure),ExaminationName,0,1,1,1,,,,,,1,Failed: 1/1; Files: 1,FALSE
+gastroparesis,Gastroparesis,Diagnosis,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+cardiac surgery,Cardiac Surgery procedures,TreatmentName,1,0,1,1,Herzoperation,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+CD4,CD4 Expressing Cell Count,ExaminationName,0,1,1,1,,,,,,1,Failed: 1/1; Files: 1,FALSE
+paratracheal,Paratracheal,BodyStructure,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"calcified lymph
+ nodes",Calcified lymph nodes,SymptomOrSign,0,1,1,0.97,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+overdose,Drug Overdose,Diagnosis,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+Aortic arch calcifications,Aortic arch calcification,SymptomOrSign,0,1,1,0.87,,,,,,1,Failed: 1/1; Files: 1,FALSE
+"upper
+ lobes",Structure of upper lobe of lung,BodyStructure,0,1,1,0.9,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"airway
+ structures",Airway structure,SymptomOrSign,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+MSSA,Methicillin susceptible Staphylococcus aureus,Diagnosis,1,0,1,0.99,Methicillin-empfindliche Staphylococcus aureus,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+support,"Support, device",TreatmentName,0,1,1,0.82,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+radiographic,Diagnostic radiologic examination,ExaminationName,0,1,1,0.89,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+vent,Belly of skeletal muscle,TreatmentName,0,1,1,0.98,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+free intraperitoneal air,Pneumoperitoneum,SymptomOrSign,0,1,1,0.97,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+obtundation,Stupor,Diagnosis,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+bilateral breast cancer,bilateral breast cancer,Diagnosis,0,1,1,1,,,,,,1,Failed: 1/1; Files: 1,FALSE
+POTS,Postural Orthostatic Tachycardia Syndrome,Diagnosis,1,0,1,0.9,Postural-orthostatisches Tachykardiesyndrom - POTS,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+MVP,Mitral Valve Prolapse Syndrome,Diagnosis,0,1,1,0.94,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"nodular
+ opacities",Nodular Opacity,SymptomOrSign,0,1,1,0.97,,,,,,1,Failed: 1/1; Files: 1,FALSE
+obscured by,Obscure,SymptomOrSign,0,1,1,0.83,,,,,,1,Failed: 1/1; Files: 1,FALSE
+coronary artery bypass graft surgery,Coronary Artery Bypass Surgery,TreatmentName,1,0,1,0.99,Kardiale Revaskularisierung mit Bypass-Anastomose,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+blunted,Blunted,SymptomOrSign,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+visual aura,Visual partial seizure,SymptomOrSign,1,0,1,0.98,Fokal einsetzender sensorischer epileptischer Anfall mit visuellen Symptomen,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+pathology,Pathology procedure,ExaminationName,0,1,1,0.83,,,,,,1,Failed: 1/1; Files: 1,FALSE
+wide,Widening,SymptomOrSign,0,1,1,0.96,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+whole body pain,Total body pain syndrome,SymptomOrSign,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"chest
+ radiograph",Chest radiograph,ExaminationName,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+"Pulmonary
+ vasculature",Vasculature of lung,BodyStructure,0,1,1,0.82,,,,,,1,Failed: 1/1; Files: 1,FALSE
+"left
+ upper lobe",Structure of left upper lobe of lung,BodyStructure,0,1,1,0.9,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+acute lymphoblastic leukemia,Precursor Cell Lymphoblastic Leukemia Lymphoma,Diagnosis,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+blood pressure,Blood Pressure,SymptomOrSign,1,0,1,0.86,Blutdruck,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+end-stage renal disease,"Kidney Failure, Chronic",Diagnosis,0,1,1,0.9,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"coronary artery
+ disease",Coronary Artery Disease,Diagnosis,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+clear chest,Chest clear,SymptomOrSign,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+tuberculosis,Tuberculosis,Diagnosis,0,1,1,0.84,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+free,Empty (qualifier),SymptomOrSign,0,1,1,0.9,,,,,,1,Failed: 1/1; Files: 1,FALSE
+chest examination,examination of chest,ExaminationName,0,1,1,0.97,,,,,,1,Failed: 1/1; Files: 1,FALSE
+normal chest findings,Normal chest,SymptomOrSign,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+COUGH   FEVER,Cough with fever,SymptomOrSign,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+dementia,Dementia,Diagnosis,1,0,1,1,Demenz,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+lung parenchyma,Structure of parenchyma of lung,BodyStructure,0,1,1,0.83,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+6th ribs,Rib 6,BodyStructure,0,1,1,0.96,,,,,,1,Failed: 1/1; Files: 1,FALSE
+displacement,Qualitative Displacement,SymptomOrSign,0,1,1,0.97,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"lumbar spine
+ surgery",Surgical procedure on lumbar spine,TreatmentName,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+cervical spine,Cervical spine,BodyStructure,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+shoulder replacement,Prosthetic arthroplasty of shoulder,TreatmentName,1,0,1,0.97,Prothetische Endoprothese der Schulter,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+ST,Stria terminalis,SymptomOrSign,0,1,1,0.93,,,,,,1,Failed: 1/1; Files: 1,FALSE
+azithro,azithromycin,MedicationName,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+limb ischemia,Limb ischemia,Diagnosis,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+carinal,Structure of carina,BodyStructure,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+Partial resection,Partial Resection,TreatmentName,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+fifth rib,Bone structure of fifth rib,BodyStructure,0,1,1,0.96,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+confused,Confusion,SymptomOrSign,1,0,1,1,Verwirrtheitszustand,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+pnx,American Joint Committee on Cancer pNX,SymptomOrSign,0,1,1,0.87,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+acute pancreatitis,"Pancreatitis, Acute",Diagnosis,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+extremity,Limb structure,BodyStructure,1,0,1,0.89,Extremität,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+decortication,Decortication (procedure),TreatmentName,1,0,1,0.9,Dekortikation,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+PORTABLE CHEST X-RAY,portable x-ray of chest,ExaminationName,0,1,1,0.96,,,,,,1,Failed: 1/1; Files: 1,FALSE
+"back
+ pain",Back Pain,SymptomOrSign,1,0,1,0.99,Rückenschmerzen,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+mitral annulus,Structure of anulus fibrosus of mitral orifice,BodyStructure,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"right
+ ventricular apex",Structure of apex of right ventricle,BodyStructure,0,1,1,0.85,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+dialysis catheter,Dialysis catheter,TreatmentName,0,1,1,0.94,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+joint disease,Arthropathy,Diagnosis,1,0,1,0.86,Arthropathie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+leg swelling,Swelling of lower limb,SymptomOrSign,0,1,1,0.97,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"superimposed
+ infection",Superinfection,Diagnosis,1,0,1,1,Superinfektion,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+arm heaviness,Heaviness in arm,SymptomOrSign,0,1,1,0.94,,,,,,1,Failed: 1/1; Files: 1,FALSE
+electrodes,electrode,TreatmentName,0,1,1,0.96,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+chronic pulmonary disease,Chronic lung disease,Diagnosis,1,0,1,0.91,Chronische Lungenerkrankung,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+femur fracture,Femoral Fractures,Diagnosis,1,0,1,0.98,Femurfraktur,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+temperature,Temperature,SymptomOrSign,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+sputum production,Sputum production,SymptomOrSign,0,1,1,1,,,,,,1,Failed: 1/1; Files: 1,FALSE
+Hemoptysis,Hemoptysis,SymptomOrSign,1,0,1,1,Hämoptyse,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+"non-small cell lung
+ cancer",Non-Small Cell Lung Carcinoma,Diagnosis,1,0,1,1,Nicht-kleinzelliges Bronchialkarzinom,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+increased work of breathing,Increased work of breathing,SymptomOrSign,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+"Vascular
+ engorgement",Hyperemia,SymptomOrSign,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+Plain radiograph,Plain x-ray,ExaminationName,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+septic emboli,Septic embolus,Diagnosis,0,1,1,0.98,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+L1,L1 innervation,BodyStructure,0,1,1,0.98,,,,,,1,Failed: 1/1; Files: 1,FALSE
+mildly enlarged,Mildly enlarged,SymptomOrSign,0,1,1,0.82,,,,,,1,Failed: 1/1; Files: 1,FALSE
+bronchi,Bronchi,BodyStructure,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+unchanged,No status change,SymptomOrSign,0,1,1,0.82,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+carotid,Carotid Arteries,BodyStructure,0,1,1,0.98,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+decompressed,external decompression,SymptomOrSign,0,1,1,0.92,,,,,,1,Failed: 1/1; Files: 1,FALSE
+measures,Measures (attribute),ExaminationName,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+Paresthesias,Has tingling sensation,TreatmentName,0,1,1,0.97,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"cardiac
+ decompensation",Heart Decompensation,Diagnosis,0,1,1,0.82,,,,,,1,Failed: 1/1; Files: 1,FALSE
+pancreatic adenocarcinoma,Adenocarcinoma of pancreas,Diagnosis,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+A-fib,Atrial Fibrillation,Diagnosis,1,0,1,0.99,Vorhofflimmern,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+thymectomy,Thymectomy,TreatmentName,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"respiratory
+ distress",Respiratory distress,SymptomOrSign,1,0,1,1,Atembeschwerden,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+"central
+ line","Central venous catheter, device",TreatmentName,1,0,1,1,Zentraler Venenkatheter,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+drains,Drain device,TreatmentName,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+midclavicular,Midclavicular,BodyStructure,0,1,1,0.8,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+lung cancer,Malignant neoplasm of lung,Diagnosis,1,0,1,1,Bösartige Neubildung der Lunge,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+"interstitial
+ pulmonary edema",pulmonary edema interstitial,Diagnosis,0,1,1,0.94,,,,,,1,Failed: 1/1; Files: 1,FALSE
+Crohn's,Crohn Disease,Diagnosis,1,0,1,0.99,Morbus Crohn,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+ileostomy output,Output.ileostomy,ExaminationName,0,1,1,0.85,,,,,,1,Failed: 1/1; Files: 1,FALSE
+intra-abdominal abscess,Abdominal Abscess,Diagnosis,0,1,1,0.98,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+surveillance,Medical Surveillance,ExaminationName,0,1,1,0.83,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+azygos fissure,Azygos fissure,Diagnosis,0,1,1,0.89,,,,,,1,Failed: 1/1; Files: 1,FALSE
+"shift of
+ the mediastinum",Mediastinal shift,SymptomOrSign,0,1,1,0.98,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+chest CT scan,Chest CT,ExaminationName,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+osteophytes,Osteophyte,Diagnosis,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+osteophytosis,Osteophyte,Diagnosis,0,1,1,0.85,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+imaging study,imaging studies,ExaminationName,0,1,1,0.98,,,,,,1,Failed: 1/1; Files: 1,FALSE
+pneumocystis pneumonia,Pneumocystis jiroveci pneumonia,Diagnosis,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+lung cysts,Lung cyst,Diagnosis,0,1,1,0.89,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"air
+ bronchograms",Air bronchogram on radiograph (finding),SymptomOrSign,1,0,1,0.97,Bronchopneumogramm,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+inflammation,Inflammation,Diagnosis,0,1,1,0.86,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+portable views,Views portable,ExaminationName,0,1,1,0.97,,,,,,1,Failed: 1/1; Files: 1,FALSE
+AP view,Views AP,ExaminationName,0,1,1,0.97,,,,,,1,Failed: 1/1; Files: 1,FALSE
+LVAD,LVAD - Implantation of left ventricular assist device,TreatmentName,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+injuries,Traumatic injury,SymptomOrSign,1,0,1,1,Traumatische Verletzung,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+L2,L2 innervation,BodyStructure,0,1,1,0.97,,,,,,1,Failed: 1/1; Files: 1,FALSE
+L3,L3 innervation,BodyStructure,0,1,1,0.96,,,,,,1,Failed: 1/1; Files: 1,FALSE
+L4,L4 Segmental Innervation,BodyStructure,0,1,1,0.96,,,,,,1,Failed: 1/1; Files: 1,FALSE
+"transverse
+ process fractures",Fractured transverse process,Diagnosis,0,1,1,0.8,,,,,,1,Failed: 1/1; Files: 1,FALSE
+air leak,Air leakage,SymptomOrSign,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+cardiac arrest,Cardiac Arrest,Diagnosis,1,0,1,1,Asystolie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+similar,Similarity,SymptomOrSign,0,1,1,0.91,,,,,,1,Failed: 1/1; Files: 1,FALSE
+"chest
+ CT",Chest CT,ExaminationName,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+RCC,Conventional (Clear Cell) Renal Cell Carcinoma,Diagnosis,1,0,1,0.9,"Nierenzellkarzinom, klarzelliges",,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+flank,Flank (surface region),BodyStructure,0,1,1,0.85,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+metastatic lesions,Metastatic Lesion,Diagnosis,0,1,1,0.8,,,,,,1,Failed: 1/1; Files: 1,FALSE
+esophagogastric junction,Esophagogastric Junction,BodyStructure,0,1,1,0.92,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+body of the stomach,Body of stomach,BodyStructure,0,1,1,0.92,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+debridement,Debridement,TreatmentName,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+pacemaker leads,Cardiac pacemaker lead,TreatmentName,1,0,1,0.97,Herzschrittmacherkabel,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+"right
+ atrium",Right atrial structure,BodyStructure,0,1,1,0.91,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+Two views,Views 2,ExaminationName,0,1,1,0.94,,,,,,1,Failed: 1/1; Files: 1,FALSE
+stents,"Stent, device",TreatmentName,1,0,1,0.95,Stent,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+pulmonary arterial enlargement,Dilatation of pulmonary artery (disorder),SymptomOrSign,0,1,1,0.98,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+pulmonary hypertension,Pulmonary Hypertension,Diagnosis,1,0,1,0.99,Pulmonale Hypertonie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+hematemesis,Hematemesis,SymptomOrSign,1,0,1,0.99,Hämatemesis,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+distended,Distention,SymptomOrSign,0,1,1,1,,,,,,1,Failed: 1/1; Files: 1,FALSE
+air,ACUTE INSULIN RESPONSE,SymptomOrSign,0,1,1,1,,,,,,1,Failed: 1/1; Files: 1,FALSE
+pneumoperitoneum,Pneumoperitoneum,Diagnosis,0,1,1,0.97,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+upper GI bleed,Upper gastrointestinal hemorrhage,Diagnosis,0,1,1,0.9,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+new medication,New medications,TreatmentName,0,1,1,0.97,,,,,,1,Failed: 1/1; Files: 1,FALSE
+acute myocardial infarction,Acute myocardial infarction,Diagnosis,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+mitral regurgitation,Mitral Valve Insufficiency,Diagnosis,1,0,1,0.99,Mitralklappeninsuffizienz,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+papillary muscle dysfunction,Dysfunction of papillary muscle,Diagnosis,0,1,1,0.95,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+breast ca,Malignant neoplasm of breast,Diagnosis,0,1,1,0.94,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+cavitation,Cavitation,SymptomOrSign,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+superinfection,Superinfection,Diagnosis,1,0,1,0.99,Superinfektion,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+lytic,Lysis,Diagnosis,0,1,1,0.89,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"vertebral
+ bodies",Body of vertebra,BodyStructure,0,1,1,0.96,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+compression fracture,Compression fracture,Diagnosis,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+arthralgias,Arthralgia,SymptomOrSign,1,0,1,0.98,Gelenkschmerzen,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+"chronic pulmonary
+ disease",Chronic lung disease,Diagnosis,1,0,1,0.83,Chronische Lungenerkrankung,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+prosthesis,Prosthesis Implantation,TreatmentName,0,1,1,0.98,,,,,,1,Failed: 1/1; Files: 1,FALSE
+"CT
+ chest",Chest CT,ExaminationName,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+chest walls,Chest wall structure,BodyStructure,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+myotonic dystrophy,Myotonic Dystrophy,Diagnosis,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+Portable view,Views portable,ExaminationName,0,1,1,0.98,,,,,,1,Failed: 1/1; Files: 1,FALSE
+assess,Assessed,ExaminationName,0,1,1,0.81,,,,,,1,Failed: 1/1; Files: 1,FALSE
+sweating,Sweating,SymptomOrSign,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+flattening of the diaphragms,diaphragm flattened,SymptomOrSign,0,1,1,0.97,,,,,,1,Failed: 1/1; Files: 1,FALSE
+"chronic obstructive
+ pulmonary disease",Chronic Obstructive Airway Disease,Diagnosis,1,0,1,1,Chronisch obstruktive Lungenerkrankung,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+support devices,"Support, device",TreatmentName,0,1,1,0.8,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"CT abdomen and
+ pelvis",Multisection:Find:Pt:Abdomen+Pelvis:Doc:CT,ExaminationName,0,1,1,0.95,,,,,,1,Failed: 1/1; Files: 1,FALSE
+humeral head,Structure of head of humerus,BodyStructure,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+assess for infection,Assessment: Infection,ExaminationName,0,1,1,0.87,,,,,,1,Failed: 1/1; Files: 1,FALSE
+aerated,aeration,SymptomOrSign,0,1,1,0.85,,,,,,1,Failed: 1/1; Files: 1,FALSE
+compensatory hyperinflation,Compensatory hyperexpansion,SymptomOrSign,0,1,1,0.89,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+Bony metastases,Metastatic malignant neoplasm to bone,Diagnosis,1,0,1,0.98,Knochenmetastase,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+metastases,Neoplasm Metastasis,Diagnosis,0,1,1,0.98,,,,,,1,Failed: 1/1; Files: 1,FALSE
+bones,Skeletal bone,BodyStructure,0,1,1,0.96,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+tracheal stenosis,Tracheal Stenosis,Diagnosis,1,0,1,0.99,Trachealstenose,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+dysphagia,Deglutition Disorders,SymptomOrSign,1,0,1,0.99,Dysphagie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+"deviation of
+ trachea",Trachea displaced,SymptomOrSign,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+thyromegaly,Goiter,SymptomOrSign,1,0,1,1,Kropf,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+tenderness,Sore to touch,SymptomOrSign,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+midline,Midline (qualifier value),SymptomOrSign,0,1,1,0.82,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+scar,Cicatrix,SymptomOrSign,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+discoid atelectasis,Discoid atelectasis,Diagnosis,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+blindness,Blindness,Diagnosis,0,1,1,0.98,,,,,,1,Failed: 1/1; Files: 1,FALSE
+"temporal
+ arteritis",Temporal Arteritis,Diagnosis,1,0,1,0.98,Riesenzellarteriitis,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+cardiac structures,Cardia of stomach,BodyStructure,0,1,1,0.98,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"lung
+ bases",Basal segment of lung,BodyStructure,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+arm,Upper Extremity,BodyStructure,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+cervical fusion,Cervical arthrodesis,TreatmentName,1,0,1,1,Zervikale Arthrodese,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+aortic calcification,Calcification of the aorta,SymptomOrSign,0,1,1,0.92,,,,,,1,Failed: 1/1; Files: 1,FALSE
+"interstitial lung
+ disease","Lung Diseases, Interstitial",Diagnosis,1,0,1,1,Interstitielle Lungenkrankheit,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+Upper respiratory symptoms,Upper respiratory symptom,SymptomOrSign,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+diaphoresis,Increased sweating,SymptomOrSign,1,0,1,1,Übermäßiges Schwitzen,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+Crohns disease,Crohn Disease,Diagnosis,1,0,1,1,Morbus Crohn,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+sleep apnea,Sleep Apnea Syndromes,Diagnosis,1,0,1,0.99,Schlafapnoe,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+CPAP,Continuous Positive Airway Pressure,TreatmentName,1,0,1,0.99,Kontinuierliche positive Atemwegsdruckbeatmung,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+depression,Mental Depression,Diagnosis,0,1,1,1,,,,,,1,Failed: 1/1; Files: 1,FALSE
+bipolar disorder,Bipolar Disorder,Diagnosis,1,0,1,1,Bipolare Störung,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+hip arthroplasty,Repair of hip,TreatmentName,0,1,1,0.92,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"MRSA
+ infection",Methicillin resistant Staphylococcus aureus infection,Diagnosis,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+management,Disease Management,TreatmentName,0,1,1,0.84,,,,,,1,Failed: 1/1; Files: 1,FALSE
+renal failure,Kidney Failure,Diagnosis,1,0,1,1,Syndrom des Nierenversagens,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+septic shock,Septic Shock,Diagnosis,1,0,1,1,Septischer Schock,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+plate-like atelectasis,Discoid atelectasis,SymptomOrSign,0,1,1,0.8,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+Abnormal feeling,Feeling abnormal,SymptomOrSign,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+cross-sectional imaging,Cross-sectional imaging,ExaminationName,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+DIC,Disseminated Intravascular Coagulation,Diagnosis,1,0,1,1,Disseminierte intravasale Gerinnung,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+pulmonary interstitial edema,pulmonary edema interstitial,Diagnosis,0,1,1,0.8,,,,,,1,Failed: 1/1; Files: 1,FALSE
+deformities,Congenital Abnormality,SymptomOrSign,1,0,1,0.95,Angeborene Fehlbildung,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+T4,Lateral occipitotemporal gyrus,BodyStructure,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+chest abnormality,Abnormal thorax morphology,SymptomOrSign,0,1,1,0.95,,,,,,1,Failed: 1/1; Files: 1,FALSE
+"rib
+ fracture",Rib Fractures,Diagnosis,1,0,1,0.91,Rippenfraktur,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+ILI,Influenza-like symptoms,Diagnosis,0,1,1,0.97,,,,,,1,Failed: 1/1; Files: 1,FALSE
+CT scan,X-Ray Computed Tomography,ExaminationName,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+fusion,Fused structure,SymptomOrSign,0,1,1,0.81,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+cervical,Neck,BodyStructure,0,1,1,0.97,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"left lower
+ lobe",Structure of left lower lobe of lung,BodyStructure,0,1,1,0.84,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"aspiration
+ pneumonia",Aspiration Pneumonia,Diagnosis,1,0,1,0.99,Aspirationspneumonie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+hemidiaphragm elevation,Hemidiaphragm elevation,SymptomOrSign,0,1,1,0.96,,,,,,1,Failed: 1/1; Files: 1,FALSE
+paralysis,Paralysed,SymptomOrSign,1,0,1,0.81,Paralyse,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+technique,Techniques,TreatmentName,0,1,1,0.84,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+Normal heart,On examination - heart normal (finding),SymptomOrSign,0,1,1,0.88,,,,,,1,Failed: 1/1; Files: 1,FALSE
+pulmonary vessels,Pulmonary vessels,BodyStructure,0,1,1,0.87,,,,,,1,Failed: 1/1; Files: 1,FALSE
+bleb,Bulla,SymptomOrSign,1,0,1,0.91,Blase,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+artifact,Morphologic artifact,SymptomOrSign,0,1,1,0.96,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"chronic obstructive pulmonary
+ disease",Chronic Obstructive Airway Disease,Diagnosis,1,0,1,1,Chronisch obstruktive Lungenerkrankung,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+weight change,Body Weight Changes,SymptomOrSign,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+calcium deposits,Calcification,SymptomOrSign,0,1,1,0.98,,,,,,1,Failed: 1/1; Files: 1,FALSE
+wall,Wall structure,BodyStructure,0,1,1,0.89,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+frontal views,Views frontal,ExaminationName,0,1,1,0.9,,,,,,1,Failed: 1/1; Files: 1,FALSE
+"calcium
+ deposits",Calcification,SymptomOrSign,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+"pulmonary
+ infiltrates",Pulmonary Infiltrate,SymptomOrSign,0,1,1,0.9,,,,,,1,Failed: 1/1; Files: 1,FALSE
+left hemidiaphragm,Left hemidiaphragm,SymptomOrSign,0,1,1,0.86,,,,,,1,Failed: 1/1; Files: 1,FALSE
+malignant melanoma,melanoma,Diagnosis,1,0,1,1,Bösartiges Melanom,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+Hyperexpansion of the lungs,Hyperexpansion of the lungs,SymptomOrSign,0,1,1,0.89,,,,,,1,Failed: 1/1; Files: 1,FALSE
+"chronic
+ pulmonary disease",Chronic lung disease,Diagnosis,1,0,1,0.9,Chronische Lungenerkrankung,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+status epilepticus,Status Epilepticus,Diagnosis,1,0,1,0.93,Status epilepticus,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+GBM,Glioblastoma Multiforme,Diagnosis,0,1,1,0.92,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+central,Central brand of multivitamin with minerals,TreatmentName,0,1,1,0.94,,,,,,1,Failed: 1/1; Files: 1,FALSE
+evaluate for infection,Evaluates for hospital-acquired infection following the perioperative procedure,ExaminationName,0,1,1,0.96,,,,,,1,Failed: 1/1; Files: 1,FALSE
+pulmonary lesions,Lesion of lung,SymptomOrSign,0,1,1,0.87,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+Mitral valve endocarditis,Mitral valve endocarditis,Diagnosis,0,1,1,0.85,,,,,,1,Failed: 1/1; Files: 1,FALSE
+views,View,ExaminationName,0,1,1,0.93,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+ascending aortic replacement,Replacement of ascending aorta,TreatmentName,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+pulmonary artery,Pulmonary artery structure,BodyStructure,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+pericarditis,Pericarditis,Diagnosis,1,0,1,0.97,Perikarditis,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+radiation,Radiation therapy (procedure),TreatmentName,0,1,1,0.94,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+indigestion,Dyspepsia,SymptomOrSign,1,0,1,0.98,Dyspepsie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+hypoxemia,Hypoxemia,SymptomOrSign,1,0,1,0.99,Hypoxämie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+physical examination,Physical Examination,ExaminationName,0,1,1,0.94,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+irregular contours,Irregular contour,SymptomOrSign,0,1,1,0.86,,,,,,1,Failed: 1/1; Files: 1,FALSE
+pigtail drains,Pigtail Drain,TreatmentName,0,1,1,1,,,,,,1,Failed: 1/1; Files: 1,FALSE
+thorax,Chest,BodyStructure,0,1,1,0.96,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+Subcutaneous air,Subcutaneous air,SymptomOrSign,0,1,1,0.83,,,,,,1,Failed: 1/1; Files: 1,FALSE
+expansion,Expanding,SymptomOrSign,0,1,1,0.94,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+skeletal abnormalities,Abnormality of the skeletal system,SymptomOrSign,0,1,1,0.87,,,,,,1,Failed: 1/1; Files: 1,FALSE
+aneurysm,Aneurysm,Diagnosis,0,1,1,0.98,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"NG
+ tube",Nasogastric tube,TreatmentName,0,1,1,0.96,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+pneumonitis,Pneumonitis,Diagnosis,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+reduced diffusing capacity,Reduced diffusion capacity,SymptomOrSign,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+port catheter,Port Catheters,TreatmentName,0,1,1,0.97,,,,,,1,Failed: 1/1; Files: 1,FALSE
+MCC,Merkel cell carcinoma,Diagnosis,0,1,1,0.87,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+TBI,Traumatic Brain Injury,Diagnosis,1,0,1,0.97,Schädel-Hirn-Trauma,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+hemothoraces,Hemothorax,Diagnosis,0,1,1,0.97,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+orbital fracture,Orbital Fractures,Diagnosis,1,0,1,0.8,Orbitafraktur,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+zygomatic fracture,Fracture of zygoma,Diagnosis,1,0,1,0.98,Jochbeinfraktur,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+cervicothoracic region,Cervicothoracic region,BodyStructure,0,1,1,0.98,,,,,,1,Failed: 1/1; Files: 1,FALSE
+pleural drains,drainage of pleura,TreatmentName,0,1,1,0.82,,,,,,1,Failed: 1/1; Files: 1,FALSE
+tortuous thoracic aorta,Tortuosity of thoracic aorta,SymptomOrSign,0,1,1,0.92,,,,,,1,Failed: 1/1; Files: 1,FALSE
+aneurysmal dissection,Dissection of aorta,Diagnosis,1,0,1,0.99,Aortendissektion,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+thoracic aortic aneurysm,"Aortic Aneurysm, Thoracic",Diagnosis,0,1,1,0.84,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+calcified granuloma,Calcified granuloma,SymptomOrSign,0,1,1,0.85,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+densities,density,SymptomOrSign,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+esophageal adenocarcinoma,Adenocarcinoma Of Esophagus,Diagnosis,1,0,1,1,Adenokarzinom des Ösophagus,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+Surg,Surgical and medical procedures,TreatmentName,0,1,1,0.96,,,,,,1,Failed: 1/1; Files: 1,FALSE
+linear atelectasis,Linear atelectasis,Diagnosis,1,0,1,1,Lineare Atelektase,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+cervical lymph node biopsy,Biopsy of cervical lymph node,ExaminationName,0,1,1,0.98,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+thoracolumbar scoliosis,Thoracolumbar scoliosis,Diagnosis,0,1,1,0.93,,,,,,1,Failed: 1/1; Files: 1,FALSE
+pacer,cisplatin/cyclophosphamide/doxorubicin/vindesine protocol,TreatmentName,0,1,1,1,,,,,,1,Failed: 1/1; Files: 1,FALSE
+terminate,Study Terminated,SymptomOrSign,0,1,1,0.92,,,,,,1,Failed: 1/1; Files: 1,FALSE
+Gastric carcinoma,Stomach Carcinoma,Diagnosis,1,0,1,1,Magenkarzinom,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+"aortic
+ arch",Aortic arch structure,BodyStructure,0,1,1,0.96,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+pulmonary nodule,Nodule of lung,SymptomOrSign,0,1,1,0.88,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+lateral image,Image Laterality,ExaminationName,0,1,1,0.86,,,,,,1,Failed: 1/1; Files: 1,FALSE
+lung consolidations,Lung consolidation,SymptomOrSign,0,1,1,0.89,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+Chest congestion,Pulmonary congestion,SymptomOrSign,1,0,1,0.99,Pulmonale Kongestion,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+"Tracheostomy
+ tube",Tracheostomy tube,TreatmentName,0,1,1,0.9,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+5L,5L,TreatmentName,0,1,1,0.89,,,,,,1,Failed: 1/1; Files: 1,FALSE
+O2,Oxygen Therapy Care,TreatmentName,1,0,1,0.99,Sauerstofftherapie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+saturations,Oxygen saturation measurement,ExaminationName,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+enlarged heart,Cardiomegaly,SymptomOrSign,1,0,1,0.9,Kardiomegalie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+COPD exacerbation,COPD exacerbation,Diagnosis,0,1,1,0.8,,,,,,1,Failed: 1/1; Files: 1,FALSE
+Aortic valve calcifications,Aortic valve calcification,SymptomOrSign,0,1,1,0.97,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+infiltration,Infiltration,SymptomOrSign,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+hematocrit,Hematocrit Measurement,ExaminationName,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+rales,Rales,SymptomOrSign,1,0,1,0.99,Rasselgeräusche,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+cystogastrostomy,Cystogastrostomy procedure,TreatmentName,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+"infectious
+ process",INFECTIOUS PROCESS,Diagnosis,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+fat pad,Fat pad,SymptomOrSign,0,1,1,0.96,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+replacement of ascending aorta,Replacement of ascending aorta,TreatmentName,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"central
+ venous catheter","Central venous catheter, device",TreatmentName,1,0,1,0.96,Zentraler Venenkatheter,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+curls,Curly,SymptomOrSign,0,1,1,0.81,,,,,,1,Failed: 1/1; Files: 1,FALSE
+mitral valve replacements,Replacement of mitral valve (procedure),TreatmentName,0,1,1,0.98,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+pleural scarring,Pleural scarring,SymptomOrSign,0,1,1,0.93,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+component,Protein Component,SymptomOrSign,0,1,1,0.94,,,,,,1,Failed: 1/1; Files: 1,FALSE
+CAD,Coronary Artery Disease,Diagnosis,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+pleural calcification,Calcification of pleura,SymptomOrSign,0,1,1,0.92,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+bleed,Hemorrhage,ExaminationName,1,0,1,0.97,Blutung,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+Enlargement,Enlargement (morphologic abnormality),SymptomOrSign,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"hiatal
+ hernia",Hiatal Hernia,Diagnosis,1,0,1,0.99,Hiatushernie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+enlarged thyroid,Goiter,SymptomOrSign,1,0,1,0.94,Kropf,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+"mediastinal
+ lipomatosis",mediastinal lipomatosis,Diagnosis,0,1,1,0.86,,,,,,1,Failed: 1/1; Files: 1,FALSE
+hardware,"Diagnostic, Therapeutic, and Research Equipment",TreatmentName,0,1,1,0.92,,,,,,1,Failed: 1/1; Files: 1,FALSE
+intact,Intact,SymptomOrSign,0,1,1,0.89,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+brain lesion,Lesion of brain,Diagnosis,1,0,1,1,Läsion des Gehirns,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+Scout view,Digital slit-beam radiograph,ExaminationName,0,1,1,0.91,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+Nodules,Nodule,SymptomOrSign,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+epigastric pain,Epigastric pain,SymptomOrSign,1,0,1,0.97,Epigastrische Bauchschmerzen,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+Abdominal distention,Abdomen distended,SymptomOrSign,1,0,1,0.95,Geschwollener Bauch,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+Coronary stents,Coronary artery stent (device),TreatmentName,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+lung nodules,Nodule of lung,SymptomOrSign,0,1,1,0.96,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+URI,Upper Respiratory Infections,Diagnosis,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+peribronchial thickening,Peribronchial Cuffing,SymptomOrSign,0,1,1,0.96,,,,,,1,Failed: 1/1; Files: 1,FALSE
+PA view,Views and PA,ExaminationName,0,1,1,0.92,,,,,,1,Failed: 1/1; Files: 1,FALSE
+pleural abnormalities,Abnormal pleura morphology,SymptomOrSign,0,1,1,0.88,,,,,,1,Failed: 1/1; Files: 1,FALSE
+lower lobe pneumonia,Basal pneumonia,Diagnosis,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+sat,Oxygen saturation measurement,ExaminationName,0,1,1,0.97,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+pericardial fat,Pericardial fat,SymptomOrSign,0,1,1,0.96,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+soft tissue lesions,Soft tissue lesion,SymptomOrSign,0,1,1,0.94,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+Supine AP view,View AP supine,ExaminationName,0,1,1,0.97,,,,,,1,Failed: 1/1; Files: 1,FALSE
+rods,Rod Photoreceptors,TreatmentName,0,1,1,0.96,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+fixation wires,Fixation Wire,TreatmentName,0,1,1,0.98,,,,,,1,Failed: 1/1; Files: 1,FALSE
+thoracolumbar spine,Thoracolumbar vertebral column,BodyStructure,0,1,1,0.98,,,,,,1,Failed: 1/1; Files: 1,FALSE
+HIV,HIV Infections,Diagnosis,1,0,1,0.99,HIV-Infektion,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+lordotic view,View apical lordotic,SymptomOrSign,0,1,1,1,,,,,,1,Failed: 1/1; Files: 1,FALSE
+lung field,Lung field,BodyStructure,0,1,1,0.9,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+Sarcoidosis,Sarcoidosis,Diagnosis,1,0,1,1,Sarkoidose,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+Transplant,Transplantation,TreatmentName,0,1,1,0.91,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+lactulose,lactulose,MedicationName,1,0,1,1,Lactulose,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+flu,Influenza,SymptomOrSign,1,0,1,0.97,Influenza,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+endocarditis,Endocarditis,Diagnosis,1,0,1,1,Endokarditis,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+viral bronchitis,Viral bronchitis,Diagnosis,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+delirium,Delirium,Diagnosis,1,0,1,0.97,Delirant,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+elevated hemidiaphragm,Hemidiaphragm elevation,SymptomOrSign,0,1,1,0.96,,,,,,1,Failed: 1/1; Files: 1,FALSE
+"hepatic
+ calcifications",Hepatic calcification,SymptomOrSign,0,1,1,0.92,,,,,,1,Failed: 1/1; Files: 1,FALSE
+"coronary
+ sinus",Coronary sinus structure,BodyStructure,0,1,1,0.96,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+effacement,effacement,SymptomOrSign,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+empyema,Empyema,Diagnosis,1,0,1,1,Empyem,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+PEs,Foot,Diagnosis,0,1,1,0.98,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+subclavian veins,Structure of subclavian vein,BodyStructure,0,1,1,0.93,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+cognitive defects,Impaired cognition,Diagnosis,1,0,1,0.96,Kognitive Beeinträchtigung,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+seizure disorder,Epilepsy,Diagnosis,1,0,1,0.99,Epilepsie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+upper,Upper,BodyStructure,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+bronchitis,Bronchitis,Diagnosis,1,0,1,0.99,Bronchitis,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+bronchial stent,Bronchial stent,TreatmentName,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+pulm edema,Pulmonary Edema,Diagnosis,1,0,1,0.92,Lungenödem,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+bronchus intermedius,Interlobar bronchus,BodyStructure,0,1,1,0.98,,,,,,1,Failed: 1/1; Files: 1,FALSE
+Thoracic scoliosis,Thoracic scoliosis,Diagnosis,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+CLL,Chronic Lymphocytic Leukemia,Diagnosis,0,1,1,0.97,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+dry,Dry,SymptomOrSign,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+abdominal surgery,Operation on abdominal region,ExaminationName,1,0,1,1,Operation in Abdominalregion,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+Panic attack,Panic Attacks,Diagnosis,1,0,1,0.98,Panikattacke,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+"lung
+ resection",Lung excision,TreatmentName,1,0,1,1,Lungenresektion,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+"surgical
+ clips",Surgical Clips,TreatmentName,0,1,1,0.98,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+suture,Surgical sutures,TreatmentName,1,0,1,0.91,Nahtmaterial,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+cerclage wires,Cerclage wiring of fracture,TreatmentName,0,1,1,0.9,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+partial lung resection,Partial lung resection,TreatmentName,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+bx,Biopsy,TreatmentName,0,1,1,0.92,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"fibrotic interstitial lung
+ disease","lung; disease, interstitial, with fibrosis",Diagnosis,0,1,1,1,,,,,,1,Failed: 1/1; Files: 1,FALSE
+globus sensation,Globus Sensation,SymptomOrSign,1,0,1,1,Globusgefühl,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+throat,Pharyngeal structure,BodyStructure,0,1,1,0.84,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+lobe,lobe,BodyStructure,0,1,1,0.98,,,,,,1,Failed: 1/1; Files: 1,FALSE
+plain film,Plain x-ray,ExaminationName,0,1,1,0.9,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+computerized tomography,X-Ray Computed Tomography,ExaminationName,0,1,1,0.96,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+sick,Illness (finding),SymptomOrSign,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+loss,Loss (adaptation),SymptomOrSign,0,1,1,0.93,,,,,,1,Failed: 1/1; Files: 1,FALSE
+Non-Hodgkin's lymphoma,"Lymphoma, Non-Hodgkin",Diagnosis,1,0,1,1,Non-Hodgkin-Lymphom,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+Prominence of the vasculature,Prominent vasculature,SymptomOrSign,0,1,1,0.95,,,,,,1,Failed: 1/1; Files: 1,FALSE
+dissection,Dissecting hemorrhage,Diagnosis,0,1,1,0.86,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+desaturating,Oxygen saturation below reference range,SymptomOrSign,1,0,1,0.96,Sauerstoffsättigung unterhalb Referenzbereich,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+signs,Physical findings,SymptomOrSign,0,1,1,0.96,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+density,density,SymptomOrSign,0,1,1,0.92,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+Prosthetic mitral valve,Mitral valve prosthesis,TreatmentName,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+ETT,Exercise stress test,ExaminationName,1,0,1,0.99,Belastungstoleranztest,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+retract,Dental Retraction (procedure),TreatmentName,0,1,1,0.83,,,,,,1,Failed: 1/1; Files: 1,FALSE
+HCV,Hepatitis C,Diagnosis,1,0,1,1,Hepatitis C,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+"esophagogastric
+ junction",Esophagogastric Junction,BodyStructure,0,1,1,0.97,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+abdominal fluid,Abdominal Fluid,SymptomOrSign,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+pleural space,Pleural cavity,BodyStructure,0,1,1,0.97,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+parapneumonic effusions,Pleural effusion associated with pulmonary infection,Diagnosis,0,1,1,0.95,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+loculation,Loculated,SymptomOrSign,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+hematomas,Hematoma,SymptomOrSign,0,1,1,0.98,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+tortuous aorta,Tortuous aorta,SymptomOrSign,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+PICC placed,Peripherally Inserted Central Catheter Line Insertion,TreatmentName,0,1,1,0.94,,,,,,1,Failed: 1/1; Files: 1,FALSE
+open abdomen,Laparotomy,SymptomOrSign,1,0,1,0.92,Laparotomie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+lymphangitic carcinomatosis,Lymphangitis carcinomatosa,Diagnosis,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+Alcohol withdrawal,Alcohol withdrawal syndrome,Diagnosis,1,0,1,0.99,Alkoholentzug,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+atrial fibrillation,Atrial Fibrillation,Diagnosis,1,0,1,1,Vorhofflimmern,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+"acute pulmonary
+ embolism",Acute pulmonary embolism,Diagnosis,0,1,1,0.97,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+ICH,Infectious Canine Hepatitis,Diagnosis,0,1,1,1,,,,,,1,Failed: 1/1; Files: 1,FALSE
+hypoxemic respiratory failure,Hypoxemic Respiratory Failure,Diagnosis,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+pulmonary infiltrates,Pulmonary Infiltrate,SymptomOrSign,0,1,1,0.98,,,,,,1,Failed: 1/1; Files: 1,FALSE
+extrapleural,Extrapleural,BodyStructure,0,1,1,0.91,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+wire stylet,"Stylet, device",TreatmentName,0,1,1,0.98,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+Thumb,Thumb structure,BodyStructure,0,1,1,0.84,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+act enlargement,Enlargement procedure,SymptomOrSign,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+acromioclavicular joints,Acromioclavicular joint structure,BodyStructure,0,1,1,0.98,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+oxygen,Oxygen Therapy Care,TreatmentName,1,0,1,0.98,Sauerstofftherapie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+apices,Highest,BodyStructure,0,1,1,0.96,,,,,,1,Failed: 1/1; Files: 1,FALSE
+tracheal resection,Resection of trachea,TreatmentName,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+diarrhea,Diarrhea,SymptomOrSign,1,0,1,0.99,Diarrhö,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+neutropenic fever,Febrile Neutropenia,Diagnosis,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+CMV,Cytomegalovirus Infections,Diagnosis,1,0,1,1,Zytomegalievirus-Infektion,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+girl,Woman,Gender,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+bony injuries,Bone injury,SymptomOrSign,0,1,1,0.98,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+osteophyte,Osteophyte,SymptomOrSign,0,1,1,0.81,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"mechanical
+ aortic valve",Mechanical Aortic Valve,TreatmentName,0,1,1,0.97,,,,,,1,Failed: 1/1; Files: 1,FALSE
+central venous line,"Central venous catheter, device",TreatmentName,1,0,1,0.95,Zentraler Venenkatheter,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+decreased size,diminution,SymptomOrSign,0,1,1,0.81,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+Calcified lymph nodes,Calcified lymph nodes,SymptomOrSign,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+cholecystectomy,Cholecystectomy procedure,TreatmentName,1,0,1,0.94,Cholezystektomie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+pulmonary venous hypertension,Pulmonary venous hypertension,Diagnosis,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+epigastric region,Epigastrium,BodyStructure,0,1,1,0.98,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+abdominal pain,Abdominal Pain,SymptomOrSign,1,0,1,1,Abdominalschmerzen,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+bright red blood per rectum,Hematochezia,SymptomOrSign,1,0,1,0.99,Hämatochezie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+septic arthritis,"Arthritis, Bacterial",Diagnosis,1,0,1,1,Bakterielle Arthritis,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+esophagectomy procedure,Esophagectomy,TreatmentName,1,0,1,0.8,Ösophagektomie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+atypical pneumonia,Atypical pneumonia,Diagnosis,1,0,1,0.86,Atypische Pneumonie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+mitral valve replacement,Replacement of mitral valve (procedure),TreatmentName,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+wires,Bone Wires,TreatmentName,1,0,1,0.81,Knochendraht,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+splenic enlargement,Splenomegaly,SymptomOrSign,1,0,1,0.99,Splenomegalie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+left upper quadrant,Structure of left upper quadrant of abdomen,BodyStructure,0,1,1,0.95,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"bronchial
+ thermoplasty",Bronchial Thermoplasty,TreatmentName,0,1,1,0.97,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+RLL,Structure of right lower lobe of lung,BodyStructure,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+tachycardia,Tachycardia,SymptomOrSign,1,0,1,0.99,Tachykardie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+Levoscoliosis,Levoscoliosis,Diagnosis,0,1,1,0.98,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+colon cancer,Malignant tumor of colon,Diagnosis,1,0,1,1,Bösartige Neubildung des Kolons,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+chemoradiation,Chemoradiotherapy,TreatmentName,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+coffee-ground emesis,Coffee ground vomiting,SymptomOrSign,1,0,1,1,Kaffeesatzartiges Erbrechen,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+"GI
+ bleeding",Gastrointestinal Hemorrhage,SymptomOrSign,1,0,1,0.99,Gastrointestinale Hämorrhagie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+bilateral pleural effusion,Bilateral pleural effusion,Diagnosis,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+terminates,Study Terminated,SymptomOrSign,0,1,1,0.81,,,,,,1,Failed: 1/1; Files: 1,FALSE
+axillary region,Axilla,BodyStructure,0,1,1,0.95,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+gastro-esophageal junction,Esophagogastric Junction,BodyStructure,0,1,1,0.94,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+gastroesophageal junction,Esophagogastric Junction,BodyStructure,0,1,1,0.98,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+immunocompromised,Immunocompromised Host,Diagnosis,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+seizures,Seizures,SymptomOrSign,1,0,1,0.83,Krampfanfall,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+"evaluate for
+ interval",Evaluation Interval,ExaminationName,0,1,1,0.82,,,,,,1,Failed: 1/1; Files: 1,FALSE
+collapsed,Collapse (finding),SymptomOrSign,1,0,1,0.99,Kollaps,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+normal position,Normal position,SymptomOrSign,0,1,1,0.98,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+cardiac enlargement,Cardiomegaly,SymptomOrSign,1,0,1,0.97,Kardiomegalie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+infectious disorders,Communicable Diseases,Diagnosis,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+fungal,Fungal,Diagnosis,0,1,1,1,,,,,,1,Failed: 1/1; Files: 1,FALSE
+mycobacterial,mycobacterial,Diagnosis,0,1,1,1,,,,,,1,Failed: 1/1; Files: 1,FALSE
+contrast-enhanced chest CT,Contrast enhanced chest CT,ExaminationName,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+PEG tube,Percutaneous endoscopic tube,TreatmentName,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+radiodense,Radiodensity,SymptomOrSign,0,1,1,0.84,,,,,,1,Failed: 1/1; Files: 1,FALSE
+gastric ulcer,Gastric ulcer,Diagnosis,1,0,1,0.99,Magengeschwür,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+"right
+ ventricle",Right ventricular structure,BodyStructure,0,1,1,0.93,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+chest tightness,Chest tightness,SymptomOrSign,1,0,1,1,Engegefühl im Brustkorb,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+THICKENING,Thickened,SymptomOrSign,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+CHEST IMAGING,Chest imaging,ExaminationName,0,1,1,0.97,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+DKA,Diabetic Ketoacidosis,Diagnosis,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+primary sclerosing cholangitis,Primary sclerosing cholangitis,Diagnosis,1,0,1,0.98,Primär sklerosierende Cholangitis,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+Ventricular fibrillation,Ventricular Fibrillation,Diagnosis,1,0,1,1,Kammerflimmern,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+innominate vein,Structure of brachiocephalic vein,BodyStructure,0,1,1,0.97,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+interstitial,interstitial,SymptomOrSign,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+evaluable,Evaluable Disease,Diagnosis,0,1,1,1,,,,,,1,Failed: 1/1; Files: 1,FALSE
+height,Height,ExaminationName,0,1,1,0.88,,,,,,1,Failed: 1/1; Files: 1,FALSE
+brown sputum,Brown sputum,SymptomOrSign,0,1,1,0.96,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+dressing,Dressing of skin or wound,TreatmentName,0,1,1,0.98,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+repositioning,Repositioning (procedure),TreatmentName,0,1,1,0.89,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"chest
+ pain",Chest Pain,SymptomOrSign,1,0,1,1,Thoraxschmerzen,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+ninth rib,Bone structure of ninth rib,BodyStructure,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+neck pain,Neck Pain,SymptomOrSign,1,0,1,1,Nackenschmerzen,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+rhinorrhea,Rhinorrhea,SymptomOrSign,1,0,1,0.99,Nasensekret,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+"bronchial
+ structures",Bronchi,SymptomOrSign,0,1,1,0.89,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+parenchymal consolidations,Parenchymal consolidation,SymptomOrSign,0,1,1,0.96,,,,,,1,Failed: 1/1; Files: 1,FALSE
+consolidated,consolidated,SymptomOrSign,0,1,1,0.96,,,,,,1,Failed: 1/1; Files: 1,FALSE
+Cardiac lymphoma,Cardiac Lymphoma,Diagnosis,0,1,1,1,,,,,,1,Failed: 1/1; Files: 1,FALSE
+chemotherapy,Chemotherapy,TreatmentName,1,0,1,0.99,Chemotherapie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+"physical
+ exam",Physical Examination,ExaminationName,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+basis,Basis - conceptual entity,BodyStructure,0,1,1,0.96,,,,,,1,Failed: 1/1; Files: 1,FALSE
+air-fluid level,x-ray series of small bowel: air fluid levels,SymptomOrSign,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+pulmonary parenchymal infiltrates,Pulmonary parenchymal infiltration,SymptomOrSign,0,1,1,0.97,,,,,,1,Failed: 1/1; Files: 1,FALSE
+6L,6L,TreatmentName,0,1,1,0.98,,,,,,1,Failed: 1/1; Files: 1,FALSE
+polyarthropathy,Polyarthropathy,Diagnosis,1,0,1,1,Polyarthropathie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+pseudogout,Pseudogout,Diagnosis,0,1,1,1,,,,,,1,Failed: 1/1; Files: 1,FALSE
+"Endotracheal
+ tube",Endotracheal tube,TreatmentName,1,0,1,0.99,Endotrachealtubus,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+"pleural
+ fluid",Pleural fluid,SymptomOrSign,0,1,1,0.8,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+intervention,Interventional procedure,TreatmentName,1,0,1,0.91,Prozedur,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+PPM,PLZ4-coated Paclitaxel-loaded Micelle Formulation,TreatmentName,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+vein,Veins,BodyStructure,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+pectoral region,Pectoral region structure,BodyStructure,0,1,1,0.94,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+thoracic outlet,Thoracic outlet,BodyStructure,0,1,1,0.98,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+volumes,Volume,ExaminationName,0,1,1,0.8,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+esophageal tear,Esophageal tear,Diagnosis,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+Aortic aneurysm,Aortic Aneurysm,Diagnosis,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+post,Post,SymptomOrSign,0,1,1,0.81,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+contours,Contour form,SymptomOrSign,0,1,1,0.97,,,,,,1,Failed: 1/1; Files: 1,FALSE
+DOE,Dyspnea on exertion,SymptomOrSign,1,0,1,0.99,Belastungsdyspnoe,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+enlargement of the left ventricle,Left Ventricular Hypertrophy,SymptomOrSign,1,0,1,0.91,Linksventrikuläre Hypertrophie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+HCC,Liver carcinoma,Diagnosis,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+spurs,Spur (body structure),SymptomOrSign,0,1,1,0.98,,,,,,1,Failed: 1/1; Files: 1,FALSE
+heart failure,Heart failure,Diagnosis,1,0,1,1,Herzversagen,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+ventricular arrhythmias,Ventricular arrhythmia,Diagnosis,1,0,1,0.98,Ventrikuläre Arrhythmie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+obstruction,Obstruction,SymptomOrSign,0,1,1,0.85,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"lung
+ biopsy",Biopsy of lung,ExaminationName,1,0,1,0.99,Lungenbiopsie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+non-distended,Abdomen not distended,SymptomOrSign,0,1,1,0.95,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+chin,Chin,BodyStructure,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+flexed,Flexed (finding),SymptomOrSign,0,1,1,0.83,,,,,,1,Failed: 1/1; Files: 1,FALSE
+dorsal vertebra,Bone structure of thoracic vertebra,BodyStructure,0,1,1,0.91,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+osteoporotic,Osteoporosis,Diagnosis,1,0,1,0.99,Osteoporose,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+esophageal squamous cell carcinoma,Squamous cell carcinoma of esophagus,Diagnosis,1,0,1,0.99,Plattenepithelkarzinom des Ösophagus,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+open,Open,TreatmentName,0,1,1,0.97,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+pulmonary embolus,Pulmonary Embolism,Diagnosis,1,0,1,0.92,Lungenembolie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+mediastinal structures,Mediastinum,SymptomOrSign,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+"interval
+ change",12-lead electrocardiogram: interval change,SymptomOrSign,0,1,1,0.94,,,,,,1,Failed: 1/1; Files: 1,FALSE
+RA,Rheumatoid Arthritis,Diagnosis,1,0,1,0.99,Rheumatoide Arthritis,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+Graves disease,Graves Disease,Diagnosis,1,0,1,1,Basedow-Krankheit,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+levothyroxine,levothyroxine,MedicationName,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+TKR,Knee Replacement Arthroplasty,TreatmentName,1,0,1,1,Arthroplastik des Knies,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+acute pulmonary embolism,Acute pulmonary embolism,Diagnosis,0,1,1,0.87,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+arterial,Arteries,TreatmentName,0,1,1,0.89,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+embolization,"Embolization, Therapeutic",TreatmentName,0,1,1,0.95,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+fat deposition,Fatty deposition,SymptomOrSign,0,1,1,0.98,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+central venous lines,"Central venous catheter, device",TreatmentName,1,0,1,0.98,Zentraler Venenkatheter,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+tingling,Has tingling sensation,SymptomOrSign,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+arms,Upper Extremity,BodyStructure,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+legs,Lower Extremity,BodyStructure,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+nerve,Nerve,BodyStructure,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+hypothermia,Hypothermia (central) (local),TreatmentName,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+subclavian vein,Structure of subclavian vein,BodyStructure,0,1,1,0.92,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+afebrile,Apyrexial,SymptomOrSign,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+pulmonary hemorrhage,Pulmonary hemorrhage,Diagnosis,0,1,1,0.93,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+DLBCL,Diffuse Large B-Cell Lymphoma,Diagnosis,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+HD,Huntington Disease,Diagnosis,1,0,1,1,Huntington-Krankheit,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+chemo,Chemotherapy,TreatmentName,1,0,1,0.85,Chemotherapie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+BEAM,carmustine/cytarabine/etoposide/melphalan regimen,TreatmentName,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+"physical
+  exam",Physical Examination,ExaminationName,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+PE,Pulmonary Embolism,Diagnosis,1,0,1,1,Lungenembolie,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+STEMI,ST segment elevation myocardial infarction,Diagnosis,0,1,1,0.9,,,,,,1,Failed: 1/1; Files: 1,FALSE
+breast tissue,Breast tissue sample,BodyStructure,0,1,1,0.8,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+thoracic aortic,Thoracic aorta,BodyStructure,0,1,1,0.96,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+SDH,"Hematoma, Subdural",Diagnosis,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+cholangitis,Cholangitis,Diagnosis,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+azygos lobe,Azygos lobe of lung,Diagnosis,0,1,1,0.85,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+Biliary stent,Insertion of biliary stent,TreatmentName,0,1,1,0.99,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+superior vena cava,Superior vena cava structure,BodyStructure,0,1,1,0.95,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+acute liver failure,"Liver Failure, Acute",Diagnosis,1,0,1,0.94,"Leberversagen, akutes",,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+clearing,Clearing,SymptomOrSign,0,1,1,0.97,,,,,,1,Failed: 1/1; Files: 1,FALSE
+coughing,Coughing,SymptomOrSign,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+HF,Heart failure,Diagnosis,1,0,1,0.8,Herzversagen,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+agitation,Agitation,SymptomOrSign,1,0,1,0.99,Sich agitiert fühlen,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+shoulders,Shoulder,BodyStructure,0,1,1,1,,,,,umls,1,Failed: 1/1; Sources: umls; Files: 1,FALSE
+flattened diaphragms,diaphragm flattened,SymptomOrSign,0,1,1,1,,,,,,1,Failed: 1/1; Files: 1,FALSE
+fibrotic,fibrotic,SymptomOrSign,0,1,1,0.99,,,,,,1,Failed: 1/1; Files: 1,FALSE
+chronic disease,Chronic disease,Diagnosis,1,0,1,1,Chronische Krankheit,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE
+Chronic lung disease,Chronic lung disease,Diagnosis,1,0,1,0.92,Chronische Lungenerkrankung,,,,umls,1,Success: 1/1; Sources: umls; Files: 1,FALSE

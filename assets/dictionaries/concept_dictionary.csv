@@ -1,0 +1,102 @@
+term,categories,failure_count,avg_confidence,translation_de,notes,verified
+CHEST,"BodyStructure, ExaminationName",177,0.95,Thorax,"Failed 177 times, confidence: 0.95",TRUE
+consolidation,SymptomOrSign,163,0.94,Konsolidierung,"Failed 163 times, confidence: 0.94",TRUE
+PA,ExaminationName,128,0.95,Posteroanterior,"Failed 128 times, confidence: 0.95",TRUE
+opacity,SymptomOrSign,96,0.99,Opazität,"Failed 96 times, confidence: 0.99",TRUE
+man,Gender,88,1,Mann,"Failed 88 times, confidence: 1.0",TRUE
+lung,"BodyStructure, SymptomOrSign",88,0.96,Lunge,"Failed 88 times, confidence: 0.96",TRUE
+lateral views,ExaminationName,75,0.93,Lateralansicht,"Failed 75 times, confidence: 0.93",TRUE
+cough,SymptomOrSign,68,0.99,Husten,"Failed 68 times, confidence: 0.99",TRUE
+woman,Gender,62,1,Frau,"Failed 62 times, confidence: 1.0",TRUE
+effusion,"Diagnosis, SymptomOrSign",59,0.95,Erguss,"Failed 59 times, confidence: 0.95",TRUE
+LAT,ExaminationName,58,0.95,lateral ,"Failed 58 times, confidence: 0.95",TRUE
+Chest radiograph,ExaminationName,56,0.98,Röntgenaufnahme der Brust,"Failed 56 times, confidence: 0.98",TRUE
+radiograph,ExaminationName,55,0.97,Röntgenaufnahme,"Failed 55 times, confidence: 0.97",TRUE
+opacities,SymptomOrSign,54,0.99,Opazitäten,"Failed 54 times, confidence: 0.99",TRUE
+lateral,ExaminationName,48,0.94,Lateral,"Failed 48 times, confidence: 0.94",TRUE
+stomach,BodyStructure,46,0.99,Magen,"Failed 46 times, confidence: 0.99",TRUE
+F,Gender,46,0.97,Frau,"Failed 46 times, confidence: 0.97",TRUE
+M,Gender,45,1,Mann,"Failed 45 times, confidence: 1.0",TRUE
+cardiac,"BodyStructure, SymptomOrSign",41,0.98,Kardial,"Failed 41 times, confidence: 0.98",TRUE
+mediastinal,"BodyStructure, SymptomOrSign",41,0.94,mediastinal,"Failed 41 times, confidence: 0.94",TRUE
+lung base,BodyStructure,36,0.97,Lungenbasis,"Failed 36 times, confidence: 0.97",TRUE
+Frontal,ExaminationName,35,0.97,Frontal,"Failed 35 times, confidence: 0.97",TRUE
+CT,"ExaminationName, TreatmentName",33,0.98,CT,"Failed 33 times, confidence: 0.98",TRUE
+infection,"Diagnosis, SymptomOrSign",32,0.97,Infektion,"Failed 32 times, confidence: 0.97",TRUE
+base,BodyStructure,31,0.95,Basis,"Failed 31 times, confidence: 0.95",TRUE
+pleural,BodyStructure,30,0.99,Pleural,"Failed 30 times, confidence: 0.99",TRUE
+carina,BodyStructure,29,0.98,Carina,"Failed 29 times, confidence: 0.98",TRUE
+edema,"ExaminationName, SymptomOrSign",28,0.96,Ödem,"Failed 28 times, confidence: 0.96",TRUE
+aspiration,Diagnosis,28,0.91,Aspiration,"Failed 28 times, confidence: 0.91",TRUE
+lungs,BodyStructure,27,0.96,Lungen,"Failed 27 times, confidence: 0.96",TRUE
+clear,SymptomOrSign,24,1,Klar,"Failed 24 times, confidence: 1.0",TRUE
+nasogastric tube,TreatmentName,23,0.98,Nasensonde,"Failed 23 times, confidence: 0.98",TRUE
+female,Gender,23,1,weiblich,"Failed 23 times, confidence: 1.0",TRUE
+hemidiaphragm,BodyStructure,23,0.96,Hemidiaphragma,"Failed 23 times, confidence: 0.96",TRUE
+mediastinum,"BodyStructure, SymptomOrSign",22,0.91,Mediastinum,"Failed 22 times, confidence: 0.91",TRUE
+examination,ExaminationName,22,0.91,Untersuchung,"Failed 22 times, confidence: 0.91",TRUE
+chest tube,TreatmentName,21,0.99,Thoraxdrainage,"Failed 21 times, confidence: 0.99",TRUE
+male,Gender,21,1,männlich,"Failed 21 times, confidence: 1.0",TRUE
+effusions,"Diagnosis, SymptomOrSign",20,0.96,Ergüsse,"Failed 20 times, confidence: 0.96",TRUE
+heart,"BodyStructure, SymptomOrSign",20,0.95,Herz,"Failed 20 times, confidence: 0.95",TRUE
+hemithorax,BodyStructure,19,0.97,Hemithorax,"Failed 19 times, confidence: 0.97",TRUE
+diaphragm,BodyStructure,19,0.93,Diaphragma,"Failed 19 times, confidence: 0.93",TRUE
+opacification,SymptomOrSign,18,0.99,Trübung,"Failed 18 times, confidence: 0.99",TRUE
+Heart size,SymptomOrSign,18,0.93,Herzgrösse,"Failed 18 times, confidence: 0.93",TRUE
+infiltrate,"ExaminationName, SymptomOrSign",18,0.96,Infiltration,"Failed 18 times, confidence: 0.96",TRUE
+Lung volumes,ExaminationName,18,0.89,Lungenvolumen,"Failed 18 times, confidence: 0.89",TRUE
+PICC,TreatmentName,18,0.99,PICC,"Failed 18 times, confidence: 0.99",TRUE
+thoracic spine,BodyStructure,17,0.99,Brustwirbelsäule,"Failed 17 times, confidence: 0.99",TRUE
+PICC line,TreatmentName,17,0.98,PICC,"Failed 17 times, confidence: 0.98",TRUE
+degenerative changes,SymptomOrSign,16,0.96,Degenerative Veränderungen,"Failed 16 times, confidence: 0.96",TRUE
+radiographs,ExaminationName,16,0.94,Röntgenaufnahme,"Failed 16 times, confidence: 0.94",TRUE
+lung bases,BodyStructure,16,0.99,Lungenbasen,"Failed 16 times, confidence: 0.99",TRUE
+NG tube,TreatmentName,16,0.98,Nasensonde,"Failed 16 times, confidence: 0.98",TRUE
+consolidations,SymptomOrSign,15,0.98,Konsolidierung,"Failed 15 times, confidence: 0.98",TRUE
+blunting,SymptomOrSign,14,0.99,stumpf,"Failed 14 times, confidence: 0.99",TRUE
+pulmonary vascular congestion,SymptomOrSign,14,0.91,Lungenödem,"Failed 14 times, confidence: 0.91",TRUE
+study,ExaminationName,14,0.88,Studie,"Failed 14 times, confidence: 0.88",TRUE
+engorged,SymptomOrSign,13,1,geschwollen,"Failed 13 times, confidence: 1.0",TRUE
+hilar,"BodyStructure, SymptomOrSign",13,0.93,hilär,"Failed 13 times, confidence: 0.93",TRUE
+lower lobe,BodyStructure,13,0.87,Unterlappen,"Failed 13 times, confidence: 0.87",TRUE
+left lower lobe,BodyStructure,13,0.89,Linker Unterlappen,"Failed 13 times, confidence: 0.89",TRUE
+elevation,SymptomOrSign,13,0.99,Erhöhung,"Failed 13 times, confidence: 0.99",TRUE
+enlarged,SymptomOrSign,12,0.98,vergrössert,"Failed 12 times, confidence: 0.98",TRUE
+aeration,SymptomOrSign,12,0.97,Belüftung,"Failed 12 times, confidence: 0.97",TRUE
+internal jugular,BodyStructure,12,0.92,Vena jugularis interna,"Failed 12 times, confidence: 0.92",TRUE
+right atrium,BodyStructure,11,0.89,Rechter Vorhof,"Failed 11 times, confidence: 0.89",TRUE
+Port-A-Cath,TreatmentName,11,0.94,Portkatheter,"Failed 11 times, confidence: 0.94",TRUE
+right lower lobe,BodyStructure,11,0.97,Rechter Unterlappen,"Failed 11 times, confidence: 0.97",TRUE
+chest CT,ExaminationName,11,0.97,Röntgenaufnahme der Brust,"Failed 11 times, confidence: 0.97",TRUE
+hyperinflated,SymptomOrSign,11,0.91,überbläht,"Failed 11 times, confidence: 0.91",TRUE
+neck,BodyStructure,10,0.99,Hals,"Failed 10 times, confidence: 0.99",TRUE
+PA and lateral views,ExaminationName,10,0.93,Posteroanteriore und laterale Aufnahmen,"Failed 10 times, confidence: 0.93",TRUE
+upper lobe,BodyStructure,10,0.91,Oberlappen,"Failed 10 times, confidence: 0.91",TRUE
+interval change,SymptomOrSign,10,0.9,Veränderung,"Failed 10 times, confidence: 0.9",TRUE
+costophrenic angle,BodyStructure,10,0.92,Sinus costodiaphragmaticus,"Failed 10 times, confidence: 0.92",TRUE
+pleural thickening,SymptomOrSign,10,0.98,Pleuraverdickung,"Failed 10 times, confidence: 0.98",TRUE
+tortuosity,SymptomOrSign,10,0.99,Tortuosität,"Failed 10 times, confidence: 0.99",TRUE
+right ventricle,BodyStructure,9,0.91,Rechte Herzkammer,"Failed 9 times, confidence: 0.91",TRUE
+abdomen,BodyStructure,9,1,Abdomen,"Failed 9 times, confidence: 1.0",TRUE
+subclavian,"BodyStructure, TreatmentName",9,0.91,subklavikulär,"Failed 9 times, confidence: 0.91",TRUE
+pleural fluid,SymptomOrSign,9,0.95,Lungenflüssigkeit,"Failed 9 times, confidence: 0.95",TRUE
+median sternotomy,TreatmentName,9,0.99,Median-Sternotomie,"Failed 9 times, confidence: 0.99",TRUE
+chest wall,BodyStructure,9,0.98,Brustwand,"Failed 9 times, confidence: 0.98",TRUE
+basilar,BodyStructure,9,0.85,basilar,"Failed 9 times, confidence: 0.85",TRUE
+thoracic aorta,"BodyStructure, SymptomOrSign",9,0.92,Aorta thoracalis,"Failed 9 times, confidence: 0.92",TRUE
+scarring,SymptomOrSign,9,0.99,Vernarbung,"Failed 9 times, confidence: 0.99",TRUE
+right upper lobe,BodyStructure,9,0.86,Rechter Oberlappen,"Failed 9 times, confidence: 0.86",TRUE
+"pulmonary vascular
+ congestion",SymptomOrSign,9,0.88,pulmonalvaskulär,"Failed 9 times, confidence: 0.88",TRUE
+Chest frontal,ExaminationName,8,0.94,Posteroanterior,"Failed 8 times, confidence: 0.94",TRUE
+catheter,TreatmentName,8,0.99,Katheter,"Failed 8 times, confidence: 0.99",TRUE
+lateral view,ExaminationName,8,0.94,Lateralansicht,"Failed 8 times, confidence: 0.94",TRUE
+CT chest,ExaminationName,8,0.99,Thorax-CT,"Failed 8 times, confidence: 0.99",TRUE
+frontal view,ExaminationName,8,0.97,Frontalsicht,"Failed 8 times, confidence: 0.97",TRUE
+bases,BodyStructure,8,0.95,Basen,"Failed 8 times, confidence: 0.95",TRUE
+line,TreatmentName,7,0.92,Katheter,"Failed 7 times, confidence: 0.92",TRUE
+lung opacities,"ExaminationName, SymptomOrSign",7,0.88,Opazitäten der Lunge,"Failed 7 times, confidence: 0.88",TRUE
+hypoxia,SymptomOrSign,7,0.94,Hypoxie,"Failed 7 times, confidence: 0.94",TRUE
+findings,SymptomOrSign,7,0.89,Befunde,"Failed 7 times, confidence: 0.89",TRUE
+cardiac silhouette,"BodyStructure, SymptomOrSign",7,0.93,Herzsilhouette,"Failed 7 times, confidence: 0.93",TRUE
+tortuous,SymptomOrSign,6,0.98,gewunden,"Failed 6 times, confidence: 0.98",TRUE
